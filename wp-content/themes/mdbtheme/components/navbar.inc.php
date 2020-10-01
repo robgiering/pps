@@ -28,7 +28,50 @@
         <li class="nav-item">
           <a class="nav-link" href="#contact" data-offset="65">Contact</a>
         </li>
-      </ul>
+      </ul><div class="container-fluid saint-petersburg-gradient d-flex align-items-end justify-content-center" id="bg">
+  <!--Intro row-->
+  <div class="row justify-content-around" id="bg-intro-row">
+
+    <!--Images column-->
+    <div class="col-xl-4 d-none d-xl-block">
+
+      <picture>
+        <img src="/wp-content/uploads/2020/10/paula-cutout.png" class="img-fluid z-depth-1 ml-5" id="bg-photo-1">
+      </picture>
+
+    </div>
+    <!--/Images column-->
+
+    <!--CTA column-->
+    <div class="col-xl-7 text-xl-left text-center justify-content-center d-flex align-items-center pt-lg-5">
+      <div>
+        <p class="h1-responsive indigo-text mb-0 pb-0">MATERIAL DESIGN FOR <span class="font-weight-bold">BOOTSTRAP</span>
+        </p>
+
+
+        <p class="h4-responsive dark-grey-text">Lifetime usage. 12 months of premium support and unlimited
+          updates
+        </p>
+
+        <a class="btn btn-indigo white-text rounded ml-0 waves-effect waves-light" id="modalActivate" type="button" data-toggle="modal" data-target="#modalPricing" data-pricing-content="mdb-pro-jq"><i class="far fa-gem mr-2"></i>BUY NOW ($99)
+           
+        </a>
+        <a target="_blank" href="https://mdbootstrap.com/docs/jquery/components/demo/" class="btn btn-outline-indigo rounded waves-effect waves-light"><i class="fas fa-external-link-alt mr-2"></i>QUICK PRO
+          DEMO</a>
+          
+        <hr>
+        <p class="dark-grey-text mb-0"><span class="font-weight-bold">jQuery version</span> [standard
+          Bootstrap]
+        </p>
+        <p class="grey-text" id="technology-links">
+          <small>Change version to: <a class="text-danger" href="/pricing/angular/pro/">Angular</a> | <a class="text-info" href="/pricing/react/pro/">React</a> | <a class="green-text" href="/pricing/vue/pro/">Vue</a></small></p>
+      </div>
+    </div>
+    <!--/CTA column-->
+
+  </div>
+  <!--/Intro row-->
+</div>
       <!-- Social Icon  -->
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
