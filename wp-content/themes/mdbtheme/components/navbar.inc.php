@@ -43,7 +43,6 @@
       </ul>
     </div>
   </div>
-  </div>
 </nav>
 
 </header>
@@ -78,4 +77,5 @@
   <!--Section: Content-->
 
 
+</div>
 </div>
