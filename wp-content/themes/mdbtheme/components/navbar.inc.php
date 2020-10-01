@@ -63,11 +63,13 @@
       <div class="col-md-5 d-flex align-items-center">
         <div>
           
-          <h3 class="font-weight-bold mb-4">Material Design Blocks</h3>
+          <h3 class="font-weight-bold mb-4">Looking for a Pet Sitter in Midland, Michigan?</h3>
 
-        	<p>Lorem ipsum dolor sit amet consectetur adip elit. Maiores deleniti explicabo voluptatem quisquam nulla asperiores aspernatur aperiam voluptate et consectetur minima delectus, fugiat eum soluta blanditiis adipisci, velit dolore magnam.</p>
+          <p>Phone Number: (989) 513-7937<br>
+          Email Address: PaulasPetSittingInMidlandMi@gmail.com<br>
+          Yes, we are bonded and insured!</p>
 
-        	<button type="button" class="btn btn-orange btn-rounded mx-0">Download</button>
+        	<button type="button" class="btn btn-orange btn-rounded mx-0">Contact Us</button>
 
         </div>
       </div>
