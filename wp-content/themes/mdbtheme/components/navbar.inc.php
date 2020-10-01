@@ -46,13 +46,55 @@
 </nav>
 
 <!-- Intro Section -->
-<div class="streak streak-photo streak-md" style="background-image:url('https://paulaspetsitting.com/wp-content/uploads/2016/10/Bella-1024x768-1100x450.png')">
-      <div class="flex-center mask rgba-gradient">
-        <div class="text-center white-text">
-          <h3 class="h3-responsive mb-2">Looking for a Pet Sitter in Midland, Michigan?</h3>
-          <h4 class="h4-responsive mb-2">We know you want the perfect, safest, and sweetest care for your furry friend.</h4>
-        </div>
+<div class="container-fluid saint-petersburg-gradient d-flex align-items-end justify-content-center" id="bg">
+  <!--Intro row-->
+  <div class="row justify-content-around" id="bg-intro-row">
+
+    <!--Images column-->
+    <div class="col-xl-4 d-none d-xl-block">
+
+      <picture>
+        <source srcset="https://mdbootstrap.com/img/Marketing/products/background-intro/jquery/pro/2.webp" type="image/jpg">
+        <img src="https://mdbootstrap.com/img/Marketing/products/background-intro/jquery/pro/2.png" class="img-fluid z-depth-1 ml-5" id="bg-photo-1">
+      </picture>
+
+      <picture>
+        <source srcset="https://mdbootstrap.com/img/Marketing/products/background-intro/jquery/pro/1.webp" type="image/jpg">
+        <img src="https://mdbootstrap.com/img/Marketing/products/background-intro/jquery/pro/1.png" class="img-fluid z-depth-1" id="bg-photo-2">
+      </picture>
+
+    </div>
+    <!--/Images column-->
+
+    <!--CTA column-->
+    <div class="col-xl-7 text-xl-left text-center justify-content-center d-flex align-items-center pt-lg-5">
+      <div>
+        <p class="h1-responsive indigo-text mb-0 pb-0">MATERIAL DESIGN FOR <span class="font-weight-bold">BOOTSTRAP</span>
+        </p>
+
+
+        <p class="h4-responsive dark-grey-text">Lifetime usage. 12 months of premium support and unlimited
+          updates
+        </p>
+
+        <a class="btn btn-indigo white-text rounded ml-0 waves-effect waves-light" id="modalActivate" type="button" data-toggle="modal" data-target="#modalPricing" data-pricing-content="mdb-pro-jq"><i class="far fa-gem mr-2"></i>BUY NOW ($99)
+           
+        </a>
+        <a target="_blank" href="https://mdbootstrap.com/docs/jquery/components/demo/" class="btn btn-outline-indigo rounded waves-effect waves-light"><i class="fas fa-external-link-alt mr-2"></i>QUICK PRO
+          DEMO</a>
+          
+        <hr>
+        <p class="dark-grey-text mb-0"><span class="font-weight-bold">jQuery version</span> [standard
+          Bootstrap]
+        </p>
+        <p class="grey-text" id="technology-links">
+          <small>Change version to: <a class="text-danger" href="/pricing/angular/pro/">Angular</a> | <a class="text-info" href="/pricing/react/pro/">React</a> | <a class="green-text" href="/pricing/vue/pro/">Vue</a></small></p>
       </div>
     </div>
+    <!--/CTA column-->
+
+  </div>
+  <!--/Intro row-->
+</div>
 
 </header>
