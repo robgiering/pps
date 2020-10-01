@@ -46,43 +46,35 @@
 </nav>
 
 </header>
-<div class="row justify-content-around" id="bg-intro-row">
-
-    <!--Images column-->
-    <div class="col-xl-4 d-none d-xl-block">
-
-      <picture>
-        <img src="/wp-content/uploads/2020/10/paula-cutout-1.png" class="img-fluid ml-5" id="bg-photo-1">
-      </picture>
-
-    </div>
-    <!--/Images column-->
-
-    <!--CTA column-->
-    <div class="col-xl-7 text-xl-left text-center justify-content-center d-flex align-items-center pt-lg-5">
-      <div>
-        <p class="h1-responsive indigo-text mb-0 pb-0">MATERIAL DESIGN FOR <span class="font-weight-bold">BOOTSTRAP</span>
-        </p>
+<div class="container my-5 z-depth-1">
 
 
-        <p class="h4-responsive dark-grey-text">Lifetime usage. 12 months of premium support and unlimited
-          updates
-        </p>
+  <!--Section: Content-->
+  <section class="dark-grey-text">
 
-        <a class="btn btn-indigo white-text rounded ml-0 waves-effect waves-light" id="modalActivate" type="button" data-toggle="modal" data-target="#modalPricing" data-pricing-content="mdb-pro-jq"><i class="far fa-gem mr-2"></i>BUY NOW ($99)
-           
-        </a>
-        <a target="_blank" href="https://mdbootstrap.com/docs/jquery/components/demo/" class="btn btn-outline-indigo rounded waves-effect waves-light"><i class="fas fa-external-link-alt mr-2"></i>QUICK PRO
-          DEMO</a>
+    <div class="row pr-lg-5">
+      <div class="col-md-7 mb-4">
+
+        <div class="view">
+          <img src="/wp-content/uploads/2020/10/paula-cutout-1.png" class="img-fluid" alt="smaple image">
+        </div>
+
+      </div>
+      <div class="col-md-5 d-flex align-items-center">
+        <div>
           
-        <hr>
-        <p class="dark-grey-text mb-0"><span class="font-weight-bold">jQuery version</span> [standard
-          Bootstrap]
-        </p>
-        <p class="grey-text" id="technology-links">
-          <small>Change version to: <a class="text-danger" href="/pricing/angular/pro/">Angular</a> | <a class="text-info" href="/pricing/react/pro/">React</a> | <a class="green-text" href="/pricing/vue/pro/">Vue</a></small></p>
+          <h3 class="font-weight-bold mb-4">Material Design Blocks</h3>
+
+        	<p>Lorem ipsum dolor sit amet consectetur adip elit. Maiores deleniti explicabo voluptatem quisquam nulla asperiores aspernatur aperiam voluptate et consectetur minima delectus, fugiat eum soluta blanditiis adipisci, velit dolore magnam.</p>
+
+        	<button type="button" class="btn btn-orange btn-rounded mx-0">Download</button>
+
+        </div>
       </div>
     </div>
-    <!--/CTA column-->
 
-  </div>
+  </section>
+  <!--Section: Content-->
+
+
+</div>
