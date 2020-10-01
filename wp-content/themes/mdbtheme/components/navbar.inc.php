@@ -46,18 +46,19 @@
 </nav>
 
 </header>
-<div class="container-fluid saint-petersburg-gradient d-flex align-items-end justify-content-center" id="bg">
-  <!--Intro row-->
-  <div class="row justify-content-around" id="bg-intro-row">
+<div class="row justify-content-around" id="bg-intro-row">
 
     <!--Images column-->
     <div class="col-xl-4 d-none d-xl-block">
 
       <picture>
+        <source srcset="https://mdbootstrap.com/img/Marketing/products/background-intro/jquery/pro/2.webp" type="image/jpg">
         <img src="/wp-content/uploads/2020/10/paula-cutout.png" class="img-fluid z-depth-1 ml-5" id="bg-photo-1">
       </picture>
 
-      <picture>
+    </div>
+    <!--/Images column-->
+
     <!--CTA column-->
     <div class="col-xl-7 text-xl-left text-center justify-content-center d-flex align-items-center pt-lg-5">
       <div>
@@ -86,6 +87,3 @@
     <!--/CTA column-->
 
   </div>
-  <!--/Intro row-->
-</div>
-</div>
