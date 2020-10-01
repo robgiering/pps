@@ -46,7 +46,7 @@
 </nav>
 
 </header>
-<div class="container my-5 z-depth-1">
+<div class="container-fluid my-5">
 
 
   <!--Section: Content-->
