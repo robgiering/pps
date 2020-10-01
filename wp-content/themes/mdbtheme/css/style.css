@@ -66,6 +66,7 @@ body {
 }
 
 #bg-intro-row {
+    padding-top: 12vh;
     padding-bottom: 12vh;
     padding-right: 10vw;
     padding-left: 10vw;

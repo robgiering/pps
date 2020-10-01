@@ -52,7 +52,7 @@
     <div class="col-xl-4 d-none d-xl-block">
 
       <picture>
-        <img src="/wp-content/uploads/2020/10/paula-cutout.png" class="img-fluid ml-5" id="bg-photo-1">
+        <img src="/wp-content/uploads/2020/10/paula-cutout-1.png" class="img-fluid ml-5" id="bg-photo-1">
       </picture>
 
     </div>
