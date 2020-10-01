@@ -56,7 +56,7 @@
       <div class="col-md-7 mb-4">
 
         <div class="view">
-          <img src="/wp-content/uploads/2020/10/paula-cutout-1.png" class="img-fluid" alt="smaple image">
+          <img src="/wp-content/uploads/2020/10/paula-cutout-2.png" class="img-fluid" alt="smaple image">
         </div>
 
       </div>
