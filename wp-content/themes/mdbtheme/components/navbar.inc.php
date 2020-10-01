@@ -52,8 +52,7 @@
     <div class="col-xl-4 d-none d-xl-block">
 
       <picture>
-        <source srcset="https://mdbootstrap.com/img/Marketing/products/background-intro/jquery/pro/2.webp" type="image/jpg">
-        <img src="/wp-content/uploads/2020/10/paula-cutout.png" class="img-fluid z-depth-1 ml-5" id="bg-photo-1">
+        <img src="/wp-content/uploads/2020/10/paula-cutout.png" class="img-fluid ml-5" id="bg-photo-1">
       </picture>
 
     </div>
