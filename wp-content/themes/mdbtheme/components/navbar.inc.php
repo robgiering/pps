@@ -39,9 +39,7 @@
         <img src="/wp-content/uploads/2020/10/paula-cutout.png" class="img-fluid z-depth-1 ml-5" id="bg-photo-1">
       </picture>
 
-    </div>
-    <!--/Images column-->
-
+      <picture>
     <!--CTA column-->
     <div class="col-xl-7 text-xl-left text-center justify-content-center d-flex align-items-center pt-lg-5">
       <div>
