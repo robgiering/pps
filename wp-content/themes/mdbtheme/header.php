@@ -12,4 +12,4 @@
     </title>
     <?php wp_head(); ?>
 </head>
-<body class="allamerican-lp" data-spy="scroll" data-target="#navbar-example" data-offset="85">
+<body data-spy="scroll" data-target="#navbar-example" data-offset="85">

@@ -34,49 +34,6 @@ body {
 .md-pills .nav-link.active {
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1), 0 2px 10px 0 rgba(0, 0, 0, 0.09);
 }
-
-
-
-.allamerican-lp .view {
-    background-image: url("/wp-content/uploads/2020/06/masthead-image.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center; }
-    .allamerican-lp .view .btn.blue-gradient {
-      padding-left: 2.15rem; }
-  
-  .allamerican-lp .navbar {
-    background-color: #fff;
-    font-family: 'Merriweather', serif;
-    font-size: 16px;
-    font-weight: 700;
-    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
-    .allamerican-lp .navbar:not(.top-nav-collapse) {
-      background: #fff; }
-  
-  .allamerican-lp .page-footer {
-    background-color: #23242a; }
-    .allamerican-lp .page-footer ::-webkit-input-placeholder {
-      color: #fff; }
-    .allamerican-lp .page-footer ::-moz-placeholder {
-      color: #fff; }
-    .allamerican-lp .page-footer :-ms-input-placeholder {
-      color: #fff; }
-    .allamerican-lp .page-footer ::-ms-input-placeholder {
-      color: #fff; }
-    .allamerican-lp .page-footer ::placeholder {
-      color: #fff; }
-  
-  .allamerican-lp .md-pills .nav-item .nav-link {
-    color: #000;
-    background-color: #fff; }
-    .allamerican-lp .md-pills .nav-item .nav-link:hover {
-      background-color: transparent;
-      color: #a2a2a2; }
-    .allamerican-lp .md-pills .nav-item .nav-link.active {
-      box-shadow: none;
-      color:red;
-      background-color: transparent; }
       .img-fluid, .modal-dialog.cascading-modal.modal-avatar .modal-header, .video-fluid { width: 100%; height: auto; }
       body {
         position: relative;
