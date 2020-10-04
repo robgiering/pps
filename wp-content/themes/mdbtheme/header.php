@@ -7,16 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
-    <script type="text/javascript">
-    // Animation
-    new WOW().init();
-
-    // MDB Lightbox Init
-    $(function () {
-      $("#mdb-lightbox-ui").load("../../mdb-addons/mdb-lightbox-ui.html");
-    });
-
-  </script>
     <title>
         <?php bloginfo( 'name'); ?>
     </title>

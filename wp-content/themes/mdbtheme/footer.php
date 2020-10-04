@@ -91,6 +91,8 @@
 // MDB Lightbox Init
 $(function () {
 $("#mdb-lightbox-ui").load("wp-content/themes/mdbtheme/mdb-addons/mdb-lightbox-ui.html");
+new WOW().init();
 });
+  </script>
 </script>
 </html>
