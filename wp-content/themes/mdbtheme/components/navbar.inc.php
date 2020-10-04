@@ -2,7 +2,7 @@
 <header>
 
 <!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar-example">
+<nav class="navbar navbar-light fixed-top" id="navbar-example">
   <div class="container">
   <a class="navbar-brand pt-0 waves-effect" href="">
             <img src="/wp-content/uploads/2020/09/logo-2.png" height="50" alt="All-American Landscaping Logo">
