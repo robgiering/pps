@@ -46,38 +46,8 @@
 </nav>
 
 </header>
-<div class="container-fluid my-5">
-
-
-  <!--Section: Content-->
-  <section class="dark-grey-text">
-
-    <div class="row pr-lg-5">
-      <div class="col-md-7 mb-4">
-
-        <div class="view">
-          <img src="/wp-content/uploads/2020/10/paula-cutout-2.png" class="img-fluid" alt="smaple image">
-        </div>
-
+<section>
+      <div class="">
+        <img src="/wp-content/uploads/2020/10/paula-park-e1601762058686.jpg" style="width: 100%">
       </div>
-      <div class="col-md-5 d-flex align-items-center">
-        <div>
-          
-          <h3 class="font-weight-bold mb-4">Looking for a Pet Sitter in Midland, Michigan?</h3>
-
-          <p>Phone Number: (989) 513-7937<br>
-          Email Address: PaulasPetSittingInMidlandMi@gmail.com<br>
-          Yes, we are bonded and insured!</p>
-
-        	<button type="button" class="btn btn-orange btn-rounded mx-0">Contact Us</button>
-
-        </div>
-      </div>
-    </div>
-
-  </section>
-  <!--Section: Content-->
-
-
-</div>
-</div>
+</section>
