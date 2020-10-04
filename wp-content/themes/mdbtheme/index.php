@@ -1,280 +1,965 @@
 <?php get_header(); require_once('components/navbar.inc.php'); ?>
+<!-- Main Layout -->
 <main>
-    <div class="container">
-        <section id="about" class="mb-3 mt-5 pt-4 pb-3">
-            <h3 class="text-center text-uppercase font-weight-bold mb-5 mt-4">
-                Count on All-American for your landscaping needs</h3>
-            <p class="text-center dark-grey-text my-5 w-responsive mx-auto">
-                Located in Midland, MI. Our talented landscape designers have the
-                capability to service properties all over the Tri-City area, both
-                large and small, and everything in between.</p>
-            <div class="row text-center">
-                <div class="col-md-4 mb-1 mt-1">
-                    <i class="fas fa-clipboard-check red-text-2 fa-4x mb-4"></i>
-                    <h5 class="font-weight-bold mb-4">Free Estimates</h5>
-                    <p class="dark-grey-text">
-                        All-American provide free estimates on all job inquiries.
-                        If you are wondering how much our lawn care services will cost,
-                        we encourage you to get in touch with us as soon as possible.</p>
-                </div>
-                <div class="col-md-4 mb-1 mt-1">
-                    <i class="fas fa-calendar-day red-text-2 fa-4x mb-4"></i>
-                    <h5 class="font-weight-bold mb-4">Convenient Scheduling
-                    </h5>
-                    <p class="dark-grey-text">
-                        We recognize you may have a busy schedule, which is why we
-                        strive to make scheduling appointments with our grounds
-                        team as stress-free as possible. It’s our goal to offer
-                        reliable lawn care solutions you can truly depend on.</p>
-                </div>
-                <div class="col-md-4 mb-1 mt-1">
-                    <i class="fas fa-users red-text-2 fa-4x mb-4"></i>
-                    <h5 class="font-weight-bold mb-4">Customer Focused</h5>
-                    <p class="dark-grey-text">
-                        We are fully dedicated to offering efficient,
-                        reliable solutions that are budget-conscious. We will not
-                        cut corners to get the job done, and we will not gouge you
-                        for what you don’t need.</p>
-                </div>
-            </div>
-        </section>
-        <hr class="mt-5 pb-4">
-        <section class="mt-5" id="services">
-            <div class="row mt-5 pt-5">
-                <div class="col-lg-3 col-md-6">
-                    <h4 class="font-weight-bold mb-4">
-                        <strong class="red-text-2 font-weight-bold"></strong>Check out our services</h4>
-                    <p align="" class="dark-grey-text">
-                        We realize the importance of an attractive, well-maintained
-                        home. We take into consideration all aspects of the job
-                        like maintenance, color preferences, and the overall look
-                        of the design in contrast with your home. Knowing that
-                        landscape design is a investment in your home, our team
-                        is also available for maintenance services, like spring
-                        and fall cleanups, mowing, mulching, snow removal, and more.</p>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <img src="/wp-content/uploads/2020/06/IMG_0927_full.jpg" class="img-fluid z-depth-1 rounded"
-                        alt="sample image">
-                    <h5 class="font-weight-bold dark-grey-text mt-4">Landscape Maintenance</h5>
-                    <p class="justify font-small dark-grey-text">
-                        Everyone wants to have a well-maintained, healthy yard,
-                        but the constant mowing, trimming, and planting
-                        it takes to achieve those goals aren’t as appealing.
-                        Let our team of experts take care of your lawn, so you can
-                        spend your time on what really matters to you.
-                    </p>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <img src="/wp-content/uploads/2020/06/IMG_1182_full.jpg" class="img-fluid z-depth-1 rounded"
-                        alt="sample image">
-                    <h5 class="font-weight-bold dark-grey-text mt-4 mb-3">Mulching</h5>
-                    <p class="justify font-small dark-grey-text">
-                        A layer of mulch adds a professional touch to your landscape and
-                        will enhance the appearance of your property.
-                        Mulch also reduces landscape maintenance by preventing weed growth and
-                        improves plant health by retaining moisture.
-                    </p>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <img src="/wp-content/uploads/2020/06/IMG_0749_full.jpg" class="img-fluid z-depth-1 rounded"
-                        alt="sample image">
-                    <h5 class="font-weight-bold dark-grey-text mt-4 mb-3">Cleanups</h5>
-                    <p class="justify font-small dark-grey-text">
-                        Yard cleanup doesn't just improve your curb appeal;
-                        it’s also vital in keeping your lawn and landscapes healthy
-                        by removing debris that could cause disease or give rodents a
-                        place to hide.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-9 col-md-12 pl-0 ml-auto">
-                <!--Accordion wrapper-->
-                <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
 
-                    <!-- Accordion card -->
-                    <div class="card">
+<div class="container-fluid mt-md-0 mt-5 mb-5">
 
-                        <!-- Card header -->
-                        <div class="card-header px-0 pt-0" role="tab" id="headingOne1">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1"
-                                aria-expanded="false" aria-controls="collapseOne1">
-                                <h5 class="mb-0">
-                                    Much more <i class="fas fa-angle-down rotate-icon"></i>
-                                </h5>
-                            </a>
+  <!-- Grid row -->
+  <div class="row" style="margin-top: -100px;">
+
+    <!-- Grid column -->
+    <div class="col-md-12 px-lg-5">
+      <!-- Card -->
+      <div class="card pb-5 mx-md-3">
+        <div class="card-body">
+
+          <div class="container">
+          <section class="px-5 mt-5">
+
+<!--Section heading-->
+<p class="text-center pb-5 h5">WHY DEVELOPERS <span class="text-primary font-weight-bold">CHOOSE</span>
+  MDB?
+</p>
+
+<!--First row-->
+<div class="row">
+
+  <!--Grid column-->
+  <div class="col-md-4">
+    <!--Grid row-->
+    <div class="row">
+      <div class="col-2">
+        <i class="fas fa-users fa-2x mb-1 text-primary" aria-hidden="true"></i>
+      </div>
+      <div class="col-10 mb-2">
+        <p class="font-weight-bold font-weight-bold mb-1">Active community</p>
+        <p class="grey-text mt-2">Millions of professional developers - MDB is a web design standard
+          thanks
+          to them. We help &amp; inspire each other every day.
+        </p>
+      </div>
+    </div>
+    <!--/Grid row-->
+  </div>
+  <!--/Grid column-->
+
+  <!--Grid column-->
+  <div class="col-md-4">
+    <!--Grid row-->
+    <div class="row">
+      <div class="col-2">
+        <i class="fas fa-book fa-2x mb-1 text-primary" aria-hidden="true"></i>
+      </div>
+      <div class="col-10 mb-2">
+        <p class="font-weight-bold font-weight-bold mb-1">Tutorials</p>
+        <p class="grey-text mt-2">
+          Detailed tutorials, created with a step-by-step approach will help you with integrations, web
+          design &amp; best practices.
+        </p>
+      </div>
+    </div>
+    <!--/Grid row-->
+  </div>
+  <!--/Grid column-->
+
+  <!--Grid column-->
+  <div class="col-md-4">
+    <!--Grid row-->
+    <div class="row">
+      <div class="col-2">
+        <i class="fab fa-google fa-2x mb-1 text-primary" aria-hidden="true"></i>
+      </div>
+      <div class="col-10 mb-2">
+        <p class="font-weight-bold font-weight-bold mb-1">Material Design</p>
+        <p class="grey-text mt-2">
+          State-of-the-art design focused on intuitivness &amp; user experiance. Google-friendly looks based
+          on
+          official material guidelines.
+        </p>
+      </div>
+    </div>
+    <!--/Grid row-->
+  </div>
+  <!--/Grid column-->
+
+
+
+</div>
+<!--/First row-->
+
+<!--Second row-->
+<div class="row mt-5">
+
+  <!--Grid column-->
+  <div class="col-md-4">
+    <!--Grid row-->
+    <div class="row">
+      <div class="col-2">
+        <i class="fas fa-download fa-2x mb-1 text-primary" aria-hidden="true"></i>
+      </div>
+      <div class="col-10 mb-2">
+        <p class="font-weight-bold font-weight-bold mb-1">Easy installation</p>
+        <p class="grey-text mt-2">
+          3 minutes, a few clicks and... done. You will be surprised at how easy it is. You will start
+          creating in no-time!</p>
+      </div>
+    </div>
+    <!--/Grid row-->
+  </div>
+  <!--/Grid column-->
+
+  <!--Grid column-->
+  <div class="col-md-4">
+    <!--Grid row-->
+    <div class="row">
+      <div class="col-2">
+        <i class="fas fa-palette fa-2x mb-1 text-primary" aria-hidden="true"></i>
+      </div>
+      <div class="col-10 mb-2">
+        <p class="font-weight-bold font-weight-bold mb-1">Modern look</p>
+        <p class="grey-text mt-2">
+          Components crafted with care. Templates, sections, colors, fonts and other UI elements composed
+          by
+          professional designers.
+        </p>
+      </div>
+    </div>
+    <!--/Grid row-->
+  </div>
+  <!--/Grid column-->
+
+  <!--Grid column-->
+  <div class="col-md-4">
+    <!--Grid row-->
+    <div class="row">
+      <div class="col-2">
+        <i class="fas fa-mobile-alt fa-2x mb-1 text-primary" aria-hidden="true"></i>
+      </div>
+      <div class="col-10 mb-2">
+        <p class="font-weight-bold font-weight-bold mb-1">Fully responsive</p>
+        <p class="grey-text mt-2">
+          Mobile-friendly, desktop-friendly.. basically everything-friendly. MDB looks great on tablets,
+          phones, laptops &amp; huge screens.
+        </p>
+      </div>
+    </div>
+    <!--/Grid row-->
+  </div>
+  <!--/Grid column-->
+
+</div>
+<!--/Second row-->
+
+
+
+</section>
+            <!-- Section heading -->
+            <h1 class="text-center h1 pt-4 mb-3">
+              <strong>Title of the post</strong>
+            </h1>
+
+            <div class="row">
+              <div class="col-md-12 col-xl-12 d-flex justify-content-center">
+                <p class="font-small dark-grey-text mb-1">
+                  <strong>Author:</strong> Jimmy Brown</p>
+                <p class="font-small grey-text mb-0 ml-3">
+                  <i class="far fa-clock-o dark-grey-text"></i> 15/09/2017 at 4:03 pm</p>
+              </div>
+            </div>
+
+            <!-- Grid row -->
+            <div class="row pt-lg-5 pt-3">
+
+              <!-- Grid column -->
+              <div class="col-md-12 col-xl-12">
+                <form>
+
+                  <!-- Grid row -->
+                  <div class="row mt-3">
+
+                    <p class="dark-grey-text article">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                      do eiusmod tempor
+                      incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                      consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+                      esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+                      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+                      id est laborum.</p>
+
+                    <h4 class="font-weight-bold mt-3 mb-4">
+                      <strong>Lorem ipsum dolor sit amet</strong>
+                    </h4>
+
+                    <p class="dark-grey-text article">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                      accusantium
+                      doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+                      veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo
+                      enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+                      sed quia consequuntur magni dolores eos qui ratione voluptatem sequi
+                      nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit
+                      amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
+                      incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
+
+                    <blockquote class="blockquote">
+                      <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere
+                        erat a ante.</p>
+                      <footer class="blockquote-footer">Someone famous in
+                        <cite title="Source Title">Source Title</cite>
+                      </footer>
+                    </blockquote>
+
+                    <p class="dark-grey-text article"> Ut enim ad minima veniam, quis nostrum exercitationem ullam
+                      corporis suscipit
+                      laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel
+                      eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
+                      consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+
+                  </div>
+                  <!-- Grid row -->
+
+                  <!-- Grid row -->
+                  <div class="row mt-3 mb-4">
+
+                    <!-- Grid column -->
+                    <div class="col-md-4 mb-2">
+                      <div class="view zoom z-depth-1">
+                        <img src="https://mdbootstrap.com/img/Photos/Others/img (28).jpg"
+                          class="img-fluid rounded-0" alt="sample-image">
+                        <div class="mask flex-center">
+
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-4 mb-2">
+                      <div class="view zoom z-depth-1">
+                        <img src="https://mdbootstrap.com/img/Photos/Others/img (41).jpg"
+                          class="img-fluid rounded-0 z-depth-1" alt="sample-image">
+                        <div class="mask flex-center">
+
+                        </div>
+                      </div>
+
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-4">
+                      <div class="view zoom z-depth-1">
+                        <img src="https://mdbootstrap.com/img/Photos/Others/images/13.jpg"
+                          class="img-fluid rounded-0 z-depth-1" alt="sample-image">
+                        <div class="mask flex-center">
+
+                        </div>
+                      </div>
+
+                    </div>
+                    <!-- Grid column -->
+
+                  </div>
+                  <!-- Grid row -->
+
+                  <!-- Grid row -->
+                  <div class="row mb-2 mt-4">
+                    <p class="dark-grey-text article">Perspiciatis unde omnis iste natus error sit voluptatem
+                      accusantium doloremque
+                      laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
+                      et quasi architecto beatae vitae dicta sunt explicabo. Ut enim ad minima
+                      veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+                      nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit
+                      qui in ea voluptate velit esse quam nihil molestiae consequatur, vel
+                      illum qui dolorem eum fugiat quo voluptas nulla.</p>
+
+                    <li class="dark-grey-text article list-unstyled">
+                      <strong>Nulla volutpat aliquam velit:</strong>
+                      <ul>
+                        <li>Phasellus iaculis neque</li>
+                        <li>Purus sodales ultricies</li>
+                        <li>Vestibulum laoreet porttitor sem</li>
+                        <li>Ac tristique libero volutpat at</li>
+                        <li>Vestibulum laoreet porttitor sem</li>
+                      </ul>
+                    </li>
+
+                    <!-- Grid column -->
+                    <div class="col-md-12 my-4">
+                      <img src="https://mdbootstrap.com/img/Photos/Others/city10.jpg"
+                        class="img-fluid z-depth-1 rounded-0" alt="sample image">
+                    </div>
+                    <!-- Grid column -->
+
+                    <p class="dark-grey-text article">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                      accusantium
+                      doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+                      veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo
+                      enim ipsam voluptatem quia voluptas sit aspernatur ut perspiciatis unde
+                      omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+                      totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+                      architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
+                      quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+                      magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
+                      quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci
+                      velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
+                      magnam aliquam quaerat voluptatem.
+                  </div>
+                  <!-- Grid row -->
+
+                  <!-- Grid row -->
+                  <div class="row my-5">
+
+                    <!-- Grid column -->
+                    <div class="col-md-12 text-center">
+
+                      <h4 class="text-center font-weight-bold dark-grey-text mt-3 mb-3">
+                        <strong>Share this post: </strong>
+                      </h4>
+
+                      <button type="button" class="btn btn-fb btn-sm">
+                        <i class="fab fa-facebook-f left"></i> Facebook</button>
+                      <!-- Twitter -->
+                      <button type="button" class="btn btn-tw btn-sm">
+                        <i class="fab fa-twitter left"></i> Twitter</button>
+                      <!-- Google + -->
+                      <button type="button" class="btn btn-gplus btn-sm">
+                        <i class="fab fa-google-plus-g left"></i> Google +</button>
+
+                    </div>
+                    <!-- Grid column -->
+
+                  </div>
+                  <!-- Grid row -->
+
+                  <hr class="mt-5">
+
+                  <!-- Comments -->
+                  <section>
+
+                    <!-- Main wrapper -->
+                    <div class="comments-list text-center text-md-left">
+                      <div class="text-center my-5">
+                        <h3 class="font-weight-bold">Comments
+                          <span class="badge indigo">3</span>
+                        </h3>
+                      </div>
+                      <!-- First row -->
+                      <div class="row mb-5">
+                        <!-- Image column -->
+                        <div class="col-sm-2 col-12 mb-3">
+                          <img src="https://mdbootstrap.com/img/Photos/Avatars/img (8).jpg"
+                            class="avatar rounded-circle z-depth-1-half" alt="sample image">
+                        </div>
+                        <!-- Image column -->
+
+                        <!-- Content column -->
+                        <div class="col-sm-10 col-12">
+                          <a>
+                            <h5 class="user-name font-weight-bold">John Doe</h5>
+                          </a>
+                          <div class="card-data">
+                            <ul class="list-unstyled">
+                              <li class="comment-date font-small">
+                                <i class="far fa-clock-o"></i> 05/10/2015</li>
+                            </ul>
+                          </div>
+                          <p class="dark-grey-text article">Ut enim ad minim veniam, quis nostrud exercitation
+                            ullamco laboris nisi ut aliquip ex
+                            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                          </p>
+                        </div>
+                        <!-- Content column -->
+                      </div>
+                      <!-- First row -->
+
+                      <!-- Second row -->
+                      <div class="row mb-5">
+                        <!-- Image column -->
+                        <div class="col-sm-2 col-12 mb-3">
+                          <img src="https://mdbootstrap.com/img/Photos/Avatars/img (30).jpg"
+                            class="avatar rounded-circle z-depth-1-half" alt="sample image">
+                        </div>
+                        <!-- Image column -->
+
+                        <!-- Content column -->
+                        <div class="col-sm-10 col-12 mb-3">
+                          <a>
+                            <h5 class="user-name font-weight-bold">Lily Brown</h5>
+                          </a>
+                          <div class="card-data">
+                            <ul class="list-unstyled">
+                              <li class="comment-date font-small">
+                                <i class="far fa-clock-o"></i> 05/10/2015</li>
+                            </ul>
+                          </div>
+                          <p class="dark-grey-text article">Ut enim ad minim veniam, quis nostrud exercitation
+                            ullamco laboris nisi ut aliquip ex
+                            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                          </p>
+                        </div>
+                        <!-- Content column -->
+                      </div>
+                      <!-- Second row -->
+
+                      <!-- Third row -->
+                      <div class="row mb-5">
+                        <!-- Image column -->
+                        <div class="col-sm-2 col-12 mb-3">
+                          <img src="https://mdbootstrap.com/img/Photos/Avatars/img (28).jpg"
+                            class="avatar rounded-circle z-depth-1-half" alt="sample image">
+                        </div>
+                        <!-- Image column -->
+                        <!-- Content column -->
+                        <div class="col-sm-10 col-12">
+                          <a>
+                            <h5 class="user-name font-weight-bold">Martha Smith</h5>
+                          </a>
+                          <div class="card-data">
+                            <ul class="list-unstyled">
+                              <li class="comment-date font-small">
+                                <i class="far fa-clock-o"></i> 05/10/2015</li>
+                            </ul>
+                          </div>
+                          <p class="dark-grey-text article">Ut enim ad minim veniam, quis nostrud exercitation
+                            ullamco laboris nisi ut aliquip ex
+                            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+                          </p>
+                        </div>
+                        <!-- Content column -->
+                      </div>
+                      <!-- Third row -->
+                    </div>
+                    <!-- Main wrapper -->
+
+                  </section>
+                  <!-- Comments -->
+                  <hr>
+                  <!-- Section: Leave a reply (Not Logged In User) -->
+                  <section class="mb-4 wow fadeIn" data-wow-delay="0.2s">
+                    <h3 class="font-weight-bold text-center my-5">Leave a reply</h3>
+
+                    <!-- Grid row -->
+                    <div class="row">
+
+                      <!-- Grid column -->
+                      <div class="col-lg-4 col-md-12 mb-4">
+
+                        <div class="input-group md-form form-sm form-3 pl-0">
+                          <div class="input-group-prepend">
+                            <span class="input-group-text white black-text" id="basic-addon8">1</span>
+                          </div>
+                          <input type="text" class="form-control mt-0 black-border rgba-white-strong"
+                            placeholder="Name" aria-describedby="basic-addon9">
                         </div>
 
-                        <!-- Card body -->
-                        <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1"
-                            data-parent="#accordionEx">
-                            <div class="card-body">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="list-group-flush">
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2"
-                                                        aria-hidden="true"></i> Lawn Aeration</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2"
-                                                        aria-hidden="true"></i> Tree / Bush Planting</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2"
-                                                        aria-hidden="true"></i> Mulch / Rock Installation</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="list-group-flush">
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2"
-                                                        aria-hidden="true"></i> Gutter Cleaning</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2"
-                                                        aria-hidden="true"></i> Snow Removal</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0">Don't see what you need? <a href="#contact">Contact
-                                                        us</a>!</p>
-                                            </div>
-                                        </div>
-                                    </div>
+                      </div>
+                      <!-- Grid column -->
+
+                      <!-- Grid column -->
+                      <div class="col-lg-4 col-md-6 mb-4">
+
+                        <div class="input-group md-form form-sm form-3 pl-0">
+                          <div class="input-group-prepend">
+                            <span class="input-group-text white black-text" id="basic-addon9">2</span>
+                          </div>
+                          <input type="text" class="form-control mt-0 black-border rgba-white-strong"
+                            placeholder="Email" aria-describedby="basic-addon9">
+                        </div>
+
+                      </div>
+                      <!-- Grid column -->
+
+                      <!-- Grid column -->
+                      <div class="col-lg-4 col-md-6 mb-4">
+
+                        <div class="input-group md-form form-sm form-3 pl-0">
+                          <div class="input-group-prepend">
+                            <span class="input-group-text white black-text" id="basic-addon10">3</span>
+                          </div>
+                          <input type="text" class="form-control mt-0 black-border rgba-white-strong"
+                            placeholder="Website" aria-describedby="basic-addon9">
+                        </div>
+
+                      </div>
+                      <!-- Grid column -->
+
+                    </div>
+                    <!-- Grid row -->
+
+                    <!-- Grid row -->
+                    <div class="row">
+
+                      <div class="col-12 mt-1">
+                        <div class="form-group basic-textarea">
+
+                          <textarea class="form-control" id="exampleFormControlTextarea6" rows="5"
+                            placeholder="Write something here..."></textarea>
+                        </div>
+
+                        <div class="text-right">
+                          <button class="btn btn-grey btn-sm">Submit</button>
+                        </div>
+
+                      </div>
+
+                    </div>
+                    <!-- Grid row -->
+
+                  </section>
+                  <!-- Section: Leave a reply (Not Logged In User) -->
+
+                  <!-- Posts -->
+                  <section class="text-left mt-4">
+
+                    <h4 class="font-weight-bold mt-5 mb-5 text-center">
+                      <strong>Latest news</strong>
+                    </h4>
+
+                    <!-- Carousel Wrapper -->
+                    <div id="multi-item-example" class="carousel slide carousel-multi-item mx-1"
+                      data-ride="carousel">
+
+                      <!-- Indicators -->
+                      <ol class="carousel-indicators">
+                        <li data-target="#multi-item-example" data-slide-to="0" class="active"></li>
+                        <li data-target="#multi-item-example" data-slide-to="1"></li>
+                        <li data-target="#multi-item-example" data-slide-to="2"></li>
+                      </ol>
+                      <!-- Indicators -->
+
+                      <!-- Slides -->
+                      <div class="carousel-inner" role="listbox">
+
+                        <!-- First slide -->
+                        <div class="carousel-item active">
+
+                          <!-- Grid row -->
+                          <div class="row mb-4 mx-1">
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 my-3">
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img(40).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
                                 </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  </p>
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+
                             </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 text-left mt-3">
+
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img(45).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 text-left mt-3">
+
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (35).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+                            </div>
+                            <!-- Grid column -->
+
+                          </div>
+                          <!-- Grid row -->
+
                         </div>
+                        <!-- First slide -->
 
-                    </div>
-                    <!-- Accordion card -->
+                        <!-- Second slide -->
+                        <div class="carousel-item">
 
-                </div>
-                <!-- Accordion wrapper -->
-            </div>
-        </section>
-    </div>
-    </div>
-    <div class="container portfolio-section">
-        <section id="portfolio" class="mb-3">
-            <h3 class="text-center text-uppercase font-weight-bold mb-5 mt-5 pt-5">Our projects</h3>
-            <p class="text-center dark-grey-text mt-5 w-responsive mx-auto">
-                Our work is a source of pride for us, which is why we provide free
-                estimates and honest prices. Our team works hard to ensure your trust by
-                delivering results that are second to none. You can have confidence
-                that we'll keep your home looking beautiful year-round.</p>
-            <div class="row">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div id="mdb-lightbox-ui"></div>
+                          <!-- Grid row -->
+                          <div class="row mb-4 mx-1">
 
-                        <div class="mdb-lightbox">
+                            <!-- Grid column -->
+                            <div class="col-lg-4 my-3">
+                              <!-- Card -->
+                              <div class="card">
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_0774_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_0774_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (43).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_1190_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_1190_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_0941_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_0941_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                                  </p>
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_0854_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_0854_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                              </div>
+                              <!-- Card -->
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_1364_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_1364_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                            </div>
+                            <!-- Grid column -->
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/muchmore1_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/muchmore1_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                            <!-- Grid column -->
+                            <div class="col-lg-4 text-left mt-3">
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_0750_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_0750_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                              <!-- Card -->
+                              <div class="card">
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_0938_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_0938_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (39).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
 
-                            <figure class="col-md-4">
-                                <a href="/wp-content/uploads/2020/06/IMG_1188_full.jpg" data-size="1600x1067">
-                                    <img src="/wp-content/uploads/2020/06/IMG_1188_thumb.jpg" class="img-fluid" />
-                                </a>
-                            </figure>
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
 
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 text-left mt-3">
+
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (46).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+                            </div>
+                            <!-- Grid column -->
+
+                          </div>
+                          <!-- Grid row -->
                         </div>
+                        <!-- Second slide -->
+
+                        <!-- Third slide -->
+                        <div class="carousel-item">
+
+                          <!-- Grid row -->
+                          <div class="row mb-4 mx-1">
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 my-3">
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (30).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  </p>
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 text-left mt-3">
+
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (28).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+                            </div>
+                            <!-- Grid column -->
+
+                            <!-- Grid column -->
+                            <div class="col-lg-4 text-left mt-3">
+
+                              <!-- Card -->
+                              <div class="card">
+
+                                <!-- Card image -->
+                                <div class="view overlay">
+                                  <img src="https://mdbootstrap.com/img/Photos/Others/img (33).jpg"
+                                    class="card-img-top" alt="sample image">
+                                  <a>
+                                    <div class="mask rgba-white-slight"></div>
+                                  </a>
+                                </div>
+                                <!-- Card image -->
+
+                                <!-- Card content -->
+                                <div class="card-body">
+                                  <!-- Title -->
+                                  <h4 class="card-title">
+                                    <strong>Card title</strong>
+                                  </h4>
+                                  <hr>
+
+                                  <p class="font-small font-weight-bold dark-grey-text mb-1">
+                                    <i class="far fa-clock-o"></i> 27/08/2017</p>
+                                  <p class="font-small grey-text mb-0">Anna Smith</p>
+                                  <p class="text-right mb-0 font-small font-weight-bold">
+                                    <a>read more
+                                      <i class="fas fa-angle-right"></i>
+                                    </a>
+                                  </p>
+                                </div>
+                                <!-- Card content -->
+
+                              </div>
+                              <!-- Card -->
+                            </div>
+                            <!-- Grid column -->
+
+                          </div>
+                          <!-- Grid row -->
+                        </div>
+                        <!-- Third slide -->
+
+                      </div>
+                      <!-- Slides -->
+
                     </div>
-                </div>
+                    <!-- Carousel Wrapper -->
+
+
+                  </section>
+                  <!-- Posts -->
+
+              </div>
+              <!-- Grid column -->
+
             </div>
-        </section>
-    </div>
-    <div class="streak streak-photo streak-long-2"
-        style="background-image:url('/wp-content/uploads/2020/06/IMG_0828_full.jpg')">
-        <div class="mask flex-center rgba-black-strong">
-            <div class="container">
-                <h3 class="text-center text-white mb-5 text-uppercase font-weight-bold">We're proud to be</h3>
-                <div class="row text-white text-center">
-                    <div class="col-md-4 mb-2">
-                        <h1 class="light-green-text mb-1 font-weight-bold">Veteran Owned</h1>
-                    </div>
-                    <div class="col-md-4 mb-2">
-                        <h1 class="light-green-text mb-1 font-weight-bold">Customer Driven</h1>
-                    </div>
-                    <div class="col-md-4 mb-2">
-                        <h1 class="light-green-text mb-1 font-weight-bold">Competitively Priced</h1>
-                    </div>
-                </div>
-            </div>
+            <!-- Grid row -->
+
+          </div>
+          <!-- Grid column -->
+
         </div>
+        <!-- Grid row -->
+
+      </div>
+      <!-- Card -->
     </div>
-    <div class="container">
-        <section id="contact" class="mb-5">
-            <h3 class="text-center text-uppercase font-weight-bold mb-5 mt-4 pt-5">Contact us</h3>
-            <p class="text-center dark-grey-text my-5 w-responsive mx-auto"> If you have an inquiry or question, feel
-                free to leave us a message here or give us a call for a free quote at 989-941-1505. Our landscape
-                service specialists are ready to help! </p>
-            <div class="row">
-                <div class="col-md-8 col-lg-8">
-                    <?php echo do_shortcode( '[contact-form-7 id="48" title="All-American Contact Form"]' ); ?>
-                </div>
-                <div class="col-md-4 col-lg-4">
-                    <ul class="text-center list-unstyled float-md-right">
-                        <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                            <p>3104 E Baker Rd, Midland, MI 48642</p>
-                        </li>
-                        <li><i class="fas fa-phone fa-2x"></i>
-                            <p><a href="tel:989-941-1505">(989) 941-1505</a></p>
-                        </li>
-                        <li><i class="fas fa-envelope fa-2x"></i>
-                            <p><a href="mailto:allamericanlandscaping.vets@gmail.com">allamericanlandscaping.vets@gmail.com</a>
-                            </p>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-    </div>
+    <!-- Grid column -->
+  </div>
+  <!-- Grid row -->
+</div>
+
 </main>
+<!-- Main Layout -->
 <?php get_footer(); ?>
