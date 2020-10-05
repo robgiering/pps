@@ -142,7 +142,7 @@
                 <!-- Grid column -->
             </div>
             <!-- Grid row -->
-        <section class="p-md-3 mx-md-5 text-lg-left">
+                    <section class="p-md-3 mx-md-5 text-lg-left">
     <h2 class="text-center font-weight-bold mb-4 pb-1">Our Team</h2>
     <p class="text-center lead mb-5 pb-2 text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
     <div class="row">
@@ -309,9 +309,8 @@
         </div>
       </div>
   </section>
-          </div>
+        </div>
         <!-- Card -->
-
     </div>
     <!-- Grid column -->
     </div>
