@@ -153,6 +153,8 @@
 
 
 </section><!-- Grid row -->
+</div>
+<div class="container-fluid">
 <div class="row accordion-gradient-bcg d-flex justify-content-center">
 
   <!-- Grid column -->
@@ -253,6 +255,7 @@
   </div>
   <!-- Grid column -->
 
+</div>
 </div>
 <!-- Grid row -->
             <!-- Section heading -->

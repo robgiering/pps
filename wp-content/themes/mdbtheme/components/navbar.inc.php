@@ -32,7 +32,7 @@
       <!-- Social Icon  -->
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/allamericanmi" target="_blank"><i class="fab fa-facebook-f"></i></a>
+          <a class="nav-link" href="https://www.facebook.com/paulaspetsitting" target="_blank"><i class="fab fa-facebook-f"></i></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://www.twitter.com/AllAmericanMich" target="_blank"><i class="fab fa-twitter"></i></a>
