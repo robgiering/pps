@@ -161,21 +161,25 @@
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading1">
                             <a data-toggle="collapse" data-parent="#accordionEx7" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    #1 <i class="fas fa-angle-down rotate-icon"></i>
+                                    15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
                         <div id="collapse1" class="collapse show" role="tabpanel" aria-labelledby="heading1" data-parent="#accordionEx7">
                             <div class="card-body mb-1 rgba-grey-light white-text">
-                                <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.
-                                    3 wolf moon officia aute,
-                                    non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch
-                                    3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
-                                    shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-                                    sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
-                                    farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
-                                    accusamus labore sustainable.</p>
+                                <ul>
+<li>City limits only.</li>
+<li>No dog walks, back yard or leash time only.</li>
+<li>No medication, unless it can be given with their regular meal.</li>
+<li>No other services such as bringing up trash cans or watering plants will be performed.</li>
+<li>Up to two 15-minute visits per day.</li>
+<li>Can be combined with other services while on vacation.</li>
+<li>If your pet sitter notices that this visit takes longer than 15 minutes, that visit will be changed to the regular 30-minute visit in the system and subsequent visits must be scheduled as 30-minute visits.</li>
+<li>These visits may only be scheduled in the time blocks between 9 and 11 a.m. or 2 and 6 p.m. as it fits into the pet sitter’s schedule.  We cannot deviate from these times because our early morning, midday and bedtime visits are extremely busy for the Pet Sitters.</li>
+<li>Visits will be scheduled anywhere in those time blocks and is subject to change based on cancellations or additions in the schedule.</li>
+</ul>
+
                             </div>
                         </div>
                     </div>
@@ -186,18 +190,14 @@
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading2">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    #2 <i class="fas fa-angle-down rotate-icon"></i>
+                                    30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
                         <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="heading2" data-parent="#accordionEx7">
                             <div class="card-body mb-1 rgba-grey-light white-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                                    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                                    velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                              <p>Perfect for one or two pets – during the 30 minute visit our pet sitters will feed, freshen water, clean litter or cages, spend time in back yard or go for a walk with your pet, bring in the mail or newspaper or water plants as you require.  This service can be used for any type of pet.  Can be used in combination with the 60-minute visit while on vacation (for example: three 30-minute visits and one 60-minute long mid-day walk).</p>
                             </div>
                         </div>
                     </div>
@@ -208,20 +208,14 @@
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading3">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    #3 <i class="fas fa-angle-down rotate-icon"></i>
+                                    60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
                         <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="heading3" data-parent="#accordionEx7">
                             <div class="card-body mb-1 rgba-grey-light white-text">
-                                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                                    laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                                    beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                                    odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                                    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed
-                                    quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-                                    voluptatem.</p>
+                                <p>Perfect for families with more than 2 or 3 pets or if your critters just needs some extra love and attention.  Our pet sitters will feed, freshen water, clean litter or cages, spend time in back yard or go for a walk with your pet, bring in the mail or newspaper or water plants as you require.  This service can be used for any type of pet. Can be used in combination with the 30-minute visit while on vacation (for example: three 30-minute visits and one 60-minute long mid-day walk).</p>
                             </div>
                         </div>
                     </div>
