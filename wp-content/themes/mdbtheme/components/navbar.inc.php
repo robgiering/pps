@@ -2,12 +2,15 @@
 <header>
 
 <!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar-example">
+<nav class="navbar white navbar-expand-lg navbar-light fixed-top" id="navbar-example">
   <div class="container">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
       aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+      <a class="navbar-brand pt-0 waves-effect" href="">
+            <img src="/wp-content/uploads/2020/09/logo-2.png" height="40" alt="Paula's Pet Sitting Logo">
+      </a>
     <div class="collapse navbar-collapse" id="navbarToggler">
       <ul class="navbar-nav mr-auto ml-auto smooth-scroll">
         <li class="nav-item">
@@ -26,9 +29,6 @@
           <a class="nav-link" href="#contact" data-offset="65">Contact</a>
         </li>
       </ul>
-      <a class="navbar-brand pt-0 waves-effect" href="">
-            <img src="/wp-content/uploads/2020/09/logo-2.png" height="40" alt="Paula's Pet Sitting Logo">
-      </a>
       <!-- Social Icon  -->
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
