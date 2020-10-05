@@ -117,7 +117,7 @@
                                         <!--Grid row-->
                                         <div class="row">
                                             <div class="col-2">
-                                                <i class="fas fa-mobile-alt fa-2x mb-1 text-primary" aria-hidden="true"></i>
+                                                <i class="fas fa-mobile-alt fa-2x mb-1 blue-gradient text-primary" aria-hidden="true"></i>
                                             </div>
                                             <div class="col-10 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Fully responsive</p>
@@ -150,7 +150,7 @@
     <!-- Grid row -->
     </div>
     <div class="container-fluid">
-        <div class="row accordion-gradient-bcg d-flex justify-content-center">
+        <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
                 <!--Accordion wrapper-->
