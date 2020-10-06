@@ -504,7 +504,7 @@
         </div>
     </div>
     <!-- Grid row -->
-            <div class="row" style="margin-top: -100px;">
+            <div class="row" style="margin-top: -30px;">
             <!-- Grid column -->
             <div class="col-md-12 px-lg-5">
                 <!-- Card -->
