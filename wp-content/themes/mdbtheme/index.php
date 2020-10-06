@@ -1,7 +1,7 @@
 <?php get_header(); require_once('components/navbar.inc.php'); ?>
 <!-- Main Layout -->
 <main>
-    <div class="container-fluid mt-md-0 mt-5 mb-5">
+    <div class="container-fluid mt-md-0 mt-5">
         <!-- Grid row -->
         <div class="row" style="margin-top: -100px;">
             <!-- Grid column -->
@@ -319,7 +319,7 @@
     </div>
     <!-- Grid row -->
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid" style="margin-top: -30px;">
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
@@ -397,6 +397,13 @@
         </div>
     </div>
     <!-- Grid row -->
+            <div class="row" style="margin-top: -100px;">
+            <!-- Grid column -->
+            <div class="col-md-12 px-lg-5">
+                <!-- Card -->
+                <div class="card pb-5 mx-md-3">
+                    <div class="card-body">
+                        <div class="container">
     <!--Section: Content-->
     <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
 
@@ -479,6 +486,10 @@
 
 
     </section>
+    </div>
+    </div>
+    </div>
+    </div>
     <!--Section: Content-->
 
 </main>
