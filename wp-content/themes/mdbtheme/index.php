@@ -390,6 +390,113 @@
                         </div>
                     </div>
                     <!-- Accordion card -->
+                    <!-- Accordion card -->
+                    <div class="card">
+                        <!-- Card header -->
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading4">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse4" aria-expanded="false" aria-controls="collapse3">
+                                <h5 class="mb-0 white-text text-uppercase font-thin">
+                                    Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
+                                </h5>
+                            </a>
+                        </div>
+                        <!-- Card body -->
+                        <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="heading4" data-parent="#accordionEx7">
+                            <div class="card-body mb-1 rgba-grey-light white-text">
+<p>The Night Time Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC. By having a Pet Sitter in your home all night, you receive the benefits of home security, monitoring for power outages, flooding and to give your home a lived in appearance in addition to never leaving your pet alone. Our pet sitters will even share their bed with the pet as long as the pet sleeps through the night!</p>
+<ul>
+<li>The pet sitter will arrive and leave at the times detailed below, so you must plan your trip accordingly. Your Night Time Pet Sitter will be chosen from whomever on your team has availability. Be sure to leave detailed written instructions for your pet’s care in our Time to Pet software.</li>
+<li>The Night Time pet sitter will stay in your home from 9 p.m. to 7 a.m. If you are also using the All Day pet care option, the night time sitter will do a 30-minute dinner visit between 5 p.m. and 6 p.m. to give your daytime pet sitter a small break. You do not need to have a pet to benefit from our house sitting service.</li>
+<li>If you are not using the All Day Service, the Night Time Pet Care service will include a free 30-minute dinner visit between 5 and 6 p.m.</li>
+<li>Call ahead for service availability. Subject to late notice and holiday surcharges.</li>
+</ul>
+<p>** Overnight House Sitting in NOT currently available in Sanford or Hope.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion card -->
+                    <!-- Accordion card -->
+                    <div class="card">
+                        <!-- Card header -->
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading5">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse3" aria-expanded="false" aria-controls="collapse5">
+                                <h5 class="mb-0 white-text text-uppercase font-thin">
+                                    All-Day Pet Care - $100 <i class="fas fa-angle-down rotate-icon"></i>
+                                </h5>
+                            </a>
+                        </div>
+                        <!-- Card body -->
+                        <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5" data-parent="#accordionEx7">
+                            <div class="card-body mb-1 rgba-grey-light white-text">
+                                <p>The All Day Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC.&nbsp; Many of our clients love having a pet sitter stay at their home during the day when realtors are showing their house, when waiting for deliveries or when workmen/women are in the home.&nbsp; By having a Pet Sitter in your home All Day, you receive the benefits of home security,&nbsp; monitoring for power outages, flooding and to give your home a lived in appearance in addition to never leaving your pet alone.</p>
+                                <ul>
+<li>The pet sitter will arrive and leave at the times detailed below, so you must plan your trip accordingly. Your All Day Pet Sitter will be chosen from whomever on your team has&nbsp; availability. Be sure to leave detailed written instructions for your pet’s care in our Time to Pet software.</li>
+<li>The All Day pet sitter will stay in your home from 7 a.m. to 9 p.m. You do not need to have a pet to benefit from our house sitting service.</li>
+<li>Call for service availability. Subject to late notice and holiday surcharges.</li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion card -->
+                    <!-- Accordion card -->
+                    <div class="card">
+                        <!-- Card header -->
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading6">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                                <h5 class="mb-0 white-text text-uppercase font-thin">
+                                    30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
+                                </h5>
+                            </a>
+                        </div>
+                        <!-- Card body -->
+                        <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="heading6" data-parent="#accordionEx7">
+                            <div class="card-body mb-1 rgba-grey-light white-text">
+                                <p>One of our pet sitters will pick your pet up and/or drop him off at the location of your choice in the city limits of Midland (Ex: Groomer, Vet, Daycare, Grandma’s house). Taxi Service outside the city of Midland is subject to availability. This service can be used for any type of pet.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion card -->
+                    <!-- Accordion card -->
+                    <div class="card">
+                        <!-- Card header -->
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading7">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                                <h5 class="mb-0 white-text text-uppercase font-thin">
+                                    60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
+                                </h5>
+                            </a>
+                        </div>
+                        <!-- Card body -->
+                        <div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="heading7" data-parent="#accordionEx7">
+                            <div class="card-body mb-1 rgba-grey-light white-text">
+                                <p>One of our pet sitters will pick your pet up and/or drop him off at the location of your choice in the city limits of Midland (Ex: Groomer, Vet, Daycare, Grandma’s house). Taxi Service outside the city of Midland is subject to availability. This service can be used for any type of pet.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion card -->
+                    <!-- Accordion card -->
+                    <div class="card">
+                        <!-- Card header -->
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading8">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                                <h5 class="mb-0 white-text text-uppercase font-thin">
+                                    Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
+                                </h5>
+                            </a>
+                        </div>
+                        <!-- Card body -->
+                        <div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="heading8" data-parent="#accordionEx7">
+                            <div class="card-body mb-1 rgba-grey-light white-text">
+                                <ul>
+<li>City limits only.</li>
+<li>No pet care will be provided during this service.</li>
+<li>We will spend up to one hour cleaning your yard; we may leave earlier if the job is done in less than an hour (not prorated). The weather conditions must be favorable to this task, ie: poop is not frozen to the ground or excessively wet, fall leaves must be raked and temperatures above 45 degrees.</li>
+<li>If you have your own Poop Scooping Equipment, please let us know – otherwise we will bring our own equipment.&nbsp; We will place the waste in plastic garbage bags that we provide and dispose of it in your trash can.</li>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Accordion card -->
                 </div>
                 <!--/.Accordion wrapper-->
             </div>
