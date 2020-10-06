@@ -12,23 +12,21 @@
                         <div class="container">
                             <section class="px-5 mt-5">
                                 <!--Section heading-->
-                                <p class="text-center pb-5 h5"> DEVELOPERS <span class="text-primary font-weight-bold">CHOOSE</span>
-                                    MDB?
+                                <p class="text-center pb-5 h5"> WHY DO PEOPLE <span class="text-primary font-weight-bold">CHOOSE</span>
+                                    PAULA'S?
                                 </p>
                                 <!--First row-->
                                 <div class="row">
                                     <!--Grid column-->
-                                    <div class="col-md-4">
+                                    <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2">
-                                                <i class="fas fa-users fa-2x mb-1 text-primary" aria-hidden="true"></i>
+                                            <div class="col-3">
+                                                <i class="fas fa-paw fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
-                                                <p class="font-weight-bold font-weight-bold mb-1">Active community</p>
-                                                <p class="grey-text mt-2">Millions of professional developers - MDB is a web design standard
-                                                    thanks
-                                                    to them. We help &amp; inspire each other every day.
+                                            <div class="col-9 mb-2">
+                                                <p class="font-weight-bold font-weight-bold mb-1">Daily Dog Walking</p>
+                                                <p class="grey-text mt-2">Does your pooch need some relief and exercise mid day? We’ll be there! One of our caregivers will visit your home to walk your dog in your neighborhood, play ball in the yard or give them some well-deserved love and attention.
                                                 </p>
                                             </div>
                                         </div>
@@ -36,36 +34,16 @@
                                     </div>
                                     <!--/Grid column-->
                                     <!--Grid column-->
-                                    <div class="col-md-4">
+                                    <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2">
-                                                <i class="fas fa-book fa-2x mb-1 text-primary" aria-hidden="true"></i>
+                                            <div class="col-3">
+                                                <i class="fas fa-home fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
-                                                <p class="font-weight-bold font-weight-bold mb-1">Tutorials</p>
+                                            <div class="col-9 mb-2">
+                                                <p class="font-weight-bold font-weight-bold mb-1">Vacation Home Visits</p>
                                                 <p class="grey-text mt-2">
-                                                    Detailed tutorials, created with a step-by-step approach will help you with integrations, web
-                                                    design &amp; best practices.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <!--/Grid row-->
-                                    </div>
-                                    <!--/Grid column-->
-                                    <!--Grid column-->
-                                    <div class="col-md-4">
-                                        <!--Grid row-->
-                                        <div class="row">
-                                            <div class="col-2">
-                                                <i class="fab fa-google fa-2x mb-1 text-primary" aria-hidden="true"></i>
-                                            </div>
-                                            <div class="col-10 mb-2">
-                                                <p class="font-weight-bold font-weight-bold mb-1">Material Design</p>
-                                                <p class="grey-text mt-2">
-                                                    State-of-the-art design focused on intuitivness &amp; user experiance. Google-friendly looks based
-                                                    on
-                                                    official material guidelines.
+                                                    Headed out of town or out for the night? No problem!  One of our caregivers will visit your home up to 4 times per day.  We will stop by in the Morning, Mid Day, Late afternoon and bedtime to take care of your precious pals.
                                                 </p>
                                             </div>
                                         </div>
@@ -77,53 +55,32 @@
                                 <!--Second row-->
                                 <div class="row mt-5">
                                     <!--Grid column-->
-                                    <div class="col-md-4">
+                                    <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2">
-                                                <i class="fas fa-download fa-2x mb-1 text-primary" aria-hidden="true"></i>
+                                            <div class="col-3">
+                                                <i class="fas fa-moon fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
-                                                <p class="font-weight-bold font-weight-bold mb-1">Easy installation</p>
+                                            <div class="col-9 mb-2">
+                                                <p class="font-weight-bold font-weight-bold mb-1">Overnight Care</p>
                                                 <p class="grey-text mt-2">
-                                                    3 minutes, a few clicks and... done. You will be surprised at how easy it is. You will start
-                                                    creating in no-time!</p>
+                                                    Is your pet afraid of the dark? Do they get lonely at night? Have one of our sitter’s spend the night to give your pets extra time and snuggles and your home the added security of a live-in caregiver.</p>
                                             </div>
                                         </div>
                                         <!--/Grid row-->
                                     </div>
                                     <!--/Grid column-->
                                     <!--Grid column-->
-                                    <div class="col-md-4">
+                                    <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2">
-                                                <i class="fas fa-palette fa-2x mb-1 text-primary" aria-hidden="true"></i>
+                                            <div class="col-3">
+                                                <i class="fas fa-taxi fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
-                                                <p class="font-weight-bold font-weight-bold mb-1">Modern look</p>
+                                            <div class="col-9 mb-2">
+                                                <p class="font-weight-bold font-weight-bold mb-1">Pet Taxi</p>
                                                 <p class="grey-text mt-2">
-                                                    Components crafted with care. Templates, sections, colors, fonts and other UI elements composed
-                                                    by
-                                                    professional designers.
-                                                </p>
-                                            </div>
-                                        </div>
-                                        <!--/Grid row-->
-                                    </div>
-                                    <!--/Grid column-->
-                                    <!--Grid column-->
-                                    <div class="col-md-4">
-                                        <!--Grid row-->
-                                        <div class="row">
-                                            <div class="col-2">
-                                                <i class="fas fa-mobile-alt fa-2x mb-1 blue-gradient text-primary" aria-hidden="true"></i>
-                                            </div>
-                                            <div class="col-10 mb-2">
-                                                <p class="font-weight-bold font-weight-bold mb-1">Fully responsive</p>
-                                                <p class="grey-text mt-2">
-                                                    Mobile-friendly, desktop-friendly.. basically everything-friendly. MDB looks great on tablets,
-                                                    phones, laptops &amp; huge screens.
+                                                  Do you need help getting your dog, cat, bunny or bird to the Groomers, Grandmas, the Vet, Doggy Daycare, the Boarding Kennel or a special event?  Call a pet TAXI!  Or rather hop on our APP and request a ride!
                                                 </p>
                                             </div>
                                         </div>
@@ -147,14 +104,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(9).jpg"
+              src="/wp-content/uploads/2020/10/paula.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Alan Turing</h6>
+            <h6 class="font-weight-bold pt-2">Paula Elandt</h6>
             <p class="text-muted">
-              Software Engineer
+              Owner and Founder
             </p>
           </div>
         </div>
@@ -165,14 +122,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(32).jpg"
+              src="/wp-content/uploads/2020/10/amy.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Tom Johnson</h6>
+            <h6 class="font-weight-bold pt-2">Amy C.</h6>
             <p class="text-muted">
-              Designer
+              Administrative Assistant
             </p>
           </div>
         </div>
@@ -183,14 +140,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(3).jpg"
+              src="/wp-content/uploads/2020/10/gigi.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Alax Laurie</h6>
+            <h6 class="font-weight-bold pt-2">Gigi Z.</h6>
             <p class="text-muted">
-              JavaScript Developer
+              Pet Care Provider
             </p>
           </div>
         </div>
@@ -201,14 +158,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(2).jpg"
+              src="/wp-content/uploads/2020/10/marcia.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Nathalie Fry</h6>
+            <h6 class="font-weight-bold pt-2">Marcia B.</h6>
             <p class="text-muted">
-              Office Manager
+              Pet Care Provider
             </p>
           </div>
         </div>
@@ -219,14 +176,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(7).jpg"
+              src="/wp-content/uploads/2020/10/angela.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Ella Stone</h6>
+            <h6 class="font-weight-bold pt-2">Angela M.</h6>
             <p class="text-muted">
-              Software Engineer
+              Pet Care Provider
             </p>
           </div>
         </div>
@@ -237,14 +194,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(25).jpg"
+              src="/wp-content/uploads/2020/10/adeline.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Lara Croft</h6>
+            <h6 class="font-weight-bold pt-2">Adeline B.</h6>
             <p class="text-muted">
-              Frontend Developer
+              Pet Care Provider
             </p>
           </div>
         </div>
@@ -255,14 +212,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg"
+              src="/wp-content/uploads/2020/10/phil.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Billy Turner</h6>
+            <h6 class="font-weight-bold pt-2">Phil S.</h6>
             <p class="text-muted">
-              Java Developer
+              Pet Care Provider & Office Assistant
             </p>
           </div>
         </div>
@@ -273,14 +230,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(19).jpg"
+              src="/wp-content/uploads/2020/10/stephanie.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Caroline Thompson</h6>
+            <h6 class="font-weight-bold pt-2">Stephanie D.</h6>
             <p class="text-muted">
-              Junior Data Engineer
+              Pet Care Provider
             </p>
           </div>
         </div>
@@ -291,14 +248,14 @@
             class="col-5 avatar w-100 white d-flex justify-content-center align-items-center"
           >
             <img
-              src="https://mdbootstrap.com/img/Photos/Avatars/img%20(11).jpg"
+              src="/wp-content/uploads/2020/10/john.jpg"
               class="img-fluid rounded-circle z-depth-1"
             />
           </div>
           <div class="col-7">
-            <h6 class="font-weight-bold pt-2">Anna Polkovsky</h6>
+            <h6 class="font-weight-bold pt-2">John M.</h6>
             <p class="text-muted">
-              Marketing Specialist
+              Pet Care Provider
             </p>
           </div>
         </div>

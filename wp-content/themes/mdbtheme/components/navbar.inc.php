@@ -59,8 +59,8 @@
                   <strong>Looking for a pet sitter?</strong>
                 </h1>
                 <hr class="hr-light mt-4 wow fadeInDown" data-wow-delay="0.4s">
-                <h5 class="text-uppercase mb-4 white-text wow fadeInDown" data-wow-delay="0.4s">
-                  <strong>Paulas Petsitting</strong>
+                <h5 class=" mb-4 white-text wow fadeInDown" data-wow-delay="0.4s">
+                  <strong>We are committed to providing professional in-home pet care services to the Midland community.</strong>
                 </h5>
                 <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">Call Now</a>
                 <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">Contact Us</a>
