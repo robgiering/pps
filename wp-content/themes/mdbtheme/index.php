@@ -503,6 +503,7 @@
         <h5 class="font-weight-normal mb-3">Can I try your service for free?</h5>
         <p class="text-muted">Of course! We’re happy to offer a free plan to anyone who wants to try our service.</p>
       </div>
+      <div class="col-md-12">
       <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
 
                     <!-- Accordion card -->
