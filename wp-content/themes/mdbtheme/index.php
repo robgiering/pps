@@ -475,8 +475,8 @@
 
 		<div class="row">
       <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">Is this a secure site for purchases?</h5>
-        <p class="text-muted">Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry.</p>
+        <h5 class="font-weight-normal mb-3">What does it mean that you are “Bonded and Insured”?</h5>
+        <p class="text-muted">A Liability insurance policy protects a business owner in case they are liable for accidental damage or injury that they cause while caring for pets in your home. Bonding means  that the job  that the sitter has been hired to do is performed and that the customer is protected against losses from theft or damage done by a company’s employees or contractors. Our Insurance is specific to the Pet industry.</p>
       </div>
 
       <div class="col-md-6 col-lg-4 mb-4">
