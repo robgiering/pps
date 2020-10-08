@@ -527,10 +527,108 @@
 
           <h3 class="font-weight-bold">Contact Us</h3>
 
-          <p class="text-muted">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id quam sapiente
-            molestiae
-            numquam quas, voluptates omnis nulla ea odio quia similique corrupti magnam, doloremque laborum.</p>
+          <p class="text-muted"><div class="container my-5">
 
+
+<!--Section: Content-->
+<section>
+
+  <h6 class="font-weight-normal text-uppercase font-small grey-text mb-4 text-center">FAQ</h6>
+  <!-- Section heading -->
+  <h3 class="font-weight-bold black-text mb-4 pb-2 text-center">Frequently Asked Questions</h3>
+  <hr class="w-header">
+  <!-- Section description -->
+  <p class="lead text-muted mx-auto mt-4 pt-2 mb-5 text-center">Got a question? We've got answers. If you have some other questions, see our support center.</p>
+
+  <div class="row">
+    <div class="col-md-6 col-lg-4 mb-4">
+      <h5 class="font-weight-normal mb-3">Is this a secure site for purchases?</h5>
+      <p class="text-muted">Absolutely! We work with top payment companies which guarantees your safety and security. All billing information is stored on our payment processing partner which has the most stringent level of certification available in the payments industry.</p>
+    </div>
+
+    <div class="col-md-6 col-lg-4 mb-4">
+      <h5 class="font-weight-normal mb-3">Can I cancel my subscription?</h5>
+      <p class="text-muted">You can cancel your subscription anytime in your account. Once the subscription is cancelled, you will not be charged next month. You will continue to have access to your account until your current subscription expires.</p>
+    </div>
+
+    <div class="col-md-6 col-lg-4 mb-4">
+      <h5 class="font-weight-normal mb-3">How long are your contracts?</h5>
+      <p class="text-muted">Currently, we only offer monthly subscription. You can upgrade or cancel your monthly account at any time with no further obligation.</p>
+    </div>can i try
+
+    <div class="col-md-6 col-lg-4 mb-4">
+      <h5 class="font-weight-normal mb-3">Can I update my card details?</h5>
+      <p class="text-muted">Yes. Go to the billing section of your dashboard and update your payment information.</p>
+    </div>
+
+    <div class="col-md-6 col-lg-4 mb-4">
+      <h5 class="font-weight-normal mb-3">Can I request refund?</h5>
+      <p class="text-muted">Unfortunately, not. We do not issue full or partial refunds for any reason.</p>
+    </div>
+
+    <div class="col-md-6 col-lg-4 mb-4">
+      <h5 class="font-weight-normal mb-3">Can I try your service for free?</h5>
+      <p class="text-muted">Of course! We’re happy to offer a free plan to anyone who wants to try our service.</p>
+    </div>
+  </div>
+
+</section>
+
+</div>
+</p>
+<div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+
+                    <!-- Accordion card -->
+                    <div class="card">
+
+                        <!-- Card header -->
+                        <div class="card-header px-0 pt-0" role="tab" id="headingOne1">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="false" aria-controls="collapseOne1">
+                                <h5 class="mb-0">
+                                    Have another question? View more. <i class="fas fa-angle-down rotate-icon"></i>
+                                </h5>
+                            </a>
+                        </div>
+
+                        <!-- Card body -->
+                        <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordionEx" style="">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="list-group-flush">
+                                            <div class="list-group-item">
+                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Lawn Aeration</p>
+                                            </div>
+                                            <div class="list-group-item">
+                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Tree / Bush Planting</p>
+                                            </div>
+                                            <div class="list-group-item">
+                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Mulch / Rock Installation</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="list-group-flush">
+                                            <div class="list-group-item">
+                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Gutter Cleaning</p>
+                                            </div>
+                                            <div class="list-group-item">
+                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Snow Removal</p>
+                                            </div>
+                                            <div class="list-group-item">
+                                                <p class="mb-0">Don't see what you need? <a href="#contact">Contact
+                                                        us</a>!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- Accordion card -->
+
+                </div>
           <p><span class="font-weight-bold mr-2">Email:</span><a href="">contact@mycompany.com</a></p>
           <p><span class="font-weight-bold mr-2">Phone:</span><a href="">+48 123 456 789</a></p>
 
