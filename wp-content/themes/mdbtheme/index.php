@@ -480,28 +480,14 @@
       </div>
 
       <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">Can I cancel my subscription?</h5>
-        <p class="text-muted">You can cancel your subscription anytime in your account. Once the subscription is cancelled, you will not be charged next month. You will continue to have access to your account until your current subscription expires.</p>
+        <h5 class="font-weight-normal mb-3">Can I schedule a same day appointment?</h5>
+        <p class="text-muted">Yes, you may schedule appointments on the same day that you need service, however your request is subject to availability in the Pet Care Provider’s schedule.</p>
       </div>
 
       <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">How long are your contracts?</h5>
-        <p class="text-muted">Currently, we only offer monthly subscription. You can upgrade or cancel your monthly account at any time with no further obligation.</p>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">Can I update my card details?</h5>
-        <p class="text-muted">Yes. Go to the billing section of your dashboard and update your payment information.</p>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">Can I request refund?</h5>
-        <p class="text-muted">Unfortunately, not. We do not issue full or partial refunds for any reason.</p>
-      </div>
-
-      <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">Can I try your service for free?</h5>
-        <p class="text-muted">Of course! We’re happy to offer a free plan to anyone who wants to try our service.</p>
+        <h5 class="font-weight-normal mb-3">Tell me about your Pet Care Providers</h5>
+        <p class="text-muted">Tell me about your Pet Care Providers
+We ONLY hire dedicated Pet Care Professionals.  We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
       </div>
       <div class="col-md-12">
       <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
