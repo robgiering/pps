@@ -441,7 +441,7 @@
                         <div class="card">
                             <!-- Card header -->
                             <div class="card-header px-0 pt-0" role="tab" id="morequestions">
-                                <a class="collapsed" data-toggle="collapse" data-parent="#morequestions" href="#morequestions" aria-expanded="false" aria-controls="morequestions">
+                                <a class="collapsed" data-toggle="morequestionsCollapse" data-parent="#morequestions" href="#morequestionsCollapse" aria-expanded="false" aria-controls="morequestions">
                                     <h5 class="mb-0">
                                         Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                     </h5>
@@ -458,7 +458,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading1">
-                                                        <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse1" aria-expanded="false" aria-controls="faqFullCollapse1">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse1" data-parent="#faq" href="#faqFullCollapse1" aria-expanded="false" aria-controls="faqFullCollapse1">
                                                             <h5 class="black-text font-weight-normal mb-0">What does it mean that you are “Bonded and Insured”?</h5>
                                                         </a>
                                                     </div>
