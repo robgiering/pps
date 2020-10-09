@@ -480,14 +480,15 @@
       </div>
 
       <div class="col-md-6 col-lg-4 mb-4">
-        <h5 class="font-weight-normal mb-3">Can I schedule a same day appointment?</h5>
-        <p class="text-muted">Yes, you may schedule appointments on the same day that you need service, however your request is subject to availability in the Pet Care Provider’s schedule.</p>
+        <h5 class="font-weight-normal mb-3">What hours are you open?</h5>
+        <p class="text-muted">We care for animals 7 days a week, 7 am to 9 pm.
+Our business hours are Monday through Friday, 8 a.m. to 5 p.m. for scheduling and registration questions.
+Prospective clients may call 989-513-7937 during these hours to speak with our office manager regarding our offered services.<</p>
       </div>
 
       <div class="col-md-6 col-lg-4 mb-4">
         <h5 class="font-weight-normal mb-3">Tell me about your Pet Care Providers</h5>
-        <p class="text-muted">Tell me about your Pet Care Providers
-We ONLY hire dedicated Pet Care Professionals.  We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
+        <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</p>
       </div>
       <div class="col-md-12">
       <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
@@ -499,7 +500,7 @@ We ONLY hire dedicated Pet Care Professionals.  We work with Pet Care Providers 
                         <div class="card-header px-0 pt-0" role="tab" id="headingOne1">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="false" aria-controls="collapseOne1">
                                 <h5 class="mb-0">
-                                    Have another question? View more. <i class="fas fa-angle-down rotate-icon"></i>
+                                    Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
@@ -508,32 +509,428 @@ We ONLY hire dedicated Pet Care Professionals.  We work with Pet Care Providers 
                         <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordionEx" style="">
                             <div class="card-body">
                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="list-group-flush">
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Lawn Aeration</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Tree / Bush Planting</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Mulch / Rock Installation</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="list-group-flush">
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Gutter Cleaning</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0"><i class="fas fa-check red-text-2 mr-2" aria-hidden="true"></i> Snow Removal</p>
-                                            </div>
-                                            <div class="list-group-item">
-                                                <p class="mb-0">Don't see what you need? <a href="#contact">Contact
-                                                        us</a>!</p>
-                                            </div>
-                                        </div>
+                                    <div class="col-md-12">
+                                    <div class="row">
+    <div class="col-md-12 col-lg-10 mx-auto mb-5">
+        <!--Accordion wrapper-->
+        <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree1">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree1" aria-expanded="false" aria-controls="collapseThree1">
+                        <h5 class="black-text font-weight-normal mb-0">What does it mean that you are “Bonded and Insured”?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree1" class="collapse" role="tabpanel" aria-labelledby="headingThree1" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>A Liability insurance policy protects a business owner in case they are liable for accidental damage or injury that they cause while caring for pets in your home.</li>
+                            <li>Bonding means that the job that the sitter has been hired to do is performed and that the customer is protected against losses from theft or damage done by a company’s employees or contractors.</li>
+                            <li>Our Insurance is specific to the Pet industry.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree2">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree2" aria-expanded="false" aria-controls="collapseThree2">
+                        <h5 class="black-text font-weight-normal mb-0">Tell me about your Pet Care Providers</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree2" class="collapse" role="tabpanel" aria-labelledby="headingThree2" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</li>
+                            <li>
+                            <li>We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</li>
+                            <li>All our workers are covered by Liability Insurance and Bonding through “Kennel Pro”.</li>
+                            <li>We do pre-employment drug screening and random drug testing of our workers.</li>
+                            <li>We offer training on a regular basis and encourage our sitters to share concerns with our team so that we can spot problems or address issues as they come up. All of our Pet Care Providers have completed training through “FetchFind”, which is an online training program for Pet Professionals. Some of the courses completed are: “Safe Handling Procedures”, “Calming Signals”, “Nose To Tail Check”, “Body Language Basics” and “Equipment 101”. This training is ongoing, with new courses introduced each month.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree3">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                        <h5 class="black-text font-weight-normal mb-0">What hours are you open?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>We care for animals 7 days a week, 7 am to 9 pm.</li>
+                            <li>Our business hours are Monday through Friday, 8 a.m. to 5 p.m. for scheduling and registration questions.</li>
+                            <li>Prospective clients may call 989-513-7937 during these hours to speak with our office manager regarding our offered services.</li>
+                            <li>For clients with pets actively in our care, please communicate with us via the “Time To Pet” software in the “Conversation” tab. By communicating in “Time To Pet” we create a permanent record of care requests and all assigned caregivers can see this conversation.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree4">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree4" aria-expanded="false" aria-controls="collapseThree4">
+                        <h5 class="black-text font-weight-normal mb-0">How do I get started with services?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree4" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Click on the “Book Now” button at the top of each page of the Paula’s Pet Sitting Website. This sends a message to our Office Manager who will help you get registered. OR:</li>
+                            <li>Call our Office Manager at 989-513-7937. She will be happy to answer any questions you may have about our services. When you are ready, she will email you the link to register on our Pet Sitting Software called “Time To Pet”.</li>
+                            <li>After you are registered our Office Manager will schedule a “Meet and Greet” at your home so that you can meet your Pet Care Team.</li>
+                            <li>From now all all you need to do to schedule a visit is to request it through your computer or our APP.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree5">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree5" aria-expanded="false" aria-controls="collapseThree5">
+                        <h5 class="black-text font-weight-normal mb-0">Do you charge more during the holidays?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree5" class="collapse" role="tabpanel" aria-labelledby="headingThree5" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Holiday Policy: Holiday services incur a $5 surcharge.</li>
+                            <li>Easter: Friday through Sunday of the holiday weekend</li>
+                            <li>Memorial Day: Friday through Monday of the holiday weekend</li>
+                            <li>Fourth of July: July 3rd and 4th</li>
+                            <li>Labor Day: Friday through Monday of the holiday weekend</li>
+                            <li>Thanksgiving: Thursday through Sunday of the holiday weekend</li>
+                            <li>Christmas: December 24th and 25th</li>
+                            <li>New Years: December 31st and January 1st</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree6">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree6" aria-expanded="false" aria-controls="collapseThree6">
+                        <h5 class="black-text font-weight-normal mb-0">What kinds of payment do you accept? Can I leave cash on the counter?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree6" class="collapse" role="tabpanel" aria-labelledby="headingThree6" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Payments for services may be made by credit card through our emailed invoice.
+                            <li>Clients may also pay by check. Write the check out to “Paula’s Pet Sitting, LLC” to the address on your invoice.
+                            <li>Please do not leave payments “on the counter” for the pet sitter.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree7">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree7" aria-expanded="false" aria-controls="collapseThree7">
+                        <h5 class="black-text font-weight-normal mb-0">What is your Payments, Cancellation and Deposit Policy?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree8" class="collapse" role="tabpanel" aria-labelledby="headingThree7" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Clients of Paula’s Pet Sitting agree to pay for all services that are requested and scheduled (in that invoice) if they are not canceled prior to the following cancelation windows as described below.</li>
+                            <li>Mid Day Dog Walks: 24 hours notice per service (for those that use our services on a weekly continuous basis). For weekend or Monday services you must cancel prior to 5 p.m. on Friday.</li>
+                            <li>Definition of a Mid Day Dog Walk:</li>
+                            <li>If you have the same schedule week after week such as Monday through Friday dog walks (or another example “Feed dinner every Mon-Wed-Fri at 5 pm) then you are considered a “Daily”.</li>
+                            <li>Vacation Services: 72 hours notice from the start time of the first service in that invoice (client will be charged for all services in that invoice). Notification of cancellation must be during business hours, otherwise the cancellation will take place the next day.</li>
+                            <li>Definition of a Vacation visit:</li>
+                            <li>1) If you are physically out of town for business or pleasure.</li>
+                            <li>2) If you randomly schedule visits here and there when needed or have no set schedule, even if you are present in the area.</li>
+                            <li>Overnight Care: Our Overnights are a premium service. We require your reservation to be paid in full to confirm and hold your dates. Please be absolutely certain of your Overnight Care requests as these are non-refundable services. When requesting overnights, you will receive an invoice for those services which will be due immediately. Any daytime services in the same invoice will be subject to our regular vacation cancellation policy of 72 hours unless any of the days fall on a holiday, then the holiday cancellation applies. Notification of cancellation must be during business hours (M-F, 8-5 pm), otherwise the cancellation will take place the next business day.</li>
+                            <li>Holidays: Once you have booked holiday services, you must pay within 24 hours in order to hold your spot. We will not issue any refunds for cancellations (this includes all services in that invoice). If you cancel and have not prepaid this service, you will still owe that amount.</li>
+                            <li>* We do not issue refunds for any payments, but will credit your account to be used for future services if you cancel with proper notice (detailed above).</li>
+                            <li>* We will issue a full credit for cancelled services (in that invoice) if you have a death in your immediate family (Spouse, Domestic Partner, children, grandchildren or parents only) and you no longer need our services.</li>
+                            <li>* We will issue a full credit for cancelled services (in that invoice) if your pet passes away and you no longer need our services.</li>
+                            <li>How to request a Cancellation or a change to your scheduled services:</li>
+                            <li>When you do so using this method, it sends Amy or Paula an alert that you need to add on or cancel a visit. This is especially important on the weekends when we aren’t monitoring every conversation that comes through Time to Pet (TTP). We will be in touch with any questions and a confirmation of the changes. Thank you!</li>
+                            <li>Here are the steps if you are using TTP on a computer:</li>
+                            <li>Go to your account in Time to Pet.</li>
+                            <li>Click on “Schedule” tab at the top of Time To Pet.</li>
+                            <li>Click on the red button “Cancel/Change Services”.</li>
+                            <li>To make changes to an existing reservation please use the text box to describe in as much detail as possible the changes you would like.</li>
+                            <li>Here are the steps if you are using the TTP APP on your phone:</li>
+                            <li>Look at the bottom of your screen and touch on the “Schedule” icon.</li>
+                            <li>At the bottom right hand side of the screen is a “New Request” button. You will use this button for new requests or changes to your current schedule.</li>
+                            <li>Choose either: “Cancellation/Change” or “New Request” and follow the prompts on the screen.</li>
+                            <li>Be sure to add notes or additional details in the appropriate box – this info goes directly to your pet care provider.</li>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree8">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree8" aria-expanded="false" aria-controls="collapseThree8">
+                        <h5 class="black-text font-weight-normal mb-0">Can I schedule a same day appointment?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree9" class="collapse" role="tabpanel" aria-labelledby="headingThree8" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Yes, you may schedule appointments on the same day that you need service, however your request is subject to availability in the Pet Care Provider’s schedule.</li>
+                            <li>If you schedule after business hours (5 p.m. or later) the day before you need service or if you schedule on the same day you need service, we add a 25% surcharge to our regular fee.</li>
+                            <li>If you schedule a Monday service after 5 p.m. on Friday you will be charged the 25% surcharge. You must request them through the Time To Pet software – NOT text, phone call or email.</li>
+                            <li>We will do our best to schedule you with your regular Pet Care Provider. It is assumed that you agree for us to schedule your pet with the back-up provider in the event that your regular Provider is not available. We will never schedule a visit with a Provider that is not familiar with your home and pet.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree9">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree9" aria-expanded="false" aria-controls="collapseThree9">
+                        <h5 class="black-text font-weight-normal mb-0">Can I book appointments with my pet sitter?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree10" class="collapse" role="tabpanel" aria-labelledby="headingThree9" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>NO! For the safety of your pets all scheduling must be done by the client online or by calling the office.</li>
+                            <li>Paula’s Pet Sitting will not be held liable for visits scheduled without the office’s knowledge.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree10">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree10" aria-expanded="false" aria-controls="collapseThree10">
+                        <h5 class="black-text font-weight-normal mb-0">If I am a registered client, can I go online and book appointments on my own?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree11" class="collapse" role="tabpanel" aria-labelledby="headingThree10" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>YES! We encourage you to feel free to schedule any time it is convenient for you.</li>
+                            <li>Be sure to look over the final schedule before you leave on vacation as you may change your travel plans, but forget to update your pet sitting plans.</li>
+                            <li>Take advantage of the conversation tab in your Time To Pet account. Amy (our Office Manager) and all of your pet care providers will see these notes, ensuring the BEST care for your pets!</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree11">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree11" aria-expanded="false" aria-controls="collapseThree11">
+                        <h5 class="black-text font-weight-normal mb-0">What is a “Meet and Greet”?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree12" class="collapse" role="tabpanel" aria-labelledby="headingThree11" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>A “Meet and Greet” (M&G) is our first visit to your home. This is where you will show us where necessary items are located, give us TWO keys to enter your home, show us how to work your security system (if applicable), and most importantly: We will MEET YOUR PETS!!</li>
+                            <li>We always assign a “Team” of Pet Sitters to your pets; sometimes up to 5 people! The Pet Sitters split up their work week and are always there to back each other up in case they have a personal emergency or illness. As another level of back-up care, Paula or Amy can always complete a visit.</li>
+                            <li>At the initial M&G, you will meet at least 2 Pet Sitters from your assigned team. The Pet Sitters on your team who did not go to the initial M&G will shadow the established Pet Sitters at a later visit.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree12">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree12" aria-expanded="false" aria-controls="collapseThree12">
+                        <h5 class="black-text font-weight-normal mb-0">Do you do Overnight Pet or House Sitting?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree13" class="collapse" role="tabpanel" aria-labelledby="headingThree12" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>If you would like the added security of someone living in your home while you are away we can help you with that!
+                            <li>Our Pet Sitters stay in your home to care for and interact with your pets. Additional tasks such as having the Pet Sitter water houseplants and garden or bring in mail/newspaper are included, but should be agreed upon and documented prior to start of service. This service includes a 30-minute dinner time visit around 5 or 6 p.m. Pet Sitter will arrive by 9 p.m. each evening and stay until 7 a.m.</li>
+                            <li>The Pet Sitter may arrive earlier in the evening, stay later in the morning or stay at the home during the day depending upon the Pet Sitter’s schedule, ie: dinner time feeding or walks etc. Please schedule mid-day visits separately.</li>
+                            <li>You do not have to have a pet to book an overnight house sitter.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree13">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree13" aria-expanded="false" aria-controls="collapseThree13">
+                        <h5 class="black-text font-weight-normal mb-0">Does Paula's Pet Sitting offer Boarding Services in her home?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree14" class="collapse" role="tabpanel" aria-labelledby="headingThree13" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>We are no longer offering Boarding Services in our home.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree14">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree14" aria-expanded="false" aria-controls="collapseThree14">
+                        <h5 class="black-text font-weight-normal mb-0">How do you enter my home?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree15" class="collapse" role="tabpanel" aria-labelledby="headingThree14" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>The safest and most efficient method for our Pet Sitters to enter your home is by using a lockbox.</li>
+                            <li>You may lease a lockbox from Paula’s Pet Sitting for $12 (subject to price change & availability). This charge will be added to your first invoice. We will provide this lockbox at the M&G. At the M&G we need you to have 2 keys ready for us. One key will go back to the key safe in our office. The other key stays in the lockbox at your home as long as you are a client. We still do require that you provide a back-up key for our key safe.</li>
+                            <li>The other option, and in my opinion the very best option, is for you to purchase a wall-mounted key lockbox that is anchored/screwed onto the outside of your home or bolted onto a fence near the front of your house. We especially like the wall mounted ones because they are not subject to getting iced over in the winter and can be securely mounted to the doorframe of your garage door. It is your responsibility to ensure that a key is always available in the wall mounted key lockbox. If you change the combination, you must inform us of that change so that we can update your profile. We still require that you have a backup key available for us at the Meet and Greet, which will go back to our office keysafe. You can find wall mount lock boxes online at Amazon and at most local hardware stores.</li>
+                            <li>Apartments:</li>
+                            <li>We will provide a secure “Over the Door Hanger” for the lockbox. The cost to lease both is $14. We ask clients who live in apartments to hang it from the top of their front door prior to scheduled visits and feel free to bring in the lockbox at the conclusion of our visits.</li>
+                            <li>*** If our Pet Sitters are not able to open the lockbox that you provide (or if the key is missing), there is an additional $10 to pick up the back-up key from our office.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree15">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree15" aria-expanded="false" aria-controls="collapseThree15">
+                        <h5 class="black-text font-weight-normal mb-0">Do you offer a referral credit?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree16" class="collapse" role="tabpanel" aria-labelledby="headingThree15" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Yes we do!! The way the program works is super simple! Each time you refer someone to us and they book a minimum of 5 visits, you will receive a $10 credit for future services! All we ask is that you tell us when you have referred someone (to include their name) so we can watch for them!</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree16">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree16" aria-expanded="false" aria-controls="collapseThree16">
+                        <h5 class="black-text font-weight-normal mb-0">How do your sitters discipline pets?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree17" class="collapse" role="tabpanel" aria-labelledby="headingThree16" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>We ask all of our clients to fill in a detailed questionnaire about their home and pet when they sign up for services. When you complete your pet’s profile we will ask you to tell us when, if or how often you would like us to reward your pet for certain behaviors. Perhaps you want us to withhold a treat for undesirable behavior or give a treat as a reward – you tell us what you prefer. Our pet sitters read these notes prior to visits and follow your guidelines. We only use treats that you provide.</li>
+                            <li>We NEVER use physical correction (such as spanking) for any pet ever! When we see attention getting behavior (such as jumping up on us) we feel that the best method to manage this behavior is to turn our back on or ignore the pet and immediately reward with praise when that undesirable behavior stops. Our job is to provide attention, love, food, water and exercise to the pets in our care. We also take the time to look over your pet at each visit and make sure they appear healthy and not distressed.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree17">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree17" aria-expanded="false" aria-controls="collapseThree17">
+                        <h5 class="black-text font-weight-normal mb-0">What is your policy if a pet becomes ill while under your care?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree18" class="collapse" role="tabpanel" aria-labelledby="headingThree17" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Please contact your Veterinarian’s office and ask them how they want to handle emergency treatment in the event that their pet is under the care of Paula’s Pet Sitting. They may ask you to fill out a special form or ask for prepayment instructions. All of the local Veterinarians are familiar with Paula’s Pet Sitting.</li>
+                            <li>If we suspect that your pet may be ill we will call you (the client) first and then your emergency contact phone number on file if we cannot reach you.</li>
+                            <li>If it is determined that your pet should be seen by a veterinarian we will transport them to the vet office for treatment.</li>
+                            <li>If we cannot get ahold of you (the client) or your emergency contact we will call the vet and let the vet determine if the pet should be seen.</li>
+                            <li>You will be billed for the time it takes us to transport your pet to the vet clinic at the rate of $25 per hour (this includes time to transport as well as time in the Vet office).</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree18">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree18" aria-expanded="false" aria-controls="collapseThree18">
+                        <h5 class="black-text font-weight-normal mb-0">Do you provide services to pets with aggression issues?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree19" class="collapse" role="tabpanel" aria-labelledby="headingThree18" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>If the pet has aggressively bit someone in the past we cannot provide service.</li>
+                            <li>If a pet is skittish or fearful it may be necessary to socialize the pet with our pet care provider. If that is the case, then the client needs to be present for socialization visits and pay the normal service fee until socialized.</li>
+                            <li>If at any time our pet sitter or pet owner feels that it is unsafe to perform a service, we will reserve the right to discontinue service. We would never leave your pet without care while you are away, but will take steps to ensure their wellbeing until a better care situation can be found.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+            <!-- Accordion card -->
+            <div class="card border-bottom-0 border-left border-right border-light">
+                <!-- Card header -->
+                <div class="card-header border-bottom border-light" role="tab" id="headingThree19">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree19" aria-expanded="false" aria-controls="collapseThree19">
+                        <h5 class="black-text font-weight-normal mb-0">Do you provide medication administration?</h5>
+                    </a>
+                </div>
+                <!-- Card body -->
+                <div id="collapseThree19" class="collapse" role="tabpanel" aria-labelledby="headingThree19" data-parent="#accordionEx">
+                    <div class="card-body">
+                        <ul>
+                            <li>Our Pet Care Providers are experienced with administration of oral medications and Insulin injections.</li>
+                            <li>Clients are expected to provide whatever is need as the “vehicle” to get the pet to eat the pill, ie: hotdog, cheese, pill pockets etc.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Accordion card -->
+        </div>
+        <!-- Accordion wrapper -->
+    </div>
+</div>
                                     </div>
                                 </div>
                             </div>
