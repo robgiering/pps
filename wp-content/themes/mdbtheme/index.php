@@ -240,7 +240,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading1">
-                            <a data-toggle="collapse" data-parent="#services" href="#servicesCollapse1" aria-expanded="true" aria-controls="servicesCollapse1">
+                            <a data-toggle="collapse" href="#servicesCollapse1" aria-expanded="true" aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -268,7 +268,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading2">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse2" aria-expanded="false" aria-controls="servicesCollapse2">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse2" aria-expanded="false" aria-controls="servicesCollapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -286,7 +286,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading3">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse3">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -304,7 +304,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading4">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse4" aria-expanded="false" aria-controls="servicesCollapse3">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse4" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -329,7 +329,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading5">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse5">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse5">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     All-Day Pet Care - $100 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -352,7 +352,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading6">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse6" aria-expanded="false" aria-controls="servicesCollapse6">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse6" aria-expanded="false" aria-controls="servicesCollapse6">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -370,7 +370,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading7">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse7" aria-expanded="false" aria-controls="servicesCollapse7">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse7" aria-expanded="false" aria-controls="servicesCollapse7">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -388,7 +388,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading8">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#servicesCollapse8" aria-expanded="false" aria-controls="servicesCollapse8">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse8" aria-expanded="false" aria-controls="servicesCollapse8">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -441,14 +441,14 @@
                         <div class="card">
                             <!-- Card header -->
                             <div class="card-header px-0 pt-0" role="tab" id="morequestionsHeading1">
-                                <a class="collapsed" data-toggle="morequestionsCollapse" href="#morequestionsCollapse" aria-expanded="false" aria-controls="morequestionsCollapse">
+                                <a class="collapsed" data-toggle="collapse" href="#morequestionsCollapse" aria-expanded="false" aria-controls="morequestionsCollapse">
                                     <h5 class="mb-0">
                                         Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                     </h5>
                                 </a>
                             </div>
                             <!-- Card body -->
-                            <div id="morequestionsCollapse1" class="collapse" role="tabpanel" data-parent="#morequestions" style="">
+                            <div id="morequestionsCollapse1" class="collapse" role="tabpanel" data-parent="#faq" style="">
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-12">
@@ -458,7 +458,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading1">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse1" data-parent="#faq" href="#faqFullCollapse1" aria-expanded="false" aria-controls="faqFullCollapse1">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse1" aria-expanded="false" aria-controls="faqFullCollapse1">
                                                             <h5 class="black-text font-weight-normal mb-0">What does it mean that you are “Bonded and Insured”?</h5>
                                                         </a>
                                                     </div>
@@ -478,7 +478,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading2">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse2"  data-parent="#faqFull" href="#faqFullCollapse2" aria-expanded="false" aria-controls="faqFullCollapse2">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse2" aria-expanded="false" aria-controls="faqFullCollapse2">
                                                             <h5 class="black-text font-weight-normal mb-0">Tell me about your Pet Care Providers</h5>
                                                         </a>
                                                     </div>
@@ -501,7 +501,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading3">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse3"  data-parent="#faqFull" href="#faqFullCollapse3" aria-expanded="false" aria-controls="faqFullCollapse3">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse3" aria-expanded="false" aria-controls="faqFullCollapse3">
                                                             <h5 class="black-text font-weight-normal mb-0">What hours are you open?</h5>
                                                         </a>
                                                     </div>
@@ -522,7 +522,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading4">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse4"  data-parent="#faqFull" href="#faqFullCollapse4" aria-expanded="false" aria-controls="faqFullCollapse4">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse4" aria-expanded="false" aria-controls="faqFullCollapse4">
                                                             <h5 class="black-text font-weight-normal mb-0">How do I get started with services?</h5>
                                                         </a>
                                                     </div>
@@ -543,7 +543,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading5">
-                                                        <a class="collapsed" data-toggle="collapse"  data-parent="#faqFull" href="#faqFullCollapse5" aria-expanded="false" aria-controls="faqFullCollapse5">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse5" aria-expanded="false" aria-controls="faqFullCollapse5">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you charge more during the holidays?</h5>
                                                         </a>
                                                     </div>
@@ -568,7 +568,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading6">
-                                                        <a class="collapsed" data-toggle="collapse"  data-parent="#faqFull" href="#faqFullCollapse6" aria-expanded="false" aria-controls="faqFullCollapse6">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse6" aria-expanded="false" aria-controls="faqFullCollapse6">
                                                             <h5 class="black-text font-weight-normal mb-0">What kinds of payment do you accept? Can I leave cash on the counter?</h5>
                                                         </a>
                                                     </div>
@@ -588,7 +588,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading7">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse7"  data-parent="#faqFull" href="#faqFullCollapse7" aria-expanded="false" aria-controls="faqFullCollapse7">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse7" aria-expanded="false" aria-controls="faqFullCollapse7">
                                                             <h5 class="black-text font-weight-normal mb-0">What is your Payments, Cancellation and Deposit Policy?</h5>
                                                         </a>
                                                     </div>
@@ -631,7 +631,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading8">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse8"  data-parent="#faqFull" href="#faqFullCollapse8" aria-expanded="false" aria-controls="faqFullCollapse8">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse8" aria-expanded="false" aria-controls="faqFullCollapse8">
                                                             <h5 class="black-text font-weight-normal mb-0">Can I schedule a same day appointment?</h5>
                                                         </a>
                                                     </div>
@@ -652,7 +652,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading9">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse9"  data-parent="#faqFull" href="#faqFullCollapse9" aria-expanded="false" aria-controls="faqFullCollapse9">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse9" aria-expanded="false" aria-controls="faqFullCollapse9">
                                                             <h5 class="black-text font-weight-normal mb-0">Can I book appointments with my pet sitter?</h5>
                                                         </a>
                                                     </div>
@@ -671,7 +671,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading10">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse10"  data-parent="#faqFull" href="#faqFullCollapse10" aria-expanded="false" aria-controls="faqFullCollapse10">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse10" aria-expanded="false" aria-controls="faqFullCollapse10">
                                                             <h5 class="black-text font-weight-normal mb-0">If I am a registered client, can I go online and book appointments on my own?</h5>
                                                         </a>
                                                     </div>
@@ -691,7 +691,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading11">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse11"  data-parent="#faqFull" href="#faqFullCollapse11" aria-expanded="false" aria-controls="faqFullCollapse11">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse11" aria-expanded="false" aria-controls="faqFullCollapse11">
                                                             <h5 class="black-text font-weight-normal mb-0">What is a “Meet and Greet”?</h5>
                                                         </a>
                                                     </div>
@@ -711,7 +711,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading12">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse12"  data-parent="#faqFull" href="#faqFullCollapse12" aria-expanded="false" aria-controls="faqFullCollapse12">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse12" aria-expanded="false" aria-controls="faqFullCollapse12">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you do Overnight Pet or House Sitting?</h5>
                                                         </a>
                                                     </div>
@@ -732,7 +732,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading13">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse13"  data-parent="#faqFull" href="#faqFullCollapse13" aria-expanded="false" aria-controls="faqFullCollapse13">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse13" aria-expanded="false" aria-controls="faqFullCollapse13">
                                                             <h5 class="black-text font-weight-normal mb-0">Does Paula's Pet Sitting offer Boarding Services in her home?</h5>
                                                         </a>
                                                     </div>
@@ -750,7 +750,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading14">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse14"  data-parent="#faqFull" href="#faqFullCollapse14" aria-expanded="false" aria-controls="faqFullCollapse14">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse14" aria-expanded="false" aria-controls="faqFullCollapse14">
                                                             <h5 class="black-text font-weight-normal mb-0">How do you enter my home?</h5>
                                                         </a>
                                                     </div>
@@ -773,7 +773,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading15">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse15"  data-parent="#faqFull" href="#faqFullCollapse15" aria-expanded="false" aria-controls="faqFullCollapse15">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse15" aria-expanded="false" aria-controls="faqFullCollapse15">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you offer a referral credit?</h5>
                                                         </a>
                                                     </div>
@@ -791,7 +791,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading16">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse16"  data-parent="#faqFull" href="#faqFullCollapse16" aria-expanded="false" aria-controls="faqFullCollapse16">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse16" aria-expanded="false" aria-controls="faqFullCollapse16">
                                                             <h5 class="black-text font-weight-normal mb-0">How do your sitters discipline pets?</h5>
                                                         </a>
                                                     </div>
@@ -810,7 +810,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading17">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse17"  data-parent="#faqFull" href="#faqFullCollapse17" aria-expanded="false" aria-controls="faqFullCollapse17">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse17" aria-expanded="false" aria-controls="faqFullCollapse17">
                                                             <h5 class="black-text font-weight-normal mb-0">What is your policy if a pet becomes ill while under your care?</h5>
                                                         </a>
                                                     </div>
@@ -832,7 +832,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading18">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse18"  data-parent="#faqFull" href="#faqFullCollapse18" aria-expanded="false" aria-controls="faqFullCollapse18">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse18" aria-expanded="false" aria-controls="faqFullCollapse18">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you provide services to pets with aggression issues?</h5>
                                                         </a>
                                                     </div>
@@ -852,7 +852,7 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading19">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse19"  data-parent="#faqFull" href="#faqFullCollapse19" aria-expanded="false" aria-controls="faqFullCollapse19">
+                                                        <a class="collapsed" data-toggle="collapse" href="#faqFullCollapse19" aria-expanded="false" aria-controls="faqFullCollapse19">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you provide medication administration?</h5>
                                                         </a>
                                                     </div>
