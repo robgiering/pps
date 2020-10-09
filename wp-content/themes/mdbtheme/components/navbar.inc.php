@@ -42,7 +42,7 @@
           <a class="nav-link" href="https://www.instagram.com/paulaspetsittinginmidland/" target="_blank"><i class="fab fa-instagram"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="mailto:PaulasPetSittingInMidlandMi@gmail.com" target="_blank"><i class="fab fa-email"></i></a>
+          <a class="nav-link" href="mailto:PaulasPetSittingInMidlandMi@gmail.com" target="_blank"><i class="far fa-envelope"></i></a>
         </li>
       </ul>
     </div>
@@ -66,8 +66,8 @@
                 <h5 class=" mb-4 white-text wow fadeInDown" data-wow-delay="0.4s">
                   <strong>We are committed to providing professional in-home pet care services to the Midland community.</strong>
                 </h5>
-                <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">Call Now</a>
-                <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">Contact Us</a>
+                <a class="btn btn-outline-white wow fadeInDown" href="tel:989-513-7937" data-wow-delay="0.4s">Call Now</a>
+                <a class="btn btn-outline-white wow fadeInDown" href="#contact" data-wow-delay="0.4s">Contact Us</a>
               </div>
             </div>
           </div>

@@ -3,7 +3,7 @@
 <main>
     <div class="container-fluid mt-md-0 mt-5">
         <!-- Grid row -->
-        <div class="row" style="margin-top: -100px;">
+        <div class="row" style="margin-top: -100px;" id="about">
             <!-- Grid column -->
             <div class="col-md-12 px-lg-5">
                 <!-- Card -->
@@ -234,14 +234,14 @@
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
-              <h2 class="display-4 text-white text-uppercase text-center my-4">Our Services</h2>
+              <h2 class="display-4 text-white text-center my-4">Our Services</h2>
                 <!--Accordion wrapper-->
                 <div class="accordion md-accordion accordion-2" id="services" role="tablist" aria-multiselectable="true">
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading1">
-                            <a data-toggle="collapse" href="#servicesCollapse1" aria-expanded="true" aria-controls="servicesCollapse1">
+                            <a data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false" aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -432,7 +432,7 @@
                     <h5 class="font-weight-normal mb-3">What hours are you open?</h5>
                     <p class="text-muted">We care for animals 7 days a week, 7 am to 9 pm.
                         Our business hours are Monday through Friday, 8 a.m. to 5 p.m. for scheduling and registration questions.
-                        Prospective clients may call 989-513-7937 during these hours to speak with our office manager regarding our offered services.<</p> </div> <div class="col-md-6 col-lg-4 mb-4">
+                        Prospective clients may call 989-513-7937 during these hours to speak with our office manager regarding our offered services.</p> </div> <div class="col-md-6 col-lg-4 mb-4">
                             <h5 class="font-weight-normal mb-3">Tell me about your Pet Care Providers</h5>
                             <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</p>
                 </div>
@@ -534,7 +534,6 @@
                                                                 <li>Click on the “Book Now” button at the top of each page of the Paula’s Pet Sitting Website. This sends a message to our Office Manager who will help you get registered. OR:</li>
                                                                 <li>Call our Office Manager at 989-513-7937. She will be happy to answer any questions you may have about our services. When you are ready, she will email you the link to register on our Pet Sitting Software called “Time To Pet”.</li>
                                                                 <li>After you are registered our Office Manager will schedule a “Meet and Greet” at your home so that you can meet your Pet Care Team.</li>
-                                                                <li>From now all all you need to do to schedule a visit is to request it through your computer or our APP.</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -1089,7 +1088,7 @@
     <!-- Grid row -->
     <div class="row" style="margin-top: -30px;" id="contact">
         <!-- Grid column -->
-        <div class="col-md-12 px-lg-5">
+        <div class="col-md-12 px-lg-5 py-lg-5">
             <!-- Card -->
             <div class="card pb-5 mx-md-3">
                 <div class="card-body">

@@ -21,7 +21,7 @@
             <a class="mr-3" href="https://www.instagram.com/paulaspetsittinginmidland/" target="_blank"><i class="fab fa-instagram"></i></a>
           </li>
           <li>
-            <a class="mr-3" href="mailto:PaulasPetSittingInMidlandMi@gmail.com" target="_blank"><i class="fab fa-email"></i></a>
+            <a class="mr-3" href="mailto:PaulasPetSittingInMidlandMi@gmail.com" target="_blank"><i class="far fa-envelope"></i></a>
           </li>
         </ul>
       </div>
