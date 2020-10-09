@@ -96,7 +96,7 @@
                         <div class="container">
                             <section class="p-md-3 mx-md-5 text-lg-left">
                                 <h2 class="text-center font-weight-bold mb-4 pb-1">Our Team</h2>
-                                <p class="text-center lead mb-5 pb-2 text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                                <p class="text-center lead mb-5 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
@@ -234,7 +234,7 @@
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
-              <h1 class="display-3 white-text">Our Services</h1>
+              <h2 class="display-4 text-white text-uppercase text-center my-4">Our Services</h2>
                 <!--Accordion wrapper-->
                 <div class="accordion md-accordion accordion-2" id="services" role="tablist" aria-multiselectable="true">
                     <!-- Accordion card -->
