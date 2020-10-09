@@ -1,6 +1,6 @@
 <?php get_header(); require_once('components/navbar.inc.php'); ?>
 <!-- Main Layout -->
-<main>
+<main id="home">
     <div class="container-fluid mt-md-0 mt-5">
         <!-- Grid row -->
         <div class="row" style="margin-top: -100px;" id="about">
