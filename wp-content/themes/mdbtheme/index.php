@@ -234,7 +234,7 @@
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
-              <h1 class="display-3 text-white">Our Services</h1>
+              <h1 class="display-3 white-text">Our Services</h1>
                 <!--Accordion wrapper-->
                 <div class="accordion md-accordion accordion-2" id="services" role="tablist" aria-multiselectable="true">
                     <!-- Accordion card -->
