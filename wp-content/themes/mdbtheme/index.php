@@ -448,7 +448,7 @@
                                 </a>
                             </div>
                             <!-- Card body -->
-                            <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1" data-parent="#faq" style="">
+                            <div id="morequestionsCollapse" class="collapse" role="tabpanel" data-parent="#morequestions" style="">
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-12">
