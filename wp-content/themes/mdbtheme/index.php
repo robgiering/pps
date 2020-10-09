@@ -240,7 +240,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading1">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading1">
                             <a data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false" aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
@@ -268,7 +268,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading2">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading2">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse2" aria-expanded="false" aria-controls="servicesCollapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
@@ -286,7 +286,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading3">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading3">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
@@ -304,7 +304,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading4">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading4">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse4" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
@@ -329,7 +329,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading5">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading5">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse5" aria-expanded="false" aria-controls="servicesCollapse5">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     All-Day Pet Care - $100 <i class="fas fa-angle-down rotate-icon"></i>
@@ -352,7 +352,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading6">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading6">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse6" aria-expanded="false" aria-controls="servicesCollapse6">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
@@ -370,7 +370,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading7">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading7">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse7" aria-expanded="false" aria-controls="servicesCollapse7">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
@@ -388,7 +388,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading8">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading8">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse8" aria-expanded="false" aria-controls="servicesCollapse8">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
