@@ -453,7 +453,7 @@
                                     <div class="row">
                                         <div class="col-md-12">
                                             <!--Accordion wrapper-->
-                                            <div class="accordion md-accordion" id="faq" role="tablist" aria-multiselectable="true">
+                                            <div class="accordion md-accordion" id="faqFull" role="tablist" aria-multiselectable="true">
                                                 <!-- Accordion card -->
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
@@ -463,7 +463,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse1" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading1" data-parent="#faq">
+                                                    <div id="faqFullCollapse1" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading1"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>A Liability insurance policy protects a business owner in case they are liable for accidental damage or injury that they cause while caring for pets in your home.</li>
@@ -478,12 +478,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading2">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse2" data-parent="#faq" href="#faqFullCollapse2" aria-expanded="false" aria-controls="faqFullCollapse2">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse2"  data-parent="#faqFull" href="#faqFullCollapse2" aria-expanded="false" aria-controls="faqFullCollapse2">
                                                             <h5 class="black-text font-weight-normal mb-0">Tell me about your Pet Care Providers</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse2" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading2" data-parent="#faq">
+                                                    <div id="faqFullCollapse2" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading2"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</li>
@@ -501,12 +501,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading3">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse3" data-parent="#faq" href="#faqFullCollapse3" aria-expanded="false" aria-controls="faqFullCollapse3">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse3"  data-parent="#faqFull" href="#faqFullCollapse3" aria-expanded="false" aria-controls="faqFullCollapse3">
                                                             <h5 class="black-text font-weight-normal mb-0">What hours are you open?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse3" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading3" data-parent="#faq">
+                                                    <div id="faqFullCollapse3" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading3"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We care for animals 7 days a week, 7 am to 9 pm.</li>
@@ -522,12 +522,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading4">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse4" data-parent="#faq" href="#faqFullCollapse4" aria-expanded="false" aria-controls="faqFullCollapse4">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse4"  data-parent="#faqFull" href="#faqFullCollapse4" aria-expanded="false" aria-controls="faqFullCollapse4">
                                                             <h5 class="black-text font-weight-normal mb-0">How do I get started with services?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse4" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading4" data-parent="#faq">
+                                                    <div id="faqFullCollapse4" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading4"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Click on the “Book Now” button at the top of each page of the Paula’s Pet Sitting Website. This sends a message to our Office Manager who will help you get registered. OR:</li>
@@ -543,12 +543,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading5">
-                                                        <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse5" aria-expanded="false" aria-controls="faqFullCollapse5">
+                                                        <a class="collapsed" data-toggle="collapse"  data-parent="#faqFull" href="#faqFullCollapse5" aria-expanded="false" aria-controls="faqFullCollapse5">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you charge more during the holidays?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse5" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading5" data-parent="#faq">
+                                                    <div id="faqFullCollapse5" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading5"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Holiday Policy: Holiday services incur a $5 surcharge.</li>
@@ -568,12 +568,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading6">
-                                                        <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse6" aria-expanded="false" aria-controls="faqFullCollapse6">
+                                                        <a class="collapsed" data-toggle="collapse"  data-parent="#faqFull" href="#faqFullCollapse6" aria-expanded="false" aria-controls="faqFullCollapse6">
                                                             <h5 class="black-text font-weight-normal mb-0">What kinds of payment do you accept? Can I leave cash on the counter?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse6" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading6" data-parent="#faq">
+                                                    <div id="faqFullCollapse6" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading6"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Payments for services may be made by credit card through our emailed invoice.
@@ -588,12 +588,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading7">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse7" data-parent="#faq" href="#faqFullCollapse7" aria-expanded="false" aria-controls="faqFullCollapse7">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse7"  data-parent="#faqFull" href="#faqFullCollapse7" aria-expanded="false" aria-controls="faqFullCollapse7">
                                                             <h5 class="black-text font-weight-normal mb-0">What is your Payments, Cancellation and Deposit Policy?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse7" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading7" data-parent="#faq">
+                                                    <div id="faqFullCollapse7" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading7"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Clients of Paula’s Pet Sitting agree to pay for all services that are requested and scheduled (in that invoice) if they are not canceled prior to the following cancelation windows as described below.</li>
@@ -631,12 +631,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading8">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse8" data-parent="#faq" href="#faqFullCollapse8" aria-expanded="false" aria-controls="faqFullCollapse8">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse8"  data-parent="#faqFull" href="#faqFullCollapse8" aria-expanded="false" aria-controls="faqFullCollapse8">
                                                             <h5 class="black-text font-weight-normal mb-0">Can I schedule a same day appointment?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse8" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading8" data-parent="#faq">
+                                                    <div id="faqFullCollapse8" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading8"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Yes, you may schedule appointments on the same day that you need service, however your request is subject to availability in the Pet Care Provider’s schedule.</li>
@@ -652,12 +652,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading9">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse9" data-parent="#faq" href="#faqFullCollapse9" aria-expanded="false" aria-controls="faqFullCollapse9">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse9"  data-parent="#faqFull" href="#faqFullCollapse9" aria-expanded="false" aria-controls="faqFullCollapse9">
                                                             <h5 class="black-text font-weight-normal mb-0">Can I book appointments with my pet sitter?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse9" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading9" data-parent="#faq">
+                                                    <div id="faqFullCollapse9" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading9"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>NO! For the safety of your pets all scheduling must be done by the client online or by calling the office.</li>
@@ -671,12 +671,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading10">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse10" data-parent="#faq" href="#faqFullCollapse10" aria-expanded="false" aria-controls="faqFullCollapse10">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse10"  data-parent="#faqFull" href="#faqFullCollapse10" aria-expanded="false" aria-controls="faqFullCollapse10">
                                                             <h5 class="black-text font-weight-normal mb-0">If I am a registered client, can I go online and book appointments on my own?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse10" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading10" data-parent="#faq">
+                                                    <div id="faqFullCollapse10" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading10"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>YES! We encourage you to feel free to schedule any time it is convenient for you.</li>
@@ -691,12 +691,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading11">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse11" data-parent="#faq" href="#faqFullCollapse11" aria-expanded="false" aria-controls="faqFullCollapse11">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse11"  data-parent="#faqFull" href="#faqFullCollapse11" aria-expanded="false" aria-controls="faqFullCollapse11">
                                                             <h5 class="black-text font-weight-normal mb-0">What is a “Meet and Greet”?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse11" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading11" data-parent="#faq">
+                                                    <div id="faqFullCollapse11" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading11"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>A “Meet and Greet” (M&G) is our first visit to your home. This is where you will show us where necessary items are located, give us TWO keys to enter your home, show us how to work your security system (if applicable), and most importantly: We will MEET YOUR PETS!!</li>
@@ -711,12 +711,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading12">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse12" data-parent="#faq" href="#faqFullCollapse12" aria-expanded="false" aria-controls="faqFullCollapse12">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse12"  data-parent="#faqFull" href="#faqFullCollapse12" aria-expanded="false" aria-controls="faqFullCollapse12">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you do Overnight Pet or House Sitting?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse12" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading12" data-parent="#faq">
+                                                    <div id="faqFullCollapse12" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading12"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>If you would like the added security of someone living in your home while you are away we can help you with that!
@@ -732,12 +732,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading13">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse13" data-parent="#faq" href="#faqFullCollapse13" aria-expanded="false" aria-controls="faqFullCollapse13">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse13"  data-parent="#faqFull" href="#faqFullCollapse13" aria-expanded="false" aria-controls="faqFullCollapse13">
                                                             <h5 class="black-text font-weight-normal mb-0">Does Paula's Pet Sitting offer Boarding Services in her home?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse13" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading13" data-parent="#faq">
+                                                    <div id="faqFullCollapse13" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading13"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We are no longer offering Boarding Services in our home.</li>
@@ -750,12 +750,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading14">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse14" data-parent="#faq" href="#faqFullCollapse14" aria-expanded="false" aria-controls="faqFullCollapse14">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse14"  data-parent="#faqFull" href="#faqFullCollapse14" aria-expanded="false" aria-controls="faqFullCollapse14">
                                                             <h5 class="black-text font-weight-normal mb-0">How do you enter my home?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse14" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading14" data-parent="#faq">
+                                                    <div id="faqFullCollapse14" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading14"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>The safest and most efficient method for our Pet Sitters to enter your home is by using a lockbox.</li>
@@ -773,12 +773,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading15">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse15" data-parent="#faq" href="#faqFullCollapse15" aria-expanded="false" aria-controls="faqFullCollapse15">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse15"  data-parent="#faqFull" href="#faqFullCollapse15" aria-expanded="false" aria-controls="faqFullCollapse15">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you offer a referral credit?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse15" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading15" data-parent="#faq">
+                                                    <div id="faqFullCollapse15" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading15"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Yes we do!! The way the program works is super simple! Each time you refer someone to us and they book a minimum of 5 visits, you will receive a $10 credit for future services! All we ask is that you tell us when you have referred someone (to include their name) so we can watch for them!</li>
@@ -791,12 +791,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading16">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse16" data-parent="#faq" href="#faqFullCollapse16" aria-expanded="false" aria-controls="faqFullCollapse16">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse16"  data-parent="#faqFull" href="#faqFullCollapse16" aria-expanded="false" aria-controls="faqFullCollapse16">
                                                             <h5 class="black-text font-weight-normal mb-0">How do your sitters discipline pets?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse16" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading16" data-parent="#faq">
+                                                    <div id="faqFullCollapse16" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading16"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We ask all of our clients to fill in a detailed questionnaire about their home and pet when they sign up for services. When you complete your pet’s profile we will ask you to tell us when, if or how often you would like us to reward your pet for certain behaviors. Perhaps you want us to withhold a treat for undesirable behavior or give a treat as a reward – you tell us what you prefer. Our pet sitters read these notes prior to visits and follow your guidelines. We only use treats that you provide.</li>
@@ -810,12 +810,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading17">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse17" data-parent="#faq" href="#faqFullCollapse17" aria-expanded="false" aria-controls="faqFullCollapse17">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse17"  data-parent="#faqFull" href="#faqFullCollapse17" aria-expanded="false" aria-controls="faqFullCollapse17">
                                                             <h5 class="black-text font-weight-normal mb-0">What is your policy if a pet becomes ill while under your care?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse17" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading17" data-parent="#faq">
+                                                    <div id="faqFullCollapse17" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading17"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Please contact your Veterinarian’s office and ask them how they want to handle emergency treatment in the event that their pet is under the care of Paula’s Pet Sitting. They may ask you to fill out a special form or ask for prepayment instructions. All of the local Veterinarians are familiar with Paula’s Pet Sitting.</li>
@@ -832,12 +832,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading18">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse18" data-parent="#faq" href="#faqFullCollapse18" aria-expanded="false" aria-controls="faqFullCollapse18">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse18"  data-parent="#faqFull" href="#faqFullCollapse18" aria-expanded="false" aria-controls="faqFullCollapse18">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you provide services to pets with aggression issues?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse18" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading18" data-parent="#faq">
+                                                    <div id="faqFullCollapse18" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading18"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>If the pet has aggressively bit someone in the past we cannot provide service.</li>
@@ -852,12 +852,12 @@
                                                 <div class="card border-bottom-0 border-left border-right border-light">
                                                     <!-- Card header -->
                                                     <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading19">
-                                                        <a class="collapsed" data-toggle="faqFullCollapse19" data-parent="#faq" href="#faqFullCollapse19" aria-expanded="false" aria-controls="faqFullCollapse19">
+                                                        <a class="collapsed" data-toggle="faqFullCollapse19"  data-parent="#faqFull" href="#faqFullCollapse19" aria-expanded="false" aria-controls="faqFullCollapse19">
                                                             <h5 class="black-text font-weight-normal mb-0">Do you provide medication administration?</h5>
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse19" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading19" data-parent="#faq">
+                                                    <div id="faqFullCollapse19" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading19"  data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Our Pet Care Providers are experienced with administration of oral medications and Insulin injections.</li>
