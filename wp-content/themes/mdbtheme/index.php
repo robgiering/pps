@@ -281,19 +281,19 @@
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
                 <!--Accordion wrapper-->
-                <div class="accordion md-accordion accordion-2" id="accordionEx7" role="tablist" aria-multiselectable="true">
+                <div class="accordion md-accordion accordion-2" id="services" role="tablist" aria-multiselectable="true">
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading1">
-                            <a data-toggle="collapse" data-parent="#accordionEx7" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader1">
+                            <a data-toggle="collapse" data-parent="#services" href="#collapse1" aria-expanded="true" aria-controls="collapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse1" class="collapse show" role="tabpanel" aria-labelledby="heading1" data-parent="#accordionEx7">
+                        <div id="collapse1" class="collapse show" role="tabpanel" aria-labelledby="servicesheader1" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <ul>
 <li>City limits only.</li>
@@ -314,15 +314,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading2">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader2">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="heading2" data-parent="#accordionEx7">
+                        <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="servicesheader2" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                               <p>Perfect for one or two pets – during the 30 minute visit our pet sitters will feed, freshen water, clean litter or cages, spend time in back yard or go for a walk with your pet, bring in the mail or newspaper or water plants as you require.  This service can be used for any type of pet.  Can be used in combination with the 60-minute visit while on vacation (for example: three 30-minute visits and one 60-minute long mid-day walk).</p>
                             </div>
@@ -332,15 +332,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading3">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader3">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="heading3" data-parent="#accordionEx7">
+                        <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="servicesheader3" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <p>Perfect for families with more than 2 or 3 pets or if your critters just needs some extra love and attention.  Our pet sitters will feed, freshen water, clean litter or cages, spend time in back yard or go for a walk with your pet, bring in the mail or newspaper or water plants as you require.  This service can be used for any type of pet. Can be used in combination with the 30-minute visit while on vacation (for example: three 30-minute visits and one 60-minute long mid-day walk).</p>
                             </div>
@@ -350,15 +350,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading4">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse4" aria-expanded="false" aria-controls="collapse3">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader4">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse4" aria-expanded="false" aria-controls="collapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="heading4" data-parent="#accordionEx7">
+                        <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="servicesheader4" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
 <p>The Night Time Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC. By having a Pet Sitter in your home all night, you receive the benefits of home security, monitoring for power outages, flooding and to give your home a lived in appearance in addition to never leaving your pet alone. Our pet sitters will even share their bed with the pet as long as the pet sleeps through the night!</p>
 <ul>
@@ -375,15 +375,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading5">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse3" aria-expanded="false" aria-controls="collapse5">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader5">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse3" aria-expanded="false" aria-controls="collapse5">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     All-Day Pet Care - $100 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="heading5" data-parent="#accordionEx7">
+                        <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="servicesheader5" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <p>The All Day Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC.&nbsp; Many of our clients love having a pet sitter stay at their home during the day when realtors are showing their house, when waiting for deliveries or when workmen/women are in the home.&nbsp; By having a Pet Sitter in your home All Day, you receive the benefits of home security,&nbsp; monitoring for power outages, flooding and to give your home a lived in appearance in addition to never leaving your pet alone.</p>
                                 <ul>
@@ -398,15 +398,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading6">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader6">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse6" aria-expanded="false" aria-controls="collapse6">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="heading6" data-parent="#accordionEx7">
+                        <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="servicesheader6" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <p>One of our pet sitters will pick your pet up and/or drop him off at the location of your choice in the city limits of Midland (Ex: Groomer, Vet, Daycare, Grandma’s house). Taxi Service outside the city of Midland is subject to availability. This service can be used for any type of pet.</p>
                             </div>
@@ -416,15 +416,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading7">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader7">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse7" aria-expanded="false" aria-controls="collapse7">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="heading7" data-parent="#accordionEx7">
+                        <div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="servicesheader7" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <p>One of our pet sitters will pick your pet up and/or drop him off at the location of your choice in the city limits of Midland (Ex: Groomer, Vet, Daycare, Grandma’s house). Taxi Service outside the city of Midland is subject to availability. This service can be used for any type of pet.</p>
                             </div>
@@ -434,15 +434,15 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="heading8">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx7" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
+                        <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesheader8">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#services" href="#collapse8" aria-expanded="false" aria-controls="collapse8">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="heading8" data-parent="#accordionEx7">
+                        <div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="servicesheader8" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <ul>
 <li>City limits only.</li>
@@ -491,14 +491,14 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
         <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</p>
       </div>
       <div class="col-md-12">
-      <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+      <div class="accordion md-accordion" id="faq" role="tablist" aria-multiselectable="true">
 
                     <!-- Accordion card -->
                     <div class="card">
 
                         <!-- Card header -->
-                        <div class="card-header px-0 pt-0" role="tab" id="headingOne1">
-                            <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne1" aria-expanded="false" aria-controls="collapseOne1">
+                        <div class="card-header px-0 pt-0" role="tab" id="morequestions">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#morequestions" href="#morequestions" aria-expanded="false" aria-controls="morequestions">
                                 <h5 class="mb-0">
                                     Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -506,24 +506,24 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
                         </div>
 
                         <!-- Card body -->
-                        <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1" data-parent="#accordionEx" style="">
+                        <div id="collapseOne1" class="collapse" role="tabpanel" aria-labelledby="headingOne1" data-parent="#faq" style="">
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-md-12">
                                     <div class="row">
     <div class="col-md-12 col-lg-10 mx-auto mb-5">
         <!--Accordion wrapper-->
-        <div class="accordion md-accordion" id="accordionEx" role="tablist" aria-multiselectable="true">
+        <div class="accordion md-accordion" id="faq" role="tablist" aria-multiselectable="true">
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree1">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree1" aria-expanded="false" aria-controls="collapseThree1">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading1">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse1" aria-expanded="false" aria-controls="faqFullCollapse1">
                         <h5 class="black-text font-weight-normal mb-0">What does it mean that you are “Bonded and Insured”?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree1" class="collapse" role="tabpanel" aria-labelledby="headingThree1" data-parent="#accordionEx">
+                <div id="faqFullCollapse1" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading1" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>A Liability insurance policy protects a business owner in case they are liable for accidental damage or injury that they cause while caring for pets in your home.</li>
@@ -537,13 +537,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree2">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree2" aria-expanded="false" aria-controls="collapseThree2">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading2">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse2" aria-expanded="false" aria-controls="faqFullCollapse2">
                         <h5 class="black-text font-weight-normal mb-0">Tell me about your Pet Care Providers</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree2" class="collapse" role="tabpanel" aria-labelledby="headingThree2" data-parent="#accordionEx">
+                <div id="faqFullCollapse2" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading2" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</li>
@@ -560,13 +560,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree3">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree3" aria-expanded="false" aria-controls="collapseThree3">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading3">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse3" aria-expanded="false" aria-controls="faqFullCollapse3">
                         <h5 class="black-text font-weight-normal mb-0">What hours are you open?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree3" class="collapse" role="tabpanel" aria-labelledby="headingThree3" data-parent="#accordionEx">
+                <div id="faqFullCollapse3" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading3" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>We care for animals 7 days a week, 7 am to 9 pm.</li>
@@ -581,13 +581,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree4">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree4" aria-expanded="false" aria-controls="collapseThree4">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading4">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse4" aria-expanded="false" aria-controls="faqFullCollapse4">
                         <h5 class="black-text font-weight-normal mb-0">How do I get started with services?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree4" data-parent="#accordionEx">
+                <div id="faqFullCollapse4" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading4" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Click on the “Book Now” button at the top of each page of the Paula’s Pet Sitting Website. This sends a message to our Office Manager who will help you get registered. OR:</li>
@@ -602,13 +602,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree5">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree5" aria-expanded="false" aria-controls="collapseThree5">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading5">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse5" aria-expanded="false" aria-controls="faqFullCollapse5">
                         <h5 class="black-text font-weight-normal mb-0">Do you charge more during the holidays?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree5" class="collapse" role="tabpanel" aria-labelledby="headingThree5" data-parent="#accordionEx">
+                <div id="faqFullCollapse5" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading5" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Holiday Policy: Holiday services incur a $5 surcharge.</li>
@@ -627,13 +627,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree6">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree6" aria-expanded="false" aria-controls="collapseThree6">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading6">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse6" aria-expanded="false" aria-controls="faqFullCollapse6">
                         <h5 class="black-text font-weight-normal mb-0">What kinds of payment do you accept? Can I leave cash on the counter?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree6" class="collapse" role="tabpanel" aria-labelledby="headingThree6" data-parent="#accordionEx">
+                <div id="faqFullCollapse6" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading6" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Payments for services may be made by credit card through our emailed invoice.
@@ -647,13 +647,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree7">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree7" aria-expanded="false" aria-controls="collapseThree7">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading7">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse7" aria-expanded="false" aria-controls="faqFullCollapse7">
                         <h5 class="black-text font-weight-normal mb-0">What is your Payments, Cancellation and Deposit Policy?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree8" class="collapse" role="tabpanel" aria-labelledby="headingThree7" data-parent="#accordionEx">
+                <div id="faqFullCollapse8" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading7" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Clients of Paula’s Pet Sitting agree to pay for all services that are requested and scheduled (in that invoice) if they are not canceled prior to the following cancelation windows as described below.</li>
@@ -690,13 +690,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree8">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree8" aria-expanded="false" aria-controls="collapseThree8">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading8">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse8" aria-expanded="false" aria-controls="faqFullCollapse8">
                         <h5 class="black-text font-weight-normal mb-0">Can I schedule a same day appointment?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree9" class="collapse" role="tabpanel" aria-labelledby="headingThree8" data-parent="#accordionEx">
+                <div id="faqFullCollapse9" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading8" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Yes, you may schedule appointments on the same day that you need service, however your request is subject to availability in the Pet Care Provider’s schedule.</li>
@@ -711,13 +711,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree9">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree9" aria-expanded="false" aria-controls="collapseThree9">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading9">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse9" aria-expanded="false" aria-controls="faqFullCollapse9">
                         <h5 class="black-text font-weight-normal mb-0">Can I book appointments with my pet sitter?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree10" class="collapse" role="tabpanel" aria-labelledby="headingThree9" data-parent="#accordionEx">
+                <div id="faqFullCollapse10" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading9" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>NO! For the safety of your pets all scheduling must be done by the client online or by calling the office.</li>
@@ -730,13 +730,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree10">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree10" aria-expanded="false" aria-controls="collapseThree10">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading10">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse10" aria-expanded="false" aria-controls="faqFullCollapse10">
                         <h5 class="black-text font-weight-normal mb-0">If I am a registered client, can I go online and book appointments on my own?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree11" class="collapse" role="tabpanel" aria-labelledby="headingThree10" data-parent="#accordionEx">
+                <div id="faqFullCollapse11" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading10" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>YES! We encourage you to feel free to schedule any time it is convenient for you.</li>
@@ -750,13 +750,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree11">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree11" aria-expanded="false" aria-controls="collapseThree11">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading11">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse11" aria-expanded="false" aria-controls="faqFullCollapse11">
                         <h5 class="black-text font-weight-normal mb-0">What is a “Meet and Greet”?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree12" class="collapse" role="tabpanel" aria-labelledby="headingThree11" data-parent="#accordionEx">
+                <div id="faqFullCollapse12" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading11" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>A “Meet and Greet” (M&G) is our first visit to your home. This is where you will show us where necessary items are located, give us TWO keys to enter your home, show us how to work your security system (if applicable), and most importantly: We will MEET YOUR PETS!!</li>
@@ -770,13 +770,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree12">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree12" aria-expanded="false" aria-controls="collapseThree12">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading12">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse12" aria-expanded="false" aria-controls="faqFullCollapse12">
                         <h5 class="black-text font-weight-normal mb-0">Do you do Overnight Pet or House Sitting?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree13" class="collapse" role="tabpanel" aria-labelledby="headingThree12" data-parent="#accordionEx">
+                <div id="faqFullCollapse13" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading12" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>If you would like the added security of someone living in your home while you are away we can help you with that!
@@ -791,13 +791,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree13">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree13" aria-expanded="false" aria-controls="collapseThree13">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading13">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse13" aria-expanded="false" aria-controls="faqFullCollapse13">
                         <h5 class="black-text font-weight-normal mb-0">Does Paula's Pet Sitting offer Boarding Services in her home?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree14" class="collapse" role="tabpanel" aria-labelledby="headingThree13" data-parent="#accordionEx">
+                <div id="faqFullCollapse14" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading13" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>We are no longer offering Boarding Services in our home.</li>
@@ -809,13 +809,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree14">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree14" aria-expanded="false" aria-controls="collapseThree14">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading14">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse14" aria-expanded="false" aria-controls="faqFullCollapse14">
                         <h5 class="black-text font-weight-normal mb-0">How do you enter my home?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree15" class="collapse" role="tabpanel" aria-labelledby="headingThree14" data-parent="#accordionEx">
+                <div id="faqFullCollapse15" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading14" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>The safest and most efficient method for our Pet Sitters to enter your home is by using a lockbox.</li>
@@ -832,13 +832,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree15">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree15" aria-expanded="false" aria-controls="collapseThree15">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading15">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse15" aria-expanded="false" aria-controls="faqFullCollapse15">
                         <h5 class="black-text font-weight-normal mb-0">Do you offer a referral credit?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree16" class="collapse" role="tabpanel" aria-labelledby="headingThree15" data-parent="#accordionEx">
+                <div id="faqFullCollapse16" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading15" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Yes we do!! The way the program works is super simple! Each time you refer someone to us and they book a minimum of 5 visits, you will receive a $10 credit for future services! All we ask is that you tell us when you have referred someone (to include their name) so we can watch for them!</li>
@@ -850,13 +850,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree16">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree16" aria-expanded="false" aria-controls="collapseThree16">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading16">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse16" aria-expanded="false" aria-controls="faqFullCollapse16">
                         <h5 class="black-text font-weight-normal mb-0">How do your sitters discipline pets?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree17" class="collapse" role="tabpanel" aria-labelledby="headingThree16" data-parent="#accordionEx">
+                <div id="faqFullCollapse17" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading16" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>We ask all of our clients to fill in a detailed questionnaire about their home and pet when they sign up for services. When you complete your pet’s profile we will ask you to tell us when, if or how often you would like us to reward your pet for certain behaviors. Perhaps you want us to withhold a treat for undesirable behavior or give a treat as a reward – you tell us what you prefer. Our pet sitters read these notes prior to visits and follow your guidelines. We only use treats that you provide.</li>
@@ -869,13 +869,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree17">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree17" aria-expanded="false" aria-controls="collapseThree17">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading17">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse17" aria-expanded="false" aria-controls="faqFullCollapse17">
                         <h5 class="black-text font-weight-normal mb-0">What is your policy if a pet becomes ill while under your care?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree18" class="collapse" role="tabpanel" aria-labelledby="headingThree17" data-parent="#accordionEx">
+                <div id="faqFullCollapse18" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading17" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Please contact your Veterinarian’s office and ask them how they want to handle emergency treatment in the event that their pet is under the care of Paula’s Pet Sitting. They may ask you to fill out a special form or ask for prepayment instructions. All of the local Veterinarians are familiar with Paula’s Pet Sitting.</li>
@@ -891,13 +891,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree18">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree18" aria-expanded="false" aria-controls="collapseThree18">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading18">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse18" aria-expanded="false" aria-controls="faqFullCollapse18">
                         <h5 class="black-text font-weight-normal mb-0">Do you provide services to pets with aggression issues?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree19" class="collapse" role="tabpanel" aria-labelledby="headingThree18" data-parent="#accordionEx">
+                <div id="faqFullCollapse19" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading18" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>If the pet has aggressively bit someone in the past we cannot provide service.</li>
@@ -911,13 +911,13 @@ Prospective clients may call 989-513-7937 during these hours to speak with our o
             <!-- Accordion card -->
             <div class="card border-bottom-0 border-left border-right border-light">
                 <!-- Card header -->
-                <div class="card-header border-bottom border-light" role="tab" id="headingThree19">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree19" aria-expanded="false" aria-controls="collapseThree19">
+                <div class="card-header border-bottom border-light" role="tab" id="faqFullHeading19">
+                    <a class="collapsed" data-toggle="collapse" data-parent="#faq" href="#faqFullCollapse19" aria-expanded="false" aria-controls="faqFullCollapse19">
                         <h5 class="black-text font-weight-normal mb-0">Do you provide medication administration?</h5>
                     </a>
                 </div>
                 <!-- Card body -->
-                <div id="collapseThree19" class="collapse" role="tabpanel" aria-labelledby="headingThree19" data-parent="#accordionEx">
+                <div id="faqFullCollapse19" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading19" data-parent="#faq">
                     <div class="card-body">
                         <ul>
                             <li>Our Pet Care Providers are experienced with administration of oral medications and Insulin injections.</li>
