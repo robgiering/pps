@@ -440,15 +440,15 @@
                         <!-- Accordion card -->
                         <div class="card">
                             <!-- Card header -->
-                            <div class="card-header px-0 pt-0" role="tab" id="morequestions">
-                                <a class="collapsed" data-toggle="morequestionsCollapse" data-parent="#morequestions" href="#morequestionsCollapse" aria-expanded="false" aria-controls="morequestions">
+                            <div class="card-header px-0 pt-0" role="tab" id="morequestionsHeading1">
+                                <a class="collapsed" data-toggle="morequestionsCollapse" href="#morequestionsCollapse" aria-expanded="false" aria-controls="morequestionsCollapse">
                                     <h5 class="mb-0">
                                         Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                     </h5>
                                 </a>
                             </div>
                             <!-- Card body -->
-                            <div id="morequestionsCollapse" class="collapse" role="tabpanel" data-parent="#morequestions" style="">
+                            <div id="morequestionsCollapse1" class="collapse" role="tabpanel" data-parent="#morequestions" style="">
                                 <div class="card-body">
                                     <div class="row">
                                         <div class="col-md-12">
