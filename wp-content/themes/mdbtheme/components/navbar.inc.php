@@ -20,10 +20,10 @@
           <a class="nav-link" href="#about" data-offset="65">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#services" data-offset="65">Services</a>
+          <a class="nav-link" href="#ourteam" data-offset="65">Our Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#ourteam" data-offset="65">Our Team</a>
+          <a class="nav-link" href="#services" data-offset="65">Services</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#faq" data-offset="65">FAQ</a>
@@ -36,13 +36,13 @@
       <!-- Social Icon  -->
       <ul class="navbar-nav nav-flex-icons">
         <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/paulaspetsitting" target="_blank"><i class="fab fa-facebook-f"></i></a>
+          <a class="nav-link" href="https://www.facebook.com/PaulasPetSittinginMidland/" target="_blank"><i class="fab fa-facebook-f"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.twitter.com/AllAmericanMich" target="_blank"><i class="fab fa-twitter"></i></a>
+          <a class="nav-link" href="https://www.instagram.com/paulaspetsittinginmidland/" target="_blank"><i class="fab fa-instagram"></i></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.instagram.com/AllAmericanMI" target="_blank"><i class="fab fa-instagram"></i></a>
+          <a class="nav-link" href="mailto:PaulasPetSittingInMidlandMi@gmail.com" target="_blank"><i class="fab fa-email"></i></a>
         </li>
       </ul>
     </div>

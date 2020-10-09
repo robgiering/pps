@@ -904,9 +904,10 @@
 
   <!--Indicators-->
   <ol class="carousel-indicators">
-    <li data-target="#carousel-with-lb" data-slide-to="0" class="active blue-gradient"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="1" class="blue-gradient"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="2" class="blue-gradient"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="0" class="active blue"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="1" class="blue"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="2" class="blue"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="3" class="blue"></li>
   </ol>
   <!--/.Indicators-->
 

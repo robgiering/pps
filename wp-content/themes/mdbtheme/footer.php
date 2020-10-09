@@ -15,7 +15,13 @@
       <div class="col-md-6 d-flex justify-content-end">
         <ul class="list-unstyled d-flex mb-0">
           <li>
-          	<a class="mr-3" role="button"><i class="fab fa-facebook-f"></i></a>
+          	<a class="mr-3" href="https://www.facebook.com/PaulasPetSittinginMidland/"><i class="fab fa-facebook-f"></i></a>
+          </li>
+          <li>
+            <a class="mr-3" href="https://www.instagram.com/paulaspetsittinginmidland/" target="_blank"><i class="fab fa-instagram"></i></a>
+          </li>
+          <li>
+            <a class="mr-3" href="mailto:PaulasPetSittingInMidlandMi@gmail.com" target="_blank"><i class="fab fa-email"></i></a>
           </li>
         </ul>
       </div>
