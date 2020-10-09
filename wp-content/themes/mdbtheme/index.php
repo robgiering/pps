@@ -248,7 +248,7 @@
                             </a>
                         </div>
                         <!-- Card body -->
-                        <div id="servicesCollapse1" class="collapse show" role="tabpanel" aria-labelledby="servicesHeading1" data-parent="#services">
+                        <div id="servicesCollapse1" class="collapse" role="tabpanel" aria-labelledby="servicesHeading1" data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
                                 <ul>
                                     <li>City limits only.</li>
