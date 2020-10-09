@@ -234,6 +234,7 @@
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
+              <h1 class="display-3 text-white">Our Services</h1>
                 <!--Accordion wrapper-->
                 <div class="accordion md-accordion accordion-2" id="services" role="tablist" aria-multiselectable="true">
                     <!-- Accordion card -->
@@ -329,7 +330,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header rgba-stylish-strong z-depth-1 mb-1" role="tab" id="servicesHeading5">
-                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse5">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse5" aria-expanded="false" aria-controls="servicesCollapse5">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     All-Day Pet Care - $100 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
@@ -421,7 +422,7 @@
             <h3 class="font-weight-bold black-text mb-4 pb-2 text-center">Frequently Asked Questions</h3>
             <hr class="w-header">
             <!-- Section description -->
-            <p class="lead text-muted mx-auto mt-4 pt-2 mb-5 text-center">Got a question? We've got answers. If you have some other questions, see our support center.</p>
+            <p class="lead text-muted mx-auto mt-4 pt-2 mb-5 text-center">Got a question? We've got answers. If you have some other questions, give us a call.</p>
             <div class="row">
                 <div class="col-md-6 col-lg-4 mb-4">
                     <h5 class="font-weight-normal mb-3">What does it mean that you are “Bonded and Insured”?</h5>
