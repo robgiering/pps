@@ -20,14 +20,18 @@
           <a class="nav-link" href="#about" data-offset="65">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#services" data-offset="150">Services</a>
+          <a class="nav-link" href="#services" data-offset="65">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#portfolio" data-offset="65">Projects</a>
+          <a class="nav-link" href="#ourteam" data-offset="65">Our Team</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#faq" data-offset="65">FAQ</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#contact" data-offset="65">Contact</a>
         </li>
+        
       </ul>
       <!-- Social Icon  -->
       <ul class="navbar-nav nav-flex-icons">

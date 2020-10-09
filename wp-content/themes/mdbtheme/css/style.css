@@ -1,14 +1,4 @@
-/* Your custom styles */
-.mask.rgba-gradient {
-    background: -webkit-linear-gradient(45deg,rgba(234,21,129,.6),rgba(10,23,187,.6) 100%);
-    background: -webkit-gradient(linear,45deg,from(rgba(234,21,129,.6)),to(rgba(10,23,187,.6)));
-    background: -o-linear-gradient(45deg,rgba(234,21,129,.6),rgba(10,23,187,.6) 100%);
-    background: linear-gradient(to 45deg,rgba(234,21,129,.6),rgba(10,23,187,.6) 100%)
-}
-/*PRODUCT PAGE STYLES*/
-.saint-petersburg-gradient {
-    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-}
+
 .view {
     padding-top:40px;
 }
@@ -38,3 +28,25 @@
       .navbar.navbar-dark .navbar-nav .nav-item .nav-link.active {
         background: rgba(255, 255, 255, .15) !important;
       }
+      .carousel-multi-item.v-2 .carousel-inner .carousel-item.active,
+      .carousel-multi-item.v-2 .carousel-item-next,
+      .carousel-multi-item.v-2 .carousel-item-prev {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex; }
+      .carousel-multi-item.v-2 .carousel-item-right.active,
+      .carousel-multi-item.v-2 .carousel-item-next {
+        -webkit-transform: translateX(50%);
+        -ms-transform: translateX(50%);
+        transform: translateX(50%); }
+      .carousel-multi-item.v-2 .carousel-item-left.active,
+      .carousel-multi-item.v-2 .carousel-item-prev {
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%); }
+      .carousel-multi-item.v-2 .carousel-item-right,
+      .carousel-multi-item.v-2 .carousel-item-left {
+        -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+        transform: translateX(0); }
