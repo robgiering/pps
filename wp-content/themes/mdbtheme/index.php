@@ -441,7 +441,7 @@
                         <div class="card">
                             <!-- Card header -->
                             <div class="card-header px-0 pt-0" role="tab" id="morequestionsHeading1">
-                                <a class="collapsed" data-toggle="collapse" href="#morequestionsCollapse" aria-expanded="false" aria-controls="morequestionsCollapse">
+                                <a class="collapsed" data-toggle="collapse" href="#morequestionsCollapse1" aria-expanded="false" aria-controls="morequestionsCollapse1">
                                     <h5 class="mb-0">
                                         Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                     </h5>
