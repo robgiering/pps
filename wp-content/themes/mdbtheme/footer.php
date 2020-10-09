@@ -17,12 +17,6 @@
           <li>
           	<a class="mr-3" role="button"><i class="fab fa-facebook-f"></i></a>
           </li>
-          <li>
-          	<a class="mr-3" role="button"><i class="fab fa-twitter"></i></a>
-          </li>
-          <li>
-          	<a class="mr-3" role="button"><i class="fab fa-instagram"></i></a>
-          </li>
         </ul>
       </div>
     </div>

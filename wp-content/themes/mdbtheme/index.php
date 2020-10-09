@@ -94,7 +94,7 @@
                         </div>
                         <!-- Grid column -->
                         <div class="container">
-                            <section class="p-md-3 mx-md-5 text-lg-left">
+                            <section class="p-md-3 mx-md-5 text-lg-left" id="ourteam">
                                 <h2 class="text-center font-weight-bold mb-4 pb-1">Our Team</h2>
                                 <p class="text-center lead mb-5 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
                                 <div class="row">
@@ -230,7 +230,7 @@
     </div>
     <!-- Grid row -->
     </div>
-    <div class="container-fluid" style="margin-top: -30px;">
+    <div class="container-fluid" style="margin-top: -30px;" id="services">
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
@@ -416,7 +416,7 @@
     </div>
     <div class="container my-5">
         <!--Section: Content-->
-        <section>
+        <section id="faq">
             <h6 class="font-weight-normal text-uppercase font-small grey-text mb-4 text-center">FAQ</h6>
             <!-- Section heading -->
             <h3 class="font-weight-bold black-text mb-4 pb-2 text-center">Frequently Asked Questions</h3>
@@ -886,7 +886,7 @@
       <!--Section: Content-->
       <section class="text-center dark-grey-text">
         
-        <h3 class="font-weight-bold pb-4 mb-0 text-center">Gallery</h3>
+        <h3 class="font-weight-bold pb-4 mb-0 text-center">Meet some of our favorite clients</h3>
     
         <div class="row">
           <div class="col-md-12">
@@ -895,18 +895,18 @@
 
   <!--Controls-->
   <div class="controls-top">
-    <a class="btn-floating btn-secondary" href="#carousel-with-lb" data-slide="prev"><i
+    <a href="#carousel-with-lb" data-slide="prev"><i
         class="fas fa-chevron-left"></i></a>
-    <a class="btn-floating btn-secondary" href="#carousel-with-lb" data-slide="next"><i
+    <a href="#carousel-with-lb" data-slide="next"><i
         class="fas fa-chevron-right"></i></a>
   </div>
   <!--/.Controls-->
 
   <!--Indicators-->
   <ol class="carousel-indicators">
-    <li data-target="#carousel-with-lb" data-slide-to="0" class="active secondary-color"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="1" class="secondary-color"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="2" class="secondary-color"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="0" class="active blue-gradient"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="1" class="blue-gradient"></li>
+    <li data-target="#carousel-with-lb" data-slide-to="2" class="blue-gradient"></li>
   </ol>
   <!--/.Indicators-->
 
@@ -918,48 +918,36 @@
     <div class=" carousel-item active text-center">
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(2).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(2).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_1.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_1.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(4).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(4).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_2.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_2.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(6).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(6).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_3.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_3.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(10).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(10).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_4.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_4.jpg" class="img-fluid">
         </a>
       </figure>
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(12).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(12).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_5.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_5.jpg" class="img-fluid">
         </a>
       </figure>
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(14).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(14).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_6.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_6.jpg" class="img-fluid">
         </a>
       </figure>
 
@@ -970,48 +958,36 @@
     <div class="carousel-item text-center">
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(22).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(22).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_7.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_7.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(25).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(25).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_8.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_8.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(29).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(29).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_9.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_9.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(31).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(31).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_10.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_10.jpg" class="img-fluid">
         </a>
       </figure>
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(32).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(32).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_11.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_11.jpg" class="img-fluid">
         </a>
       </figure>
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(33).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(33).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_12.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_12.jpg" class="img-fluid">
         </a>
       </figure>
 
@@ -1022,54 +998,80 @@
     <div class="carousel-item text-center">
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(44).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(44).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_13.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_13.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(45).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(45).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_14.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_14.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(66).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(66).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_15.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_15.jpg" class="img-fluid">
         </a>
       </figure>
 
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(53).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(53).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_16.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_16.jpg" class="img-fluid">
         </a>
       </figure>
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(56).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(56).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_17.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_17.jpg" class="img-fluid">
         </a>
       </figure>
       <figure class="col-md-4 d-md-inline-block">
-        <a href="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(77).jpg"
-          data-size="1600x1067">
-          <img src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(77).jpg"
-            class="img-fluid">
+        <a href="/wp-content/uploads/2020/10/gallery_18.jpg" data-size="708x472">
+          <img src="/wp-content/uploads/2020/10/gallery_18.jpg" class="img-fluid">
         </a>
       </figure>
 
     </div>
     <!--/.Third slide-->
+<!--Fourth slide-->
+<div class="carousel-item text-center">
 
+    <figure class="col-md-4 d-md-inline-block">
+      <a href="/wp-content/uploads/2020/10/gallery_19.jpg" data-size="708x472">
+        <img src="/wp-content/uploads/2020/10/gallery_19.jpg" class="img-fluid">
+      </a>
+    </figure>
+
+    <figure class="col-md-4 d-md-inline-block">
+      <a href="/wp-content/uploads/2020/10/gallery_20.jpg" data-size="708x472">
+        <img src="/wp-content/uploads/2020/10/gallery_20.jpg" class="img-fluid">
+      </a>
+    </figure>
+
+    <figure class="col-md-4 d-md-inline-block">
+      <a href="/wp-content/uploads/2020/10/gallery_21.jpg" data-size="708x472">
+        <img src="/wp-content/uploads/2020/10/gallery_21.jpg" class="img-fluid">
+      </a>
+    </figure>
+
+    <figure class="col-md-4 d-md-inline-block">
+      <a href="/wp-content/uploads/2020/10/gallery_22.jpg" data-size="708x472">
+        <img src="/wp-content/uploads/2020/10/gallery_22.jpg" class="img-fluid">
+      </a>
+    </figure>
+    <figure class="col-md-4 d-md-inline-block">
+      <a href="/wp-content/uploads/2020/10/gallery_23.jpg" data-size="708x472">
+        <img src="/wp-content/uploads/2020/10/gallery_23.jpg" class="img-fluid">
+      </a>
+    </figure>
+    <figure class="col-md-4 d-md-inline-block">
+      <a href="/wp-content/uploads/2020/10/gallery_24.jpg" data-size="708x472">
+        <img src="/wp-content/uploads/2020/10/gallery_24.jpg" class="img-fluid">
+      </a>
+    </figure>
+
+  </div>
+  <!--/.Fourth slide-->
   </div>
   <!--/.Slides-->
 
@@ -1084,7 +1086,7 @@
     
     </div>
     <!-- Grid row -->
-    <div class="row" style="margin-top: -30px;">
+    <div class="row" style="margin-top: -30px;" id="contact">
         <!-- Grid column -->
         <div class="col-md-12 px-lg-5">
             <!-- Card -->
@@ -1099,8 +1101,8 @@
                                 <div class="col-lg-5 col-md-12 mb-0 mb-md-0">
                                     <h3 class="font-weight-bold">Contact Us</h3>
                                     <p class="text-muted"></p>
-                                    <p><span class="font-weight-bold mr-2">Email:</span><a href="">contact@mycompany.com</a></p>
-                                    <p><span class="font-weight-bold mr-2">Phone:</span><a href="">+48 123 456 789</a></p>
+                                    <p><span class="font-weight-bold mr-2">Email:</span><a href="mailto:PaulasPetSittingInMidlandMi@gmail.com">PaulasPetSittingInMidlandMi@gmail.com</a></p>
+                                    <p><span class="font-weight-bold mr-2">Phone:</span><a href="tel:989-513-7937">(989) 513-7937</a></p>
                                 </div>
                                 <!--Grid column-->
                                 <!--Grid column-->
