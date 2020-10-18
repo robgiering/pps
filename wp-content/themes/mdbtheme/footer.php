@@ -32,7 +32,9 @@
 
 </footer>
 <!-- Footer -->
-<div id="demo"></p>
+<button onclick="clickButton()">Click me!</button>
+
+<p id="demo"></p>
 <!-- Footer -->
 <?php wp_footer(); ?>
 </body>
@@ -43,11 +45,17 @@ $("#mdb-lightbox-ui").load("wp-content/themes/mdbtheme/mdb-addons/mdb-lightbox-u
 new WOW().init();
 });
 </script>
+
 <script>
-function myFunc(myObj) {
+function clickButton() {
+  var s = document.createElement("script");
+  s.src = "wp-content/themes/mdbtheme/getJson.php?callback=myDisplayFunction";
+  document.body.appendChild(s);
+}
+
+function myDisplayFunction(myObj) {
   document.getElementById("demo").innerHTML = myObj.name;
 }
 </script>
 
-<script src="wp-content/themes/mdbtheme/getJson.php"></script>
 </html>
