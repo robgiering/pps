@@ -1169,11 +1169,11 @@
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
+                    <h3 class="font-weight-normal mb-1">Paula Elandt</h3>
+                  <h5 class="font-weight-normal mb-3">Owner and Founder</h5>
         
-                  <h5 class="font-weight-normal mb-3">Project detail</h5>
-        
-                  <p class="text-muted">Out or geared it but to best up samples the for she phase of copy would do in divine
-                    of taken and the take medical or upper at him in the logbook were, we price his mostly to commas.</p>
+                  <p class="text-muted">Hello!  My name is Paula Elandt and I started watching pets as a “Hobby Business” back in May of 2015.  I quickly realized that there was a tremendous need for home based pet care that was professional, affordable and available 7 days a week.</p>
+                  <p class="text-muted">I am committed to managing a team of pet sitters and providing Professional In-Home pet care services to the Midland community for many years to come.  I am very proud of the professional Pet Sitters that work for me and would absolutely trust them with my own pets and with the reputation of Paula’s Pet Sitting!</p>
         
                   <ul class="list-unstyled font-small mt-5 mb-0">
                     <li>
