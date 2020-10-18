@@ -51,8 +51,8 @@ new WOW().init();
           type: "GET", 
           url: 'wp-content/themes/mdbtheme/getJson.php?id='+$(this).attr('id'),
           dataType: 'json',
-          success: function(myObj){ 
-            htmlData = '<ul><li>title: '+myObj.name+'</li><li>age: '+myObj.age+'</li></ul>';
+          success: function(myJSON){ 
+            htmlData = '<ul><li>title: '+myJSON.name+'</li><li>age: '+myJSON.age+'</li></ul>';
             infoModal.find('.modal-body').html(htmlData);
           }
         });
