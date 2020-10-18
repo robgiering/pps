@@ -1,8 +1,3 @@
 <?php
-    var test = [
-        {
-        "first_name":"Kenneth",
-        "age":"20"
-        }  
-    ]
+$test = '{ "name":"John", "age":30 }';
 ?>
