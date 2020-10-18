@@ -46,7 +46,7 @@ new WOW().init();
 <script>
 (function() {
     var infoModal = $('#myModal');
-    $('.thumbnail').on('click', function(){
+    $('.petsitter-thumbnail').on('click', function(){
         $.ajax({ 
           type: "GET", 
           url: 'wp-content/themes/mdbtheme/getJson.php?id='+$(this).attr('id'),
@@ -63,4 +63,4 @@ new WOW().init();
 </script>
 
 <script src="wp-content/themes/mdbtheme/getJson.php"></script>
-</html>
+</html>0'
