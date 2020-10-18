@@ -54,7 +54,7 @@ function clickButton() {
 }
 
 function myDisplayFunction(myObj) {
-  document.getElementById("demo").innerHTML = myObj.name;
+  document.getElementById("demo").innerHTML = myObj.employees.firstName;
 }
 </script>
 

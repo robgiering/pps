@@ -1,5 +1,9 @@
 <?php
-$myJSON = '{ "name":"John", "age":30, "city":"New York" }';
+$myJSON = {"employees":[
+    { "firstName":"John", "lastName":"Doe" },
+    { "firstName":"Anna", "lastName":"Smith" },
+    { "firstName":"Peter", "lastName":"Jones" }
+  ]}
 
 echo "myDisplayFunction(".$myJSON.");";
 ?>
