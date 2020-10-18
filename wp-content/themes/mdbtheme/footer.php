@@ -44,9 +44,22 @@ new WOW().init();
 });
 </script>
 <script>
-function myFunc(myObj) {
-  document.getElementById("demo").innerHTML = myObj.name;
-}
+(function() {
+    var infoModal = $('#myModal');
+    $('.thumbnail').on('click', function(){
+        $.ajax({ 
+          type: "GET", 
+          url: 'wp-content/themes/mdbtheme/getJson.php?id='+$(this).attr('id'),
+          dataType: 'json',
+          success: function(myObj){ 
+            htmlData = '<ul><li>title: '+myObj.name+'</li><li>age: '+myObj.age+'</li></ul>';
+            infoModal.find('.modal-body').html(htmlData);
+          }
+        });
+
+        return false;
+    });
+})();
 </script>
 
 <script src="wp-content/themes/mdbtheme/getJson.php"></script>
