@@ -48,7 +48,7 @@ new WOW().init();
     $('.petsitter-thumbnail').on('click', function(){
         $.ajax({ 
           type: "GET", 
-          url: 'getJson.php?id='+$(this).data('id'),
+          url: 'getJson.php?id='+$(this).attr('id'),
           dataType: 'json',
           success: function(data){ 
             htmlData = '<ul><li>title: '+data.first_name+'</li><li>age: '+data.age+'</li></ul>';
