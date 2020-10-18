@@ -41,6 +41,8 @@ $(function () {
 $("#mdb-lightbox-ui").load("wp-content/themes/mdbtheme/mdb-addons/mdb-lightbox-ui.html");
 new WOW().init();
 });
+</script>
+<script>
 (function($) {
     var infoModal = $('#myModal');
     $('.petsitter-thumbnail').on('click', function(){
@@ -59,5 +61,4 @@ new WOW().init();
     });
 })(jQuery);
   </script>
-</script>
 </html>
