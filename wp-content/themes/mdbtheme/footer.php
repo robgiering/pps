@@ -41,6 +41,23 @@ $(function () {
 $("#mdb-lightbox-ui").load("wp-content/themes/mdbtheme/mdb-addons/mdb-lightbox-ui.html");
 new WOW().init();
 });
+(function($) {
+    var infoModal = $('#myModal');
+    $('.petsitter-thumbnail').on('click', function(){
+        $.ajax({ 
+          type: "GET", 
+          url: 'getJson.php?id='+$(this).data('id'),
+          dataType: 'json',
+          success: function(data){ 
+            htmlData = '<ul><li>title: '+data.first_name+'</li><li>age: '+data.age+'</li></ul>';
+            infoModal.find('.modal-body').html(htmlData);
+            infoModal.modal('show');
+          }
+        });
+
+        return false;
+    });
+})(jQuery);
   </script>
 </script>
 </html>

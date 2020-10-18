@@ -101,7 +101,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target=".paula-intro"><img src="/wp-content/uploads/2020/10/paula.jpg" class="img-fluid rounded-circle z-depth-1" /></a>
+                                                <img src="/wp-content/uploads/2020/10/paula.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" id="test" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Paula Elandt</h6>
@@ -114,7 +114,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/amy.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/amy.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Amy C.</h6>
@@ -127,7 +127,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/gigi.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/gigi.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Gigi Z.</h6>
@@ -140,7 +140,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/marcia.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/marcia.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Marcia B.</h6>
@@ -153,7 +153,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/angela.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/angela.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Angela M.</h6>
@@ -166,7 +166,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/adeline.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/adeline.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Adeline B.</h6>
@@ -179,7 +179,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/phil.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/phil.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Phil S.</h6>
@@ -192,7 +192,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/stephanie.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/stephanie.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Stephanie D.</h6>
@@ -205,7 +205,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <img src="/wp-content/uploads/2020/10/john.jpg" class="img-fluid rounded-circle z-depth-1" />
+                                                <img src="/wp-content/uploads/2020/10/john.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" />
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">John M.</h6>
@@ -1154,7 +1154,7 @@
                 </div>
             </div>
   
-  <div class="modal fade paula-intro" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
+  <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="myModal"
     aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
