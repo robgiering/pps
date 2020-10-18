@@ -32,6 +32,7 @@
 
 </footer>
 <!-- Footer -->
+<div id="demo"></p>
 <!-- Footer -->
 <?php wp_footer(); ?>
 </body>
@@ -43,22 +44,10 @@ new WOW().init();
 });
 </script>
 <script>
-(function($) {
-    var infoModal = $('#myModal');
-    $('.petsitter-thumbnail').on('click', function(){
-        $.ajax({ 
-          type: "GET", 
-          url: '/wp-content/themes/mdbtheme/getJson.php?id='+$(this).attr('id'),
-          dataType: 'json',
-          success: function(data){ 
-            htmlData = '<ul><li>title: '+data.name+'</li><li>age: '+data.age+'</li></ul>';
-            infoModal.find('.modal-body').html(htmlData);
-            infoModal.modal('show');
-          }
-        });
+function myFunc(myObj) {
+  document.getElementById("demo").innerHTML = myObj.name;
+}
+</script>
 
-        return false;
-    });
-})(jQuery);
-  </script>
+<script src="wp-content/themes/mdbtheme/getJson.php"></script>
 </html>

@@ -1,3 +1,3 @@
 <?php
-$test = '{ "name":"John", "age":30 }';
+$myObj = '{ "name":"John", "age":30 }';
 ?>
