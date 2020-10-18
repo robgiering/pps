@@ -32,10 +32,6 @@
 
 </footer>
 <!-- Footer -->
-<button onclick="clickButton()">Click me!</button>
-
-<p id="demo"></p>
-<!-- Footer -->
 <?php wp_footer(); ?>
 </body>
 <script>
@@ -44,18 +40,6 @@ $(function () {
 $("#mdb-lightbox-ui").load("wp-content/themes/mdbtheme/mdb-addons/mdb-lightbox-ui.html");
 new WOW().init();
 });
-</script>
-
-<script>
-function clickButton() {
-  var s = document.createElement("script");
-  s.src = "wp-content/themes/mdbtheme/getJson.php?callback=myDisplayFunction";
-  document.body.appendChild(s);
-}
-
-function myDisplayFunction(myObj) {
-  document.getElementById("demo").innerHTML = myObj.employees.firstName;
-}
 </script>
 
 </html>
