@@ -44,23 +44,10 @@ new WOW().init();
 });
 </script>
 <script>
-(function() {
-    var infoModal = $('#myModal');
-    $('.petsitter-thumbnail').on('click', function(){
-        $.ajax({ 
-          type: "GET", 
-          url: 'wp-content/themes/mdbtheme/getJson.php?id='+$(this).attr('id'),
-          dataType: 'json',
-          success: function(myJSON){ 
-            htmlData = '<ul><li>title: '+myJSON.name+'</li><li>age: '+myJSON.age+'</li></ul>';
-            infoModal.find('.modal-body').html(htmlData);
-          }
-        });
-
-        return false;
-    });
-})();
+function myFunc(myObj) {
+  document.getElementById("demo").innerHTML = myObj.name;
+}
 </script>
 
 <script src="wp-content/themes/mdbtheme/getJson.php"></script>
-</html>0'
+</html>
