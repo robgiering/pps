@@ -1174,7 +1174,17 @@
         
                   <p class="text-muted">Hello!  My name is Paula Elandt and I started watching pets as a “Hobby Business” back in May of 2015.  I quickly realized that there was a tremendous need for home based pet care that was professional, affordable and available 7 days a week.</p>
                   <p class="text-muted">I am committed to managing a team of pet sitters and providing Professional In-Home pet care services to the Midland community for many years to come.  I am very proud of the professional Pet Sitters that work for me and would absolutely trust them with my own pets and with the reputation of Paula’s Pet Sitting!</p>
-
+                  <ul class="list-unstyled font-small mt-5 mb-0">
+                    <li>
+                      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                      <div class="d-flex justify-content-start">
+                        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                      </div>
+                    </li>
+                
+                  </ul>
         
                 </div>
         
@@ -1215,15 +1225,11 @@
 <p class="text-muted">
     The thing I love best about pet sitting is that no matter what kind of day I am having, animals always make my day better!
 </p> 
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”. Completed February 2019</li>
-    <li>Completed Animal Behavior training through “Fetch Find” March 2019.</li>
-</ul>
 <ul class="list-unstyled font-small mt-5 mb-0">
     <li>
       <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
       <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fab fas-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
         <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
         <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
       </div>
@@ -1266,11 +1272,17 @@
 <p class="text-muted">
     I’m originally from Dearborn MI. I have always loved visiting my grandparents farm near Midland where I learned to care for their dogs, cats and sheep and they even had a goose when I was little.  I love nature and all animals so it’s great to now live in the Midland area.
 </p>
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”.  Completed March 2019</li>
-    <li>Completed Animal Behavior training through “Fetch Find” April 2019.</li>
-</ul>
+<ul class="list-unstyled font-small mt-5 mb-0">
+    <li>
+      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+      <div class="d-flex justify-content-start">
+        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+      </div>
+    </li>
 
+  </ul>
         
 </div>
         
@@ -1350,11 +1362,17 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
 </p>
 <p class="text-muted">I have had dogs in my life since I was 4 years old. When I got older I was not able to have children so my dogs have always been my kids. I understand each pet has a personality all it’s own.</p>
 <p class="text-muted">I look forward to getting to know your pets!</p>
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”.Completed March 2019</li>
-    <li>Completed Animal Behavior training through “FetchFind” March 2019.</li>
-    <li>Completed Covid-19 Certification June 2020</li>
-</ul>
+<ul class="list-unstyled font-small mt-5 mb-0">
+    <li>
+      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+      <div class="d-flex justify-content-start">
+        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+      </div>
+    </li>
+
+  </ul>
 
         
 </div>
@@ -1396,10 +1414,17 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
 <p class="text-muted">
     I have had pets my entire life, and I have a huge soft spot for all animals. I currently have 3 pups that love to go running with me. I was a 4-H kid and spent many years training, showing, and caring for a wide variety of animals. I have had dogs, cats, chickens, ducks, rabbits, goats, sheep, pigs, and horses. I am very comfortable with animals of all breeds large and small including reptiles. I am very excited to have the opportunity to meet and care for your pets as well.
 </p>
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”. Completed March 2019.</li>
-    <li>Completed Animal Behavior training through “Fetch Find” March 2019.</li>
-</ul>
+<ul class="list-unstyled font-small mt-5 mb-0">
+    <li>
+      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+      <div class="d-flex justify-content-start">
+        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+      </div>
+    </li>
+
+  </ul>
 
         
 </div>
@@ -1446,10 +1471,17 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
 <p class="text-muted">
     While going to school at CMU, I was in a zoology course learning about animal behavior and realized I wanted a career revolving around animals. I can’t wait to make more animal friends!
 </p>
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”. Completed March 2019.
-    <li>Completed Animal Behavior training through “Fetch Find” April 2019.</li>
-</ul>
+<ul class="list-unstyled font-small mt-5 mb-0">
+    <li>
+      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+      <div class="d-flex justify-content-start">
+        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+      </div>
+    </li>
+
+  </ul>
 
         
 </div>
@@ -1497,9 +1529,15 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
 <p class="text-muted">
     I look forward to meeting you and spending quality time with your pets!
 </p>
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”.  Completed July 2019.</li>
-</ul>
+<ul class="list-unstyled font-small mt-5 mb-0">
+    <li>
+      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+      <div class="d-flex justify-content-start">
+        <a class="text-muted pr-3" href="#"><i class="fas plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. July 2019"></i></a>
+      </div>
+    </li>
+
+  </ul>
 
         
 </div>
