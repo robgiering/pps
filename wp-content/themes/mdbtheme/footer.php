@@ -39,6 +39,9 @@
 $(function () {
 $("#mdb-lightbox-ui").load("wp-content/themes/mdbtheme/mdb-addons/mdb-lightbox-ui.html");
 new WOW().init();
+  $('.material-tooltip-main').tooltip({
+    template: '<div class="tooltip md-tooltip-main"><div class="tooltip-arrow md-arrow"></div><div class="tooltip-inner md-inner-main"></div></div>'
+  });
 });
 </script>
 

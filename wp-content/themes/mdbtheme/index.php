@@ -1219,7 +1219,17 @@
     <li>The American Red Cross “Cat and Dog First Aid training”. Completed February 2019</li>
     <li>Completed Animal Behavior training through “Fetch Find” March 2019.</li>
 </ul>
+<ul class="list-unstyled font-small mt-5 mb-0">
+    <li>
+      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+      <div class="d-flex justify-content-start">
+        <a class="text-muted pr-3" href="#"><i class="fab fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid training”.  Completed March 2019."></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fab fa-twitter material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Completed Animal Behavior training through “Fetch Find” March 2019."></i></a>
+        <a class="text-muted" href="#"><i class="fab fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Completed Covid-19 Certification June 2020."></i></a>
+      </div>
+    </li>
 
+  </ul>
         
 </div>
         
