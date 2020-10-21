@@ -153,7 +153,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/uploads/2020/10/angela.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/uploads/2020/10/angie.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Angela M.</h6>
@@ -184,7 +184,7 @@
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Phil S.</h6>
                                                 <p class="text-muted">
-                                                    Pet Care Provider & Office Assistant
+                                                    Pet Care Provider
                                                 </p>
                                             </div>
                                         </div>
@@ -1160,12 +1160,12 @@
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/paula.jpg" alt="Paula Elandt">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1192,12 +1192,12 @@
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/amy.jpg" alt="Amy C.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1239,12 +1239,12 @@
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/gigi.jpg" alt="Gigi Z.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1281,12 +1281,12 @@
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/marcia.jpg" alt="Marcia B.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1324,12 +1324,12 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/angie.jpg" alt="Angela M.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1369,12 +1369,12 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/adeline.jpg" alt="Adeline B.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1419,12 +1419,12 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/phil.jpg" alt="Phil S.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1466,12 +1466,12 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/stephanie.jpg" alt="Stephanie D.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
@@ -1516,12 +1516,12 @@ Completed Animal Behavior training through “Fetch Find” April 2019.</li>
       <div class="modal-content">
         <section>
     
-            <div class="card mb-4">
+            <div class="card">
               
               <div class="row">
         
                 <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="https://mdbootstrap.com/img/Photos/Vertical/7.jpg" alt="project image">
+                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/john.jpg" alt="John M.">
                 </div>
         
                 <div class="col-md-6 p-5 align-self-center">
