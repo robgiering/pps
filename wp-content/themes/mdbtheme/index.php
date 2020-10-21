@@ -1223,9 +1223,9 @@
     <li>
       <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
       <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fab fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid training”.  Completed March 2019."></i></a>
-        <a class="text-muted pr-3" href="#"><i class="fab fa-twitter material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Completed Animal Behavior training through “Fetch Find” March 2019."></i></a>
-        <a class="text-muted" href="#"><i class="fab fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Completed Covid-19 Certification June 2020."></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fab fas-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
       </div>
     </li>
 
