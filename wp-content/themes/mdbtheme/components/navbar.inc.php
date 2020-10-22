@@ -4,6 +4,7 @@
 <!-- Navbar -->
 <nav class="navbar white navbar-expand-lg navbar-light fixed-top" id="navbar-example">
   <div class="container">
+  <div class="row">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
       aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -46,11 +47,13 @@
         </li>
       </ul>
     </div>
+</div>
   </div>
 </nav>
 
 </header>
 <div class="container-fluid">
+  <div class="row">
 <section>
 <div class="view jarallax" data-jarallax='{"speed": 0.2}'
       style="background-image: url(/wp-content/uploads/2020/10/paula-park-e1601762058686.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;">
@@ -76,4 +79,5 @@
       </div>
     </div>
 </section>
+</div>
 </div>
