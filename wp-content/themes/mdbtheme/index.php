@@ -234,7 +234,7 @@
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
             <div class="col-md-10 col-xl-6 py-5">
-              <h2 class="display-4 text-white text-center my-4">Our Services</h2>
+                <h2 class="display-4 text-white text-center my-4">Our Services</h2>
                 <!--Accordion wrapper-->
                 <div class="accordion md-accordion accordion-2" id="services" role="tablist" aria-multiselectable="true">
                     <!-- Accordion card -->
@@ -432,9 +432,11 @@
                     <h5 class="font-weight-normal mb-3">What hours are you open?</h5>
                     <p class="text-muted">We care for animals 7 days a week, 7 am to 9 pm.
                         Our business hours are Monday through Friday, 8 a.m. to 5 p.m. for scheduling and registration questions.
-                        Prospective clients may call 989-513-7937 during these hours to speak with our office manager regarding our offered services.</p> </div> <div class="col-md-6 col-lg-4 mb-4">
-                            <h5 class="font-weight-normal mb-3">Tell me about your Pet Care Providers</h5>
-                            <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</p>
+                        Prospective clients may call 989-513-7937 during these hours to speak with our office manager regarding our offered services.</p>
+                </div>
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <h5 class="font-weight-normal mb-3">Tell me about your Pet Care Providers</h5>
+                    <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</p>
                 </div>
                 <div class="col-md-12">
                     <div class="accordion md-accordion" id="faq" role="tablist" aria-multiselectable="true">
@@ -464,7 +466,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse1" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading1"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse1" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading1" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>A Liability insurance policy protects a business owner in case they are liable for accidental damage or injury that they cause while caring for pets in your home.</li>
@@ -484,7 +486,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse2" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading2"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse2" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading2" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</li>
@@ -507,7 +509,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse3" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading3"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse3" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading3" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We care for animals 7 days a week, 7 am to 9 pm.</li>
@@ -528,7 +530,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse4" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading4"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse4" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading4" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Click on the “Book Now” button at the top of each page of the Paula’s Pet Sitting Website. This sends a message to our Office Manager who will help you get registered. OR:</li>
@@ -548,7 +550,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse5" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading5"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse5" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading5" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Holiday Policy: Holiday services incur a $5 surcharge.</li>
@@ -573,7 +575,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse6" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading6"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse6" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading6" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Payments for services may be made by credit card through our emailed invoice.
@@ -593,7 +595,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse7" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading7"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse7" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading7" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Clients of Paula’s Pet Sitting agree to pay for all services that are requested and scheduled (in that invoice) if they are not canceled prior to the following cancelation windows as described below.</li>
@@ -636,7 +638,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse8" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading8"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse8" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading8" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Yes, you may schedule appointments on the same day that you need service, however your request is subject to availability in the Pet Care Provider’s schedule.</li>
@@ -657,7 +659,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse9" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading9"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse9" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading9" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>NO! For the safety of your pets all scheduling must be done by the client online or by calling the office.</li>
@@ -676,7 +678,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse10" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading10"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse10" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading10" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>YES! We encourage you to feel free to schedule any time it is convenient for you.</li>
@@ -696,7 +698,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse11" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading11"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse11" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading11" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>A “Meet and Greet” (M&G) is our first visit to your home. This is where you will show us where necessary items are located, give us TWO keys to enter your home, show us how to work your security system (if applicable), and most importantly: We will MEET YOUR PETS!!</li>
@@ -716,7 +718,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse12" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading12"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse12" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading12" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>If you would like the added security of someone living in your home while you are away we can help you with that!
@@ -737,7 +739,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse13" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading13"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse13" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading13" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We are no longer offering Boarding Services in our home.</li>
@@ -755,7 +757,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse14" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading14"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse14" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading14" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>The safest and most efficient method for our Pet Sitters to enter your home is by using a lockbox.</li>
@@ -778,7 +780,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse15" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading15"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse15" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading15" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Yes we do!! The way the program works is super simple! Each time you refer someone to us and they book a minimum of 5 visits, you will receive a $10 credit for future services! All we ask is that you tell us when you have referred someone (to include their name) so we can watch for them!</li>
@@ -796,7 +798,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse16" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading16"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse16" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading16" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>We ask all of our clients to fill in a detailed questionnaire about their home and pet when they sign up for services. When you complete your pet’s profile we will ask you to tell us when, if or how often you would like us to reward your pet for certain behaviors. Perhaps you want us to withhold a treat for undesirable behavior or give a treat as a reward – you tell us what you prefer. Our pet sitters read these notes prior to visits and follow your guidelines. We only use treats that you provide.</li>
@@ -815,7 +817,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse17" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading17"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse17" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading17" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Please contact your Veterinarian’s office and ask them how they want to handle emergency treatment in the event that their pet is under the care of Paula’s Pet Sitting. They may ask you to fill out a special form or ask for prepayment instructions. All of the local Veterinarians are familiar with Paula’s Pet Sitting.</li>
@@ -837,7 +839,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse18" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading18"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse18" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading18" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>If the pet has aggressively bit someone in the past we cannot provide service.</li>
@@ -857,7 +859,7 @@
                                                         </a>
                                                     </div>
                                                     <!-- Card body -->
-                                                    <div id="faqFullCollapse19" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading19"  data-parent="#faqFull">
+                                                    <div id="faqFullCollapse19" class="collapse" role="tabpanel" aria-labelledby="faqFullHeading19" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
                                                                 <li>Our Pet Care Providers are experienced with administration of oral medications and Insulin injections.</li>
@@ -880,210 +882,174 @@
         </section>
     </div>
     <div class="container my-5">
-
-
-      <!--Section: Content-->
-      <section class="text-center dark-grey-text">
-        
-        <h3 class="font-weight-bold pb-4 mb-0 text-center">Meet some of our favorite clients</h3>
-    
-        <div class="row">
-          <div class="col-md-12">
-<!--Carousel Wrapper-->
-<div id="carousel-with-lb" class="carousel slide carousel-multi-item" data-ride="carousel">
-
-  <!--Controls-->
-  <div class="controls-top">
-    <a href="#carousel-with-lb" data-slide="prev"><i
-        class="fas fa-chevron-left"></i></a>
-    <a href="#carousel-with-lb" data-slide="next"><i
-        class="fas fa-chevron-right"></i></a>
-  </div>
-  <!--/.Controls-->
-
-  <!--Indicators-->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-with-lb" data-slide-to="0" class="active blue"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="1" class="blue"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="2" class="blue"></li>
-    <li data-target="#carousel-with-lb" data-slide-to="3" class="blue"></li>
-  </ol>
-  <!--/.Indicators-->
-
-  <!--Slides and lightbox-->
-
-  <div class="carousel-inner mdb-lightbox" role="listbox">
-    <div id="mdb-lightbox-ui"></div>
-    <!--First slide-->
-    <div class=" carousel-item active text-center">
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_1.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_1.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_2.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_2.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_3.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_3.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_4.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_4.jpg" class="img-fluid">
-        </a>
-      </figure>
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_5.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_5.jpg" class="img-fluid">
-        </a>
-      </figure>
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_6.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_6.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-    </div>
-    <!--/.First slide-->
-
-    <!--Second slide-->
-    <div class="carousel-item text-center">
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_7.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_7.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_8.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_8.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_9.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_9.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_10.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_10.jpg" class="img-fluid">
-        </a>
-      </figure>
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_11.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_11.jpg" class="img-fluid">
-        </a>
-      </figure>
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_12.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_12.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-    </div>
-    <!--/.Second slide-->
-
-    <!--Third slide-->
-    <div class="carousel-item text-center">
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_13.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_13.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_14.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_14.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_15.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_15.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_16.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_16.jpg" class="img-fluid">
-        </a>
-      </figure>
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_17.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_17.jpg" class="img-fluid">
-        </a>
-      </figure>
-      <figure class="col-md-4 d-md-inline-block">
-        <a href="/wp-content/uploads/2020/10/gallery_18.jpg" data-size="708x472">
-          <img src="/wp-content/uploads/2020/10/gallery_18.jpg" class="img-fluid">
-        </a>
-      </figure>
-
-    </div>
-    <!--/.Third slide-->
-<!--Fourth slide-->
-<div class="carousel-item text-center">
-
-    <figure class="col-md-4 d-md-inline-block">
-      <a href="/wp-content/uploads/2020/10/gallery_19.jpg" data-size="708x472">
-        <img src="/wp-content/uploads/2020/10/gallery_19.jpg" class="img-fluid">
-      </a>
-    </figure>
-
-    <figure class="col-md-4 d-md-inline-block">
-      <a href="/wp-content/uploads/2020/10/gallery_20.jpg" data-size="708x472">
-        <img src="/wp-content/uploads/2020/10/gallery_20.jpg" class="img-fluid">
-      </a>
-    </figure>
-
-    <figure class="col-md-4 d-md-inline-block">
-      <a href="/wp-content/uploads/2020/10/gallery_21.jpg" data-size="708x472">
-        <img src="/wp-content/uploads/2020/10/gallery_21.jpg" class="img-fluid">
-      </a>
-    </figure>
-
-    <figure class="col-md-4 d-md-inline-block">
-      <a href="/wp-content/uploads/2020/10/gallery_22.jpg" data-size="708x472">
-        <img src="/wp-content/uploads/2020/10/gallery_22.jpg" class="img-fluid">
-      </a>
-    </figure>
-    <figure class="col-md-4 d-md-inline-block">
-      <a href="/wp-content/uploads/2020/10/gallery_23.jpg" data-size="708x472">
-        <img src="/wp-content/uploads/2020/10/gallery_23.jpg" class="img-fluid">
-      </a>
-    </figure>
-    <figure class="col-md-4 d-md-inline-block">
-      <a href="/wp-content/uploads/2020/10/gallery_24.jpg" data-size="708x472">
-        <img src="/wp-content/uploads/2020/10/gallery_24.jpg" class="img-fluid">
-      </a>
-    </figure>
-
-  </div>
-  <!--/.Fourth slide-->
-  </div>
-  <!--/.Slides-->
-
-</div>
-<!--/.Carousel Wrapper-->
-          </div>
-        </div>
-    
-      </section>
-      <!--Section: Content-->
-    
-    
+        <!--Section: Content-->
+        <section class="text-center dark-grey-text">
+            <h3 class="font-weight-bold pb-4 mb-0 text-center">Meet some of our favorite clients</h3>
+            <div class="row">
+                <div class="col-md-12">
+                    <!--Carousel Wrapper-->
+                    <div id="carousel-with-lb" class="carousel slide carousel-multi-item" data-ride="carousel">
+                        <!--Controls-->
+                        <div class="controls-top">
+                            <a href="#carousel-with-lb" data-slide="prev"><i class="fas fa-chevron-left"></i></a>
+                            <a href="#carousel-with-lb" data-slide="next"><i class="fas fa-chevron-right"></i></a>
+                        </div>
+                        <!--/.Controls-->
+                        <!--Indicators-->
+                        <ol class="carousel-indicators">
+                            <li data-target="#carousel-with-lb" data-slide-to="0" class="active blue"></li>
+                            <li data-target="#carousel-with-lb" data-slide-to="1" class="blue"></li>
+                            <li data-target="#carousel-with-lb" data-slide-to="2" class="blue"></li>
+                            <li data-target="#carousel-with-lb" data-slide-to="3" class="blue"></li>
+                        </ol>
+                        <!--/.Indicators-->
+                        <!--Slides and lightbox-->
+                        <div class="carousel-inner mdb-lightbox" role="listbox">
+                            <div id="mdb-lightbox-ui"></div>
+                            <!--First slide-->
+                            <div class=" carousel-item active text-center">
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_1.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_1.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_2.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_2.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_3.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_3.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_4.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_4.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_5.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_5.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_6.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_6.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                            </div>
+                            <!--/.First slide-->
+                            <!--Second slide-->
+                            <div class="carousel-item text-center">
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_7.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_7.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_8.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_8.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_9.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_9.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_10.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_10.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_11.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_11.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_12.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_12.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                            </div>
+                            <!--/.Second slide-->
+                            <!--Third slide-->
+                            <div class="carousel-item text-center">
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_13.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_13.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_14.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_14.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_15.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_15.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_16.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_16.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_17.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_17.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_18.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_18.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                            </div>
+                            <!--/.Third slide-->
+                            <!--Fourth slide-->
+                            <div class="carousel-item text-center">
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_19.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_19.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_20.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_20.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_21.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_21.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_22.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_22.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_23.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_23.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/uploads/2020/10/gallery_24.jpg" data-size="708x472">
+                                        <img src="/wp-content/uploads/2020/10/gallery_24.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                            </div>
+                            <!--/.Fourth slide-->
+                        </div>
+                        <!--/.Slides-->
+                    </div>
+                    <!--/.Carousel Wrapper-->
+                </div>
+            </div>
+        </section>
+        <!--Section: Content-->
     </div>
     <!-- Grid row -->
     <div class="row" style="margin-top: -30px;" id="contact">
@@ -1153,443 +1119,306 @@
                     </div>
                 </div>
             </div>
-  
-  <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter1"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/paula.jpg" alt="Paula Elandt">
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter1" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/paula.jpg" alt="Paula Elandt">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Paula Elandt</h3>
+                                        <h5 class="font-weight-normal mb-3">Owner and Founder</h5>
+                                        <p class="text-muted">Hello! My name is Paula Elandt and I started watching pets as a “Hobby Business” back in May of 2015. I quickly realized that there was a tremendous need for home based pet care that was professional, affordable and available 7 days a week.</p>
+                                        <p class="text-muted">I am committed to managing a team of pet sitters and providing Professional In-Home pet care services to the Midland community for many years to come. I am very proud of the professional Pet Sitters that work for me and would absolutely trust them with my own pets and with the reputation of Paula’s Pet Sitting!</p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
                 </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-                    <h3 class="font-weight-normal mb-1">Paula Elandt</h3>
-                  <h5 class="font-weight-normal mb-3">Owner and Founder</h5>
-        
-                  <p class="text-muted">Hello!  My name is Paula Elandt and I started watching pets as a “Hobby Business” back in May of 2015.  I quickly realized that there was a tremendous need for home based pet care that was professional, affordable and available 7 days a week.</p>
-                  <p class="text-muted">I am committed to managing a team of pet sitters and providing Professional In-Home pet care services to the Midland community for many years to come.  I am very proud of the professional Pet Sitters that work for me and would absolutely trust them with my own pets and with the reputation of Paula’s Pet Sitting!</p>
-                  <ul class="list-unstyled font-small mt-5 mb-0">
-                    <li>
-                      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-                      <div class="d-flex justify-content-start">
-                        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-                        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-                        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-                      </div>
-                    </li>
-                
-                  </ul>
-        
-                </div>
-        
-              </div>
-        
             </div>
-        
-          </section>
-      </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter2" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/amy.jpg" alt="Amy C.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Amy C.</h3>
+                                        <h5 class="font-weight-normal mb-3">Administrative Assistant</h5>
+                                        <p class="text-muted">
+                                            Hi! My name is Amy Clark and I will be the person responding to all phone calls, emails and text messages Monday through Friday 8 a.m. to 5 p.m. I ensure that our Pet Care provider’s schedules flow smoothly and the needs of our client’s and their pets are taken care of.
+                                        </p>
+                                        <p class="text-muted">
+                                            I have been owned and loved by animals for my entire life. I have owned a variety of pets including barn animals, horses, cats, dogs, rats, reptiles, gerbils, hamsters, guinea pigs, rabbits, hermit crabs, birds, fish, etc. The only critter I am not comfortable with is SPIDERS!
+                                        </p>
+                                        <p class="text-muted">
+                                            For years I spent a lot of time involved in training and showing dogs. It was a ton of fun but also a huge time commitment, especially on the weekends. As my children started to get busy in sports on the weekends, I decided to give up my hobby for the time being so I could be there to support them.
+                                        </p>
+                                        <p class="text-muted">
+                                            The thing I love best about pet sitting is that no matter what kind of day I am having, animals always make my day better!
+                                        </p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter3" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/gigi.jpg" alt="Gigi Z.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Gigi Z.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            Hi! I provide pet sitting, dog walks and overnight house sitting.
+                                        </p>
+                                        <p class="text-muted">
+                                            I’m originally from Dearborn MI. I have always loved visiting my grandparents farm near Midland where I learned to care for their dogs, cats and sheep and they even had a goose when I was little. I love nature and all animals so it’s great to now live in the Midland area.
+                                        </p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter4" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/marcia.jpg" alt="Marcia B.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Marcia B.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            Hi There! I provide Mid-Day Dog Walks and Vacation Services. I love animals, and believe that a pet is a fundamental source of unconditional love 😉 I feel privileged to be able to help other people provide care for their pets!
+                                        </p>
+                                        <p class="text-muted">
+                                            While growing up, and while raising my own children, I have enjoyed having many different types of pets, from rats and cavies to birds and fish to dogs and cats. I currently share a home with my cat and three goldfish.
+                                        </p>
+                                        <ul>
+                                            <li>The American Red Cross “Cat and Dog First Aid training”. Completed February 2019.</li>
+                                            Completed Animal Behavior training through “Fetch Find” April 2019.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/angie.jpg" alt="Angela M.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Angela M.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            Hi there! I provide Mid-Day Dog Walks, Vacation Services and Overnight House Sitting Services.
+                                        </p>
+                                        <p class="text-muted">I have had dogs in my life since I was 4 years old. When I got older I was not able to have children so my dogs have always been my kids. I understand each pet has a personality all it’s own.</p>
+                                        <p class="text-muted">I look forward to getting to know your pets!</p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/adeline.jpg" alt="Adeline B.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Adeline B.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            Hi, my name is Adeline and I provide pet sitting, dog walking, overnight house sitting, and vacation services.
+                                        </p>
+                                        <p class="text-muted">
+                                            I have had pets my entire life, and I have a huge soft spot for all animals. I currently have 3 pups that love to go running with me. I was a 4-H kid and spent many years training, showing, and caring for a wide variety of animals. I have had dogs, cats, chickens, ducks, rabbits, goats, sheep, pigs, and horses. I am very comfortable with animals of all breeds large and small including reptiles. I am very excited to have the opportunity to meet and care for your pets as well.
+                                        </p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/phil.jpg" alt="Phil S.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Phil S.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            I am originally from the Traverse City area, but have lived in Midland for the past 15 years. I’ve always had a love for animals and have always had a best friend in the form of a cat or dog.
+                                        </p>
+                                        <p class="text-muted">
+                                            While going to school at CMU, I was in a zoology course learning about animal behavior and realized I wanted a career revolving around animals. I can’t wait to make more animal friends!
+                                        </p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter8" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/stephanie.jpg" alt="Stephanie D.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">Stephanie D.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            Hi Everyone! My name is Stephanie and I am so excited to be a part of Paula’s Pet Sitting team. I provide Pet Sitting, Dog Walks, Vacation Services, and Overnight House Sitting services in Midland, Michigan.
+                                        </p>
+                                        <p class="text-muted">
+                                            My first experience with pets was when I was about 6 or 7 and my parents got me a guinea pig. That was followed by many more guinea pigs and then I got my first dog about 30 years ago and I haven’t been “dogless” since. We currently have 3 dogs and 3 cats and I love spending time with them! I don’t know who looks more forward to our daily walks, me or the dogs?
+                                        </p>
+                                        <p class="text-muted">
+                                            I look forward to meeting you and spending quality time with your pets!
+                                        </p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. July 2019"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                    <div class="modal-content">
+                        <section>
+                            <div class="card">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/john.jpg" alt="John M.">
+                                    </div>
+                                    <div class="col-md-6 p-5 align-self-center">
+                                        <h3 class="font-weight-normal mb-1">John M.</h3>
+                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                        <p class="text-muted">
+                                            Hello, my name is John and I provide pet sitting, dog walking, overnight house sitting, and vacation services. I started my love of animals at a young age when my family bought a cat, and then later another cat. After some time I got a beautiful dog, and with all these animals I truly found the joy of such loyal companions. I currently have just one cat who enthusiastically bounds around on his 3 legs and bumps into things sometimes with his one eye. As a fellow lover of all animals I am thrilled to be able to meet, care for, and enjoy the company of your special guy or gal.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  </div>
-  <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter2"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/amy.jpg" alt="Amy C.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Amy C.</h3>
-<h5 class="font-weight-normal mb-3">Administrative Assistant</h5>
-<p class="text-muted">
-    Hi!  My name is Amy Clark and I will be the person responding to all phone calls, emails and text messages Monday through Friday 8 a.m. to 5 p.m.  I ensure that our Pet Care provider’s schedules flow smoothly and the needs of our client’s and their pets are taken care of.
-</p>
-<p class="text-muted">
-    I have been owned and loved by animals for my entire life. I have owned a variety of pets including barn animals, horses, cats, dogs, rats, reptiles, gerbils, hamsters, guinea pigs, rabbits, hermit crabs, birds, fish, etc. The only critter I am not comfortable with is SPIDERS!
-</p>
-<p class="text-muted">
-    For years I spent a lot of time involved in training and showing dogs.  It was a ton of fun but also a huge time commitment, especially on the weekends.  As my children started to get busy in sports on the weekends, I decided to give up my hobby for the time being so I could be there to support them.
-</p>
-<p class="text-muted">
-    The thing I love best about pet sitting is that no matter what kind of day I am having, animals always make my day better!
-</p> 
-<ul class="list-unstyled font-small mt-5 mb-0">
-    <li>
-      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-      <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-      </div>
-    </li>
-
-  </ul>
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter3"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/gigi.jpg" alt="Gigi Z.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Gigi Z.</h3>
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-<p class="text-muted">
-    Hi!  I provide pet sitting, dog walks and overnight house sitting.
-</p>
-<p class="text-muted">
-    I’m originally from Dearborn MI. I have always loved visiting my grandparents farm near Midland where I learned to care for their dogs, cats and sheep and they even had a goose when I was little.  I love nature and all animals so it’s great to now live in the Midland area.
-</p>
-<ul class="list-unstyled font-small mt-5 mb-0">
-    <li>
-      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-      <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-      </div>
-    </li>
-
-  </ul>
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter4"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/marcia.jpg" alt="Marcia B.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Marcia B.</h3> 
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-<p class="text-muted">
-    Hi There! I provide Mid-Day Dog Walks and Vacation Services. I love animals, and believe that a pet is a fundamental source of unconditional love 😉 I feel privileged to be able to help other people provide care for their pets!
-</p>
-<p class="text-muted">
-    While growing up, and while raising my own children, I have enjoyed having many different types of pets, from rats and cavies to birds and fish to dogs and cats. I currently share a home with my cat and three goldfish.
-</p>
-<ul>
-    <li>The American Red Cross “Cat and Dog First Aid training”.  Completed February 2019.</li>
-Completed Animal Behavior training through “Fetch Find” April 2019.</li>
-</ul>
-
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/angie.jpg" alt="Angela M.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Angela M.</h3>
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-<p class="text-muted">
-    Hi there!  I provide Mid-Day Dog Walks, Vacation Services and Overnight House Sitting Services.
-</p>
-<p class="text-muted">I have had dogs in my life since I was 4 years old. When I got older I was not able to have children so my dogs have always been my kids. I understand each pet has a personality all it’s own.</p>
-<p class="text-muted">I look forward to getting to know your pets!</p>
-<ul class="list-unstyled font-small mt-5 mb-0">
-    <li>
-      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-      <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-      </div>
-    </li>
-
-  </ul>
-
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/adeline.jpg" alt="Adeline B.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Adeline B.</h3>
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-<p class="text-muted">
-    Hi, my name is Adeline and I provide pet sitting, dog walking, overnight house sitting, and vacation services.
-</p>
-<p class="text-muted">
-    I have had pets my entire life, and I have a huge soft spot for all animals. I currently have 3 pups that love to go running with me. I was a 4-H kid and spent many years training, showing, and caring for a wide variety of animals. I have had dogs, cats, chickens, ducks, rabbits, goats, sheep, pigs, and horses. I am very comfortable with animals of all breeds large and small including reptiles. I am very excited to have the opportunity to meet and care for your pets as well.
-</p>
-<ul class="list-unstyled font-small mt-5 mb-0">
-    <li>
-      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-      <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-      </div>
-    </li>
-
-  </ul>
-
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/phil.jpg" alt="Phil S.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Phil S.</h3>
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-<p class="text-muted">
-    I am originally from the Traverse City area, but have lived in Midland for the past 15 years. I’ve always had a love for animals and have always had a best friend in the form of a cat or dog.
-</p>
-<p class="text-muted">
-    While going to school at CMU, I was in a zoology course learning about animal behavior and realized I wanted a career revolving around animals. I can’t wait to make more animal friends!
-</p>
-<ul class="list-unstyled font-small mt-5 mb-0">
-    <li>
-      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-      <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-        <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-        <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-      </div>
-    </li>
-
-  </ul>
-
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter8"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/stephanie.jpg" alt="Stephanie D.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">Stephanie D.</h3>
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-
-<p class="text-muted">
-    Hi Everyone! My name is Stephanie and I am so excited to be a part of Paula’s Pet Sitting team. I provide Pet Sitting, Dog Walks, Vacation Services, and Overnight House Sitting services in Midland, Michigan.
-</p>
-<p class="text-muted">
-    My first experience with pets was when I was about 6 or 7 and my parents got me a guinea pig. That was followed by many more guinea pigs and then I got my first dog about 30 years ago and I haven’t been “dogless” since. We currently have 3 dogs and 3 cats and I love spending time with them! I don’t know who looks more forward to our daily walks, me or the dogs?
-</p>
-<p class="text-muted">
-    I look forward to meeting you and spending quality time with your pets!
-</p>
-<ul class="list-unstyled font-small mt-5 mb-0">
-    <li>
-      <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-      <div class="d-flex justify-content-start">
-        <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. July 2019"></i></a>
-      </div>
-    </li>
-
-  </ul>
-
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable modal-lg">
-      <div class="modal-content">
-        <section>
-    
-            <div class="card">
-              
-              <div class="row">
-        
-                <div class="col-md-6">
-                  <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/john.jpg" alt="John M.">
-                </div>
-        
-                <div class="col-md-6 p-5 align-self-center">
-<h3 class="font-weight-normal mb-1">John M.</h3>
-<h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-<p class="text-muted">
-    Hello, my name is John and I provide pet sitting, dog walking, overnight house sitting, and vacation services.  I started my love of animals at a young age when my family bought a cat, and then later another cat. After some time I got a beautiful dog, and with all these animals I truly found the joy of such loyal companions. I currently have just one cat who enthusiastically bounds around on his 3 legs and bumps into things sometimes with his one eye.  As a fellow lover of all animals I am thrilled to be able to meet, care for, and enjoy the company of your special guy or gal.
-</p>
-
-        
-</div>
-        
-        </div>
-  
-      </div>
-  
-    </section>
-</div>
-</div>
-</div>
 </main>
 <!-- Main Layout -->
 <?php get_footer(); ?>
