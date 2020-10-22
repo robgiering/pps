@@ -22,7 +22,7 @@
                                         <!--Grid row-->
                                         <div class="row">
                                             <div class="col-3">
-                                                <i class="fas fa-paw fa-3x mb-1 text-primary" aria-hidden="true"></i>
+                                                <i class="fas fa-paw fa-3x mb-1 text-primary text-center" aria-hidden="true"></i>
                                             </div>
                                             <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Daily Dog Walking</p>
@@ -38,7 +38,7 @@
                                         <!--Grid row-->
                                         <div class="row">
                                             <div class="col-3">
-                                                <i class="fas fa-home fa-3x mb-1 text-primary" aria-hidden="true"></i>
+                                                <i class="fas fa-home fa-3x mb-1 text-primary text-center" aria-hidden="true"></i>
                                             </div>
                                             <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Vacation Home Visits</p>
@@ -59,7 +59,7 @@
                                         <!--Grid row-->
                                         <div class="row">
                                             <div class="col-3">
-                                                <i class="fas fa-moon fa-3x mb-1 text-primary" aria-hidden="true"></i>
+                                                <i class="fas fa-moon fa-3x mb-1 text-primary text-center" aria-hidden="true"></i>
                                             </div>
                                             <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Overnight Care</p>
@@ -75,7 +75,7 @@
                                         <!--Grid row-->
                                         <div class="row">
                                             <div class="col-3">
-                                                <i class="fas fa-taxi fa-3x mb-1 text-primary" aria-hidden="true"></i>
+                                                <i class="fas fa-taxi fa-3x mb-1 text-primary text-center" aria-hidden="true"></i>
                                             </div>
                                             <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Pet Taxi</p>
