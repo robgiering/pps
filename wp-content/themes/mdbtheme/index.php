@@ -227,9 +227,6 @@
         <!-- Card -->
     </div>
     <!-- Grid column -->
-    </div>
-    <!-- Grid row -->
-    </div>
     <div class="container-fluid" style="margin-top: -30px;" id="services">
         <div class="row blue-gradient d-flex justify-content-center">
             <!-- Grid column -->
@@ -1052,6 +1049,7 @@
         <!--Section: Content-->
     </div>
     <!-- Grid row -->
+    <div class="container-fluid">
     <div class="row" style="margin-top: -30px;" id="contact">
         <!-- Grid column -->
         <div class="col-md-12 px-lg-5 py-lg-5">
@@ -1119,6 +1117,7 @@
                     </div>
                 </div>
             </div>
+        </div>
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
@@ -1417,8 +1416,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
 </main>
 <!-- Main Layout -->
 <?php get_footer(); ?>
