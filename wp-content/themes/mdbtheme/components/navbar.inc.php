@@ -3,7 +3,6 @@
     <!-- Navbar -->
     <nav class="navbar white navbar-expand-lg navbar-light fixed-top" id="navbar-example">
         <div class="container">
-            <div class="row">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -44,7 +43,6 @@
                         </li>
                     </ul>
                 </div>
-            </div>
         </div>
     </nav>
 </header>
