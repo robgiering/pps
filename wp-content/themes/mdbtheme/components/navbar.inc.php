@@ -50,6 +50,7 @@
 </nav>
 
 </header>
+<div class="container-fluid">
 <section>
 <div class="view jarallax" data-jarallax='{"speed": 0.2}'
       style="background-image: url(/wp-content/uploads/2020/10/paula-park-e1601762058686.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;">
@@ -75,3 +76,4 @@
       </div>
     </div>
 </section>
+</div>
