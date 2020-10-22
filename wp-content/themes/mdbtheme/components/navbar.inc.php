@@ -2,7 +2,7 @@
 <header>
 
 <!-- Navbar -->
-<nav class="navbar white navbar-expand-lg navbar-light fixed-top" id="navbar-example">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light white scrolling-navbar z-depth-navbar" id="navbar-example">
   <div class="container">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler"
       aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
