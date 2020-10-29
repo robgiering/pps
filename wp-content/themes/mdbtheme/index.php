@@ -96,7 +96,8 @@
                         <div class="container">
                             <section class="p-md-3 mx-md-5 text-lg-left" id="ourteam">
                                 <h2 class="text-center font-weight-bold mb-4 pb-1">Our Team</h2>
-                                <p class="text-center lead mb-5 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
+                                <p class="text-center lead mb-2 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
+                                <p class="text-center lead mb-5 pb-2 text-muted">Select a team member's photo below to learn more about their pet care journey.</p>
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
