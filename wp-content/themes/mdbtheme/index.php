@@ -103,7 +103,7 @@
                                         <div class="row d-flex align-items-center">
                                             <a data-toggle="modal" data-target="#petsitter1">
                                                 <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                    <img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                    <img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                                 </div>
                                                 <div class="col-7">
                                                     <h6 class="font-weight-bold pt-2">Paula Elandt</h6>
@@ -117,7 +117,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter2"><img src="/wp-content/themes/mdbtheme/img/team/amy_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter2"><img src="/wp-content/themes/mdbtheme/img/team/amy_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Amy C.</h6>
@@ -130,7 +130,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Gigi Z.</h6>
@@ -143,7 +143,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Marcia B.</h6>
@@ -156,7 +156,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Angela M.</h6>
@@ -170,7 +170,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Adeline B.</h6>
@@ -183,7 +183,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter7"><img src="/wp-content/themes/mdbtheme/img/team/phil_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter7"><img src="/wp-content/themes/mdbtheme/img/team/phil_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Phil S.</h6>
@@ -196,7 +196,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Stephanie D.</h6>
@@ -209,7 +209,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-1 petsitter-thumbnail" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">John M.</h6>
@@ -888,32 +888,32 @@
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                             </div>
@@ -922,32 +922,32 @@
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                             </div>
@@ -956,32 +956,32 @@
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                             </div>
@@ -990,32 +990,32 @@
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid overlay zoom">
                                     </a>
                                 </figure>
                             </div>
