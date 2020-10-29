@@ -165,6 +165,7 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <!--
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
@@ -177,7 +178,7 @@
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div>-->
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
