@@ -906,8 +906,8 @@
                             <!--First slide-->
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="img/gallery/gallery_full1.jpg">
-                                        <img src="img/gallery/gallery_thumb1.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_full1.jpg">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_thumb1.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
