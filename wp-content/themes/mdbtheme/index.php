@@ -100,15 +100,15 @@
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
-                                                <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                    <a data-toggle="modal" data-target="#petsitter1"><img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
-                                                </div>
-                                                <div class="col-7">
-                                                    <a class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter1">Paula Elandt</a></h6>
+                                            <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
+                                                <a data-toggle="modal" data-target="#petsitter1"><img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                            </div>
+                                            <div class="col-7">
+                                                <a class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter1">Paula Elandt</a></h6>
                                                     <p class="text-muted">
                                                         Owner and Founder
                                                     </p>
-                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-sm-6 mb-5">
@@ -884,185 +884,137 @@
                             <!--First slide-->
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                             </div>
                             <!--/.First slide-->
                             <!--Second slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                             </div>
                             <!--/.Second slide-->
                             <!--Third slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                             </div>
                             <!--/.Third slide-->
                             <!--Fourth slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid">
                                     </a>
-     
-</figure>
+                                </figure>
                             </div>
                             <!--/.Fourth slide-->
                         </div>
@@ -1076,41 +1028,45 @@
     </div>
     <!-- Grid row -->
     <div class="container-fluid">
-    <div class="row" style="margin-top: -30px;" id="contact">
-        <!-- Grid column -->
-        <div class="col-md-12 px-lg-5 py-lg-5">
-            <!-- Card -->
-            <div class="card pb-5 mx-md-3">
-                <div class="card-body">
-                    <div class="container">
-                        <!--Section: Content-->
-                        <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
-                            <!--Grid row-->
-                            <div class="row">
-                                <!--Grid column-->
-                                <div class="col-lg-5 col-md-12 mb-0 mb-md-0">
-                                    <h3 class="font-weight-bold">Contact Us</h3>
-                                    <p class="text-muted"></p>
-                                    <p><span class="font-weight-bold mr-2">Email:</span><a href="mailto:PaulasPetSittingInMidlandMi@gmail.com">PaulasPetSittingInMidlandMi@gmail.com</a></p>
-                                    <p><span class="font-weight-bold mr-2">Phone:</span><a href="tel:989-513-7937">(989) 513-7937</a></p>
+        <div class="row" style="margin-top: -30px;" id="contact">
+            <!-- Grid column -->
+            <div class="col-md-12 px-lg-5 py-lg-5">
+                <!-- Card -->
+                <div class="card pb-5 mx-md-3">
+                    <div class="card-body">
+                        <div class="container">
+                            <!--Section: Content-->
+                            <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
+                                <!--Grid row-->
+                                <div class="row">
+                                    <!--Grid column-->
+                                    <div class="col-lg-5 col-md-12 mb-0 mb-md-0">
+                                        <h3 class="font-weight-bold">Contact Us</h3>
+                                        <p class="text-muted"></p>
+                                        <p><span class="font-weight-bold mr-2">Email:</span><a href="mailto:PaulasPetSittingInMidlandMi@gmail.com">PaulasPetSittingInMidlandMi@gmail.com</a></p>
+                                        <p><span class="font-weight-bold mr-2">Phone:</span><a href="tel:989-513-7937">(989) 513-7937</a></p>
+                                    </div>
+                                    <!--Grid column-->
+                                    <!--Grid column-->
+                                    <div class="col-lg-7 col-md-12 mb-4 mb-md-0">
+                                        <?php echo do_shortcode( '[contact-form-7 id="9962" title="Contact form 1" html_class="needs-validation"]' ); ?>
+                                    </div>
+                                    <!--Grid column-->
                                 </div>
-                                <!--Grid column-->
-                                <!--Grid column-->
-                                <div class="col-lg-7 col-md-12 mb-4 mb-md-0">
-                                    <?php echo do_shortcode( '[contact-form-7 id="9962" title="Contact form 1" html_class="needs-validation"]' ); ?>
-                                </div>
-                                <!--Grid column-->
-                            </div>
-                            <!--Grid row-->
-                        </section>
+                                <!--Grid row-->
+                            </section>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1142,7 +1098,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter2" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1184,7 +1144,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter3" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1220,7 +1184,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter4" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1256,7 +1224,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1288,10 +1260,16 @@
                     </div>
                 </div>
             </div>
-<!--
+            <!--
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
 
                         <section>
                             <div class="card">
@@ -1329,7 +1307,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1365,7 +1347,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter8" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1402,7 +1388,11 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
                         <section>
                             <div class="card">
                                 <div class="row">
