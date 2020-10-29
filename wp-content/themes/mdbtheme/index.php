@@ -906,33 +906,33 @@
                             <!--First slide-->
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_full1.jpg">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_thumb1.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_2.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_2.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_3.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_3.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_4.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_4.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_5.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_5.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_6.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_6.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                             </div>
@@ -940,33 +940,33 @@
                             <!--Second slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_7.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_7.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_8.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_8.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_9.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_9.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_10.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_10.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_11.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_11.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_12.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_12.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                             </div>
@@ -974,33 +974,33 @@
                             <!--Third slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_13.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_13.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_14.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_14.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_15.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_15.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_16.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_16.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_17.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_17.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_18.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_18.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                             </div>
@@ -1008,33 +1008,33 @@
                             <!--Fourth slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_19.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_19.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_20.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_20.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_21.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_21.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_22.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_22.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_23.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_23.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/uploads/2020/10/gallery_24.jpg">
-                                        <img src="/wp-content/uploads/2020/10/gallery_24.jpg" class="img-fluid">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                             </div>
@@ -1156,7 +1156,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/amy.jpg" alt="Amy C.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//amy.jpg" alt="Amy C.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Amy C.</h3>
@@ -1197,7 +1197,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/gigi.jpg" alt="Gigi Z.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//gigi.jpg" alt="Gigi Z.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Gigi Z.</h3>
@@ -1232,7 +1232,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/marcia.jpg" alt="Marcia B.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//marcia.jpg" alt="Marcia B.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Marcia B.</h3>
@@ -1261,7 +1261,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/angie.jpg" alt="Angela M.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//angie.jpg" alt="Angela M.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Angela M.</h3>
@@ -1295,7 +1295,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/adeline.jpg" alt="Adeline B.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//adeline.jpg" alt="Adeline B.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Adeline B.</h3>
@@ -1330,7 +1330,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/phil.jpg" alt="Phil S.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//phil.jpg" alt="Phil S.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Phil S.</h3>
@@ -1365,7 +1365,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/stephanie.jpg" alt="Stephanie D.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//stephanie.jpg" alt="Stephanie D.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Stephanie D.</h3>
@@ -1401,7 +1401,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/uploads/2020/10/john.jpg" alt="John M.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//john.jpg" alt="John M.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">John M.</h3>
