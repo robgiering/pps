@@ -1123,6 +1123,18 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1154,6 +1166,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter2" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1195,6 +1213,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter3" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1230,6 +1254,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter4" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1259,6 +1289,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1293,6 +1329,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1328,6 +1370,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1363,6 +1411,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter8" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1399,6 +1453,12 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-lg">
                     <div class="modal-content">
+<div class="modal-header">
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
                         <section>
                             <div class="card">
                                 <div class="row">
