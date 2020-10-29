@@ -316,34 +316,11 @@
                                 <p>The Night Time Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC. By having a Pet Sitter in your home all night, you receive the benefits of home security, monitoring for power outages, flooding and to give your home a lived in appearance in addition to never leaving your pet alone. Our pet sitters will even share their bed with the pet as long as the pet sleeps through the night!</p>
                                 <ul>
                                     <li>The pet sitter will arrive and leave at the times detailed below, so you must plan your trip accordingly. Your Night Time Pet Sitter will be chosen from whomever on your team has availability. Be sure to leave detailed written instructions for your pet’s care in our Time to Pet software.</li>
-                                    <li>The Night Time pet sitter will stay in your home from 9 p.m. to 7 a.m. If you are also using the All Day pet care option, the night time sitter will do a 30-minute dinner visit between 5 p.m. and 6 p.m. to give your daytime pet sitter a small break. You do not need to have a pet to benefit from our house sitting service.</li>
-                                    <li>If you are not using the All Day Service, the Night Time Pet Care service will include a free 30-minute dinner visit between 5 and 6 p.m.</li>
+                                    <li>The Night Time pet sitter will stay in your home from 9 p.m. to 7 a.m. You do not need to have a pet to benefit from our house sitting service.</li>
+                                    <li>Night Time Pet Care service will include a free 30-minute dinner visit between 5 and 6 p.m.</li>
                                     <li>Call ahead for service availability. Subject to late notice and holiday surcharges.</li>
                                 </ul>
                                 <p>** Overnight House Sitting in NOT currently available in Sanford or Hope.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Accordion card -->
-                    <!-- Accordion card -->
-                    <div class="card">
-                        <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading5">
-                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse5" aria-expanded="false" aria-controls="servicesCollapse5">
-                                <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    All-Day Pet Care - $100 <i class="fas fa-angle-down rotate-icon"></i>
-                                </h5>
-                            </a>
-                        </div>
-                        <!-- Card body -->
-                        <div id="servicesCollapse5" class="collapse" role="tabpanel" aria-labelledby="servicesHeading5" data-parent="#services">
-                            <div class="card-body mb-1 rgba-grey-light white-text">
-                                <p>The All Day Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC.&nbsp; Many of our clients love having a pet sitter stay at their home during the day when realtors are showing their house, when waiting for deliveries or when workmen/women are in the home.&nbsp; By having a Pet Sitter in your home All Day, you receive the benefits of home security,&nbsp; monitoring for power outages, flooding and to give your home a lived in appearance in addition to never leaving your pet alone.</p>
-                                <ul>
-                                    <li>The pet sitter will arrive and leave at the times detailed below, so you must plan your trip accordingly. Your All Day Pet Sitter will be chosen from whomever on your team has&nbsp; availability. Be sure to leave detailed written instructions for your pet’s care in our Time to Pet software.</li>
-                                    <li>The All Day pet sitter will stay in your home from 7 a.m. to 9 p.m. You do not need to have a pet to benefit from our house sitting service.</li>
-                                    <li>Call for service availability. Subject to late notice and holiday surcharges.</li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -1123,9 +1100,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter1" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1157,9 +1132,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter2" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1201,9 +1174,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter3" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1239,9 +1210,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter4" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1271,9 +1240,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1305,12 +1272,11 @@
                     </div>
                 </div>
             </div>
+<!--
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1343,12 +1309,11 @@
                     </div>
                 </div>
             </div>
+        -->
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1384,9 +1349,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter8" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
@@ -1423,9 +1386,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-scrollable modal-xl">
                     <div class="modal-content">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
-          </button>
+
                         <section>
                             <div class="card">
                                 <div class="row">
