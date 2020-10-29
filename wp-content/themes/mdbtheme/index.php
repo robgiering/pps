@@ -21,10 +21,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2 text-center">
+                                            <div class="col-3 text-center">
                                                 <i class="fas fa-paw fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
+                                            <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Daily Dog Walking</p>
                                                 <p class="grey-text mt-2">Does your pooch need some relief and exercise mid day? We’ll be there! One of our caregivers will visit your home to walk your dog in your neighborhood, play ball in the yard or give them some well-deserved love and attention.
                                                 </p>
@@ -37,10 +37,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2 text-center">
+                                            <div class="col-3 text-center">
                                                 <i class="fas fa-home fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
+                                            <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Vacation Home Visits</p>
                                                 <p class="grey-text mt-2">
                                                     Headed out of town or out for the night? No problem! One of our caregivers will visit your home up to 4 times per day. We will stop by in the Morning, Mid Day, Late afternoon and bedtime to take care of your precious pals.
@@ -58,10 +58,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2 text-center">
+                                            <div class="col-3 text-center">
                                                 <i class="fas fa-moon fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
+                                            <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Overnight Care</p>
                                                 <p class="grey-text mt-2">
                                                     Is your pet afraid of the dark? Do they get lonely at night? Have one of our sitter’s spend the night to give your pets extra time and snuggles and your home the added security of a live-in caregiver.</p>
@@ -74,10 +74,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-2 text-center">
+                                            <div class="col-3 text-center">
                                                 <i class="fas fa-taxi fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-10 mb-2">
+                                            <div class="col-9 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Pet Taxi</p>
                                                 <p class="grey-text mt-2">
                                                     Do you need help getting your dog, cat, bunny or bird to the Groomers, Grandmas, the Vet, Doggy Daycare, the Boarding Kennel or a special event? Call a pet TAXI! Or rather hop on our APP and request a ride!
