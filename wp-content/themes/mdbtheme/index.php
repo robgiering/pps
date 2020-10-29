@@ -119,7 +119,7 @@
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter2">Amy C.</a></h6>
                                                 <p class="text-muted">
-                                                    Administrative Assistant
+                                                    Office Manager
                                                 </p>
                                             </div>
                                         </div>
@@ -411,7 +411,7 @@
                 </div>
                 <div class="col-md-6 col-lg-4 mb-4">
                     <h5 class="font-weight-normal mb-3">Tell me about your Pet Care Providers</h5>
-                    <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting.</p>
+                    <p class="text-muted">We have a screening process which includes a face-to-face interview, followed by reference checks, followed by a complete criminal history and background check. All sitters are then hired on a trial basis until we have followed up with enough clients to ensure that they are an excellent fit for Paula’s Pet Sitting. All of our Pet Sitters are Liability Insured and Bonded. Drug Tested and Criminal Background Checked.</p>
                 </div>
                 <div class="col-md-12">
                     <div class="accordion md-accordion" id="faq" role="tablist" aria-multiselectable="true">
@@ -1151,7 +1151,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Amy C.</h3>
-                                        <h5 class="font-weight-normal mb-3">Administrative Assistant</h5>
+                                        <h5 class="font-weight-normal mb-3">Office Manager</h5>
                                         <p class="text-muted">
                                             Hi! My name is Amy Clark and I will be the person responding to all phone calls, emails and text messages Monday through Friday 8 a.m. to 5 p.m. I ensure that our Pet Care provider’s schedules flow smoothly and the needs of our client’s and their pets are taken care of.
                                         </p>
