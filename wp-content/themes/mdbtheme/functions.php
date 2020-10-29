@@ -56,11 +56,6 @@ add_filter('wpcf7_form_elements', function($content) {
 
   return $content;
 });
-function cf7_add_custom_class($error) {
-  $error=str_replace("class=\"","class=\"wpcf7_validation_error invalid-feedback ", $error);
-  return $error;
-  }
-  add_filter('wpcf7_validation_error', 'invalid-feedback');
 add_filter( 'wpcf7_form_elements', 'dd_wpcf7_form_elements_replace' );
 function dd_wpcf7_form_elements_replace( $content ) {
     $name = 'name="message"';
