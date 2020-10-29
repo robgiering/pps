@@ -21,10 +21,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-3 text-center">
+                                            <div class="col-2 text-center">
                                                 <i class="fas fa-paw fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-9 mb-2">
+                                            <div class="col-10 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Daily Dog Walking</p>
                                                 <p class="grey-text mt-2">Does your pooch need some relief and exercise mid day? We’ll be there! One of our caregivers will visit your home to walk your dog in your neighborhood, play ball in the yard or give them some well-deserved love and attention.
                                                 </p>
@@ -37,10 +37,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-3 text-center">
+                                            <div class="col-2 text-center">
                                                 <i class="fas fa-home fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-9 mb-2">
+                                            <div class="col-10 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Vacation Home Visits</p>
                                                 <p class="grey-text mt-2">
                                                     Headed out of town or out for the night? No problem! One of our caregivers will visit your home up to 4 times per day. We will stop by in the Morning, Mid Day, Late afternoon and bedtime to take care of your precious pals.
@@ -58,10 +58,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-3 text-center">
+                                            <div class="col-2 text-center">
                                                 <i class="fas fa-moon fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-9 mb-2">
+                                            <div class="col-10 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Overnight Care</p>
                                                 <p class="grey-text mt-2">
                                                     Is your pet afraid of the dark? Do they get lonely at night? Have one of our sitter’s spend the night to give your pets extra time and snuggles and your home the added security of a live-in caregiver.</p>
@@ -74,10 +74,10 @@
                                     <div class="col-md-6">
                                         <!--Grid row-->
                                         <div class="row">
-                                            <div class="col-3 text-center">
+                                            <div class="col-2 text-center">
                                                 <i class="fas fa-taxi fa-3x mb-1 text-primary" aria-hidden="true"></i>
                                             </div>
-                                            <div class="col-9 mb-2">
+                                            <div class="col-10 mb-2">
                                                 <p class="font-weight-bold font-weight-bold mb-1">Pet Taxi</p>
                                                 <p class="grey-text mt-2">
                                                     Do you need help getting your dog, cat, bunny or bird to the Groomers, Grandmas, the Vet, Doggy Daycare, the Boarding Kennel or a special event? Call a pet TAXI! Or rather hop on our APP and request a ride!
@@ -96,30 +96,28 @@
                         <div class="container">
                             <section class="p-md-3 mx-md-5 text-lg-left" id="ourteam">
                                 <h2 class="text-center font-weight-bold mb-4 pb-1">Our Team</h2>
-                                <p class="text-center lead mb-2 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job. Select a team member's photo below to learn more about their pet care journey.</p>
+                                <p class="text-center lead mb-2 pb-4 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job. All of our Pet Sitters are Liability Insured and Bonded, Drug Tested and Criminal Background Checked. Select a team member's photo below to learn more about their pet care journey.</p>
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
-                                            <a data-toggle="modal" data-target="#petsitter1">
                                                 <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                    <img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                    <a data-toggle="modal" data-target="#petsitter1"><img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                                 </div>
                                                 <div class="col-7">
-                                                    <h6 class="font-weight-bold pt-2">Paula Elandt</h6>
+                                                    <a class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter1">Paula Elandt</a></h6>
                                                     <p class="text-muted">
                                                         Owner and Founder
                                                     </p>
                                                 </div>
-                                            </a>
                                         </div>
                                     </div>
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter2"><img src="/wp-content/themes/mdbtheme/img/team/amy_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter2"><img src="/wp-content/themes/mdbtheme/img/team/amy_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Amy C.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter2">Amy C.</a></h6>
                                                 <p class="text-muted">
                                                     Administrative Assistant
                                                 </p>
@@ -129,10 +127,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Gigi Z.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter3">Gigi Z.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -142,10 +140,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Marcia B.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter4">Marcia B.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -155,10 +153,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Angela M.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter5">Angela M.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -169,7 +167,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Adeline B.</h6>
@@ -182,10 +180,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter7"><img src="/wp-content/themes/mdbtheme/img/team/phil_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter7"><img src="/wp-content/themes/mdbtheme/img/team/phil_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Phil S.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter7">Phil S.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -195,10 +193,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Stephanie D.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter8">Stephanie D.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -208,10 +206,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">John M.</h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter9">John M.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -240,7 +238,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading1">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading1">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false" aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
@@ -268,7 +266,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading2">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading2">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse2" aria-expanded="false" aria-controls="servicesCollapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
@@ -286,7 +284,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading3">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading3">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
@@ -304,7 +302,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading4">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading4">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse4" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
@@ -329,7 +327,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading6">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading6">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse6" aria-expanded="false" aria-controls="servicesCollapse6">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
@@ -347,7 +345,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading7">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading7">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse7" aria-expanded="false" aria-controls="servicesCollapse7">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
@@ -365,7 +363,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading8">
+                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading8">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse8" aria-expanded="false" aria-controls="servicesCollapse8">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
@@ -886,137 +884,185 @@
                             <!--First slide-->
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                             </div>
                             <!--/.First slide-->
                             <!--Second slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                             </div>
                             <!--/.Second slide-->
                             <!--Third slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                             </div>
                             <!--/.Third slide-->
                             <!--Fourth slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                                 <figure class="col-md-4 d-md-inline-block">
+<div class="view overlay zoom">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid overlay zoom">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid">
                                     </a>
-                                </figure>
+                                </div>
+</figure>
                             </div>
                             <!--/.Fourth slide-->
                         </div>
