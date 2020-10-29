@@ -61,4 +61,16 @@ function cf7_add_custom_class($error) {
   return $error;
   }
   add_filter('wpcf7_validation_error', 'invalid-feedback');
+  <?php
+// Filter Form Elements
+// Include in your child theme/theme's functions.php
+add_filter( 'wpcf7_form_elements', 'dd_wpcf7_form_elements_replace' );
+function dd_wpcf7_form_elements_replace( $content ) {
+    $name = 'name="message"';
+    $str_pos = strpos( $content, $name );
+    if (false !== $str_pos) {
+        $content = substr_replace( $content, ' required ', $str_pos, 0 );
+    }
+    return $content;
+}
 ?>
