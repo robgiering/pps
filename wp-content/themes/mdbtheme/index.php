@@ -242,7 +242,7 @@
                     <div class="card">
                         <!-- Card header -->
                         <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading1">
-                            <a data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false" aria-controls="servicesCollapse1">
+                            <a class="collapsed" data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false" aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
