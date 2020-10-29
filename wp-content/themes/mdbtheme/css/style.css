@@ -28,3 +28,10 @@
       .navbar.navbar-dark .navbar-nav .nav-item .nav-link.active {
         background: rgba(255, 255, 255, .15) !important;
       }
+      button.close {
+          position: absolute;
+          right: 50px;
+          top: 50px;
+          color: #333;
+          
+      }

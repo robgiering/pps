@@ -1164,7 +1164,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//amy.jpg" alt="Amy C.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/amy.jpg" alt="Amy C.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Amy C.</h3>
@@ -1208,7 +1208,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//gigi.jpg" alt="Gigi Z.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/gigi.jpg" alt="Gigi Z.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Gigi Z.</h3>
@@ -1246,7 +1246,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//marcia.jpg" alt="Marcia B.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/marcia.jpg" alt="Marcia B.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Marcia B.</h3>
@@ -1278,7 +1278,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//angie.jpg" alt="Angela M.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/angie.jpg" alt="Angela M.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Angela M.</h3>
@@ -1315,7 +1315,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//adeline.jpg" alt="Adeline B.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/adeline.jpg" alt="Adeline B.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Adeline B.</h3>
@@ -1353,7 +1353,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//phil.jpg" alt="Phil S.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/phil.jpg" alt="Phil S.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Phil S.</h3>
@@ -1391,7 +1391,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//stephanie.jpg" alt="Stephanie D.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/stephanie.jpg" alt="Stephanie D.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">Stephanie D.</h3>
@@ -1430,7 +1430,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team//john.jpg" alt="John M.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/john.jpg" alt="John M.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <h3 class="font-weight-normal mb-1">John M.</h3>
