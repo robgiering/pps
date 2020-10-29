@@ -884,184 +884,184 @@
                             <!--First slide-->
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_2.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_3.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_4.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                             </div>
                             <!--/.First slide-->
                             <!--Second slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_8.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_9.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                             </div>
                             <!--/.Second slide-->
                             <!--Third slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_14.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_15.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                             </div>
                             <!--/.Third slide-->
                             <!--Fourth slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_20.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_21.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                                 <figure class="col-md-4 d-md-inline-block">
-<div class="view overlay zoom">
+
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid">
                                     </a>
-                                </div>
+     
 </figure>
                             </div>
                             <!--/.Fourth slide-->
