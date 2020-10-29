@@ -96,14 +96,13 @@
                         <div class="container">
                             <section class="p-md-3 mx-md-5 text-lg-left" id="ourteam">
                                 <h2 class="text-center font-weight-bold mb-4 pb-1">Our Team</h2>
-                                <p class="text-center lead mb-2 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job.</p>
-                                <p class="text-center lead mb-5 pb-2 text-muted">Select a team member's photo below to learn more about their pet care journey.</p>
+                                <p class="text-center lead mb-2 pb-2 text-muted">We ONLY hire dedicated Pet Care Professionals. We work with Pet Care Providers who have practical experience in the pet care field and view their time with Paula’s Pet Sitting as a career choice, not a stop on the way to another job. Select a team member's photo below to learn more about their pet care journey.</p>
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <a data-toggle="modal" data-target="#petsitter1">
                                                 <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                    <img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                    <img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                                 </div>
                                                 <div class="col-7">
                                                     <h6 class="font-weight-bold pt-2">Paula Elandt</h6>
@@ -117,7 +116,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter2"><img src="/wp-content/themes/mdbtheme/img/team/amy_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter2"><img src="/wp-content/themes/mdbtheme/img/team/amy_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Amy C.</h6>
@@ -130,7 +129,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Gigi Z.</h6>
@@ -143,7 +142,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Marcia B.</h6>
@@ -156,7 +155,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Angela M.</h6>
@@ -170,7 +169,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Adeline B.</h6>
@@ -183,7 +182,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter7"><img src="/wp-content/themes/mdbtheme/img/team/phil_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter7"><img src="/wp-content/themes/mdbtheme/img/team/phil_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Phil S.</h6>
@@ -196,7 +195,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">Stephanie D.</h6>
@@ -209,7 +208,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-2 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2">John M.</h6>
@@ -241,7 +240,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading1">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading1">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false" aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     15-Minute Visit: One Dog / Cats & Small Pets - $15 <i class="fas fa-angle-down rotate-icon"></i>
@@ -269,7 +268,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading2">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading2">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse2" aria-expanded="false" aria-controls="servicesCollapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
@@ -287,7 +286,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading3">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading3">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
@@ -305,7 +304,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading4">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading4">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse4" aria-expanded="false" aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
@@ -330,7 +329,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading6">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading6">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse6" aria-expanded="false" aria-controls="servicesCollapse6">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
@@ -348,7 +347,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading7">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading7">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse7" aria-expanded="false" aria-controls="servicesCollapse7">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
@@ -366,7 +365,7 @@
                     <!-- Accordion card -->
                     <div class="card">
                         <!-- Card header -->
-                        <div class="card-header z-depth-1 mb-1" role="tab" id="servicesHeading8">
+                        <div class="card-header z-depth-2 mb-1" role="tab" id="servicesHeading8">
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse8" aria-expanded="false" aria-controls="servicesCollapse8">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
                                     Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
