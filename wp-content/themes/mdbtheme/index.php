@@ -1097,44 +1097,7 @@
                                 <!--Grid column-->
                                 <!--Grid column-->
                                 <div class="col-lg-7 col-md-12 mb-4 mb-md-0">
-                                    <!--Grid row-->
-                                    <div class="row">
-                                        <!--Grid column-->
-                                        <div class="col-md-6">
-                                            <!-- Material outline input -->
-                                            <div class="md-form md-outline mb-0">
-                                                <input type="text" id="form-first-name" class="form-control">
-                                                <label for="form-first-name">First name</label>
-                                            </div>
-                                        </div>
-                                        <!--Grid column-->
-                                        <!--Grid column-->
-                                        <div class="col-md-6">
-                                            <!-- Material outline input -->
-                                            <div class="md-form md-outline mb-0">
-                                                <input type="text" id="form-last-name" class="form-control">
-                                                <label for="form-last-name">Last name</label>
-                                            </div>
-                                        </div>
-                                        <!--Grid column-->
-                                    </div>
-                                    <!--Grid row-->
-                                    <!-- Material outline input -->
-                                    <div class="md-form md-outline mt-3">
-                                        <input type="email" id="form-email" class="form-control">
-                                        <label for="form-email">E-mail</label>
-                                    </div>
-                                    <!-- Material outline input -->
-                                    <div class="md-form md-outline">
-                                        <input type="text" id="form-subject" class="form-control">
-                                        <label for="form-subject">Subject</label>
-                                    </div>
-                                    <!--Material textarea-->
-                                    <div class="md-form md-outline mb-3">
-                                        <textarea id="form-message" class="md-textarea form-control" rows="3"></textarea>
-                                        <label for="form-message">How we can help?</label>
-                                    </div>
-                                    <button type="submit" class="btn btn-info btn-sm ml-0">Submit<i class="far fa-paper-plane ml-2"></i></button>
+                                    <?php echo do_shortcode( '[contact-form-7 id="9962" title="Contact form 1"]' ); ?>
                                 </div>
                                 <!--Grid column-->
                             </div>
