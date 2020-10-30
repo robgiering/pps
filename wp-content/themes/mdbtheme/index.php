@@ -10,7 +10,7 @@
                 <div class="card pb-5">
                     <div class="card-body">
                         <div class="container">
-                            <section class="px-5 mt-5">
+                            <section class="mt-5">
                                 <!--Section heading-->
                                 <p class="text-center pb-5 h5"> WHY DO PEOPLE <span class="text-primary font-weight-bold">CHOOSE</span>
                                     PAULA'S?
