@@ -7,7 +7,7 @@
             <!-- Grid column -->
             <div class="col-md-12 px-lg-5">
                 <!-- Card -->
-                <div class="card pb-5 mx-md-3">
+                <div class="card pb-5">
                     <div class="card-body">
                         <div class="container">
                             <section class="px-5 mt-5">
