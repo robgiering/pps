@@ -421,7 +421,7 @@
                             <div class="card-header px-0 pt-0" role="tab" id="morequestionsHeading1">
                                 <a class="collapsed" data-toggle="collapse" href="#morequestionsCollapse1" aria-expanded="false" aria-controls="morequestionsCollapse1">
                                     <h5 class="mb-0">
-                                        Have another question? View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
+                                        View the full FAQ. <i class="fas fa-angle-down rotate-icon"></i>
                                     </h5>
                                 </a>
                             </div>
@@ -884,6 +884,16 @@
                             <!--First slide-->
                             <div class=" carousel-item active text-center">
                                 <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_103020.jpg" data-size="1024x768">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_103020_thumb.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_103020_2.jpg" data-size="1024x768">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_103020_2_thumb.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_1.jpg" class="img-fluid">
                                     </a>
@@ -918,6 +928,16 @@
                             <!--Second slide-->
                             <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_5.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
+                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" data-size="708x472">
+                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_6.jpg" class="img-fluid">
+                                    </a>
+                                </figure>
+                                <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_7.jpg" class="img-fluid">
                                     </a>
@@ -937,6 +957,11 @@
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_10.jpg" class="img-fluid">
                                     </a>
                                 </figure>
+                                
+                            </div>
+                            <!--/.Second slide-->
+                            <!--Third slide-->
+                            <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_11.jpg" class="img-fluid">
@@ -947,10 +972,6 @@
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_12.jpg" class="img-fluid">
                                     </a>
                                 </figure>
-                            </div>
-                            <!--/.Second slide-->
-                            <!--Third slide-->
-                            <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_13.jpg" class="img-fluid">
@@ -971,6 +992,10 @@
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_16.jpg" class="img-fluid">
                                     </a>
                                 </figure>
+                            </div>
+                            <!--/.Third slide-->
+                            <!--Fourth slide-->
+                            <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_17.jpg" class="img-fluid">
@@ -981,10 +1006,6 @@
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_18.jpg" class="img-fluid">
                                     </a>
                                 </figure>
-                            </div>
-                            <!--/.Third slide-->
-                            <!--Fourth slide-->
-                            <div class="carousel-item text-center">
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_19.jpg" class="img-fluid">
@@ -1003,16 +1024,6 @@
                                 <figure class="col-md-4 d-md-inline-block">
                                     <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" data-size="708x472">
                                         <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_22.jpg" class="img-fluid">
-                                    </a>
-                                </figure>
-                                <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_23.jpg" class="img-fluid">
-                                    </a>
-                                </figure>
-                                <figure class="col-md-4 d-md-inline-block">
-                                    <a href="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" data-size="708x472">
-                                        <img src="/wp-content/themes/mdbtheme/img/gallery/gallery_24.jpg" class="img-fluid">
                                     </a>
                                 </figure>
                             </div>

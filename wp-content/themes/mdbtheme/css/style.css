@@ -25,3 +25,8 @@
       .navbar.navbar-dark .navbar-nav .nav-item .nav-link.active {
         background: rgba(255, 255, 255, .15) !important;
       }
+
+
+      .grecaptcha-badge { 
+        bottom:65px !important;
+      }
