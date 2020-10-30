@@ -1071,7 +1071,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Paula Elandt</h3>
                                         <h5 class="font-weight-normal mb-3">Owner and Founder</h5>
@@ -1106,7 +1106,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Amy C.</h3>
                                         <h5 class="font-weight-normal mb-3">Office Manager</h5>
@@ -1151,7 +1151,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Gigi Z.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
@@ -1190,7 +1190,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Marcia B.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
@@ -1229,7 +1229,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Angela M.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
@@ -1262,7 +1262,7 @@
 
         
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
+          <span aria-hidden="true">&times;</span></button>
         </button>
       </div>
 
@@ -1274,7 +1274,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Adeline B.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
@@ -1314,7 +1314,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Phil S.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
@@ -1353,7 +1353,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">Stephanie D.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
@@ -1393,7 +1393,7 @@
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
+                                <span aria-hidden="true">&times;</span></button>
                             
                                         <h3 class="font-weight-normal mb-1">John M.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
