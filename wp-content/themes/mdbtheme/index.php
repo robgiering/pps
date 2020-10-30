@@ -1069,11 +1069,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/paula.jpg" alt="Paula Elandt">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Paula Elandt</h3>
                                         <h5 class="font-weight-normal mb-3">Owner and Founder</h5>
                                         <p class="text-muted">Hello! My name is Paula Elandt and I started watching pets as a “Hobby Business” back in May of 2015. I quickly realized that there was a tremendous need for home based pet care that was professional, affordable and available 7 days a week.</p>
@@ -1105,11 +1104,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/amy.jpg" alt="Amy C.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Amy C.</h3>
                                         <h5 class="font-weight-normal mb-3">Office Manager</h5>
                                         <p class="text-muted">
@@ -1151,11 +1149,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/gigi.jpg" alt="Gigi Z.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Gigi Z.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
@@ -1191,11 +1188,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/marcia.jpg" alt="Marcia B.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Marcia B.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
@@ -1231,11 +1227,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/angie.jpg" alt="Angela M.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Angela M.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
@@ -1264,7 +1259,7 @@
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6" aria-hidden="true">
                 <div class="modal-dialog modal-xl">
                     <div class="modal-content">
-<div class="modal-header">
+
         
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
@@ -1277,11 +1272,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/adeline.jpg" alt="Adeline B.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Adeline B.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
@@ -1318,11 +1312,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/phil.jpg" alt="Phil S.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Phil S.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
@@ -1358,11 +1351,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/stephanie.jpg" alt="Stephanie D.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">Stephanie D.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
@@ -1399,11 +1391,10 @@
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/john.jpg" alt="John M.">
                                     </div>
-                                    <div class="col-md-6 p-5 align-self-center"><div class="modal-header">
+                                    <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
+                            
                                         <h3 class="font-weight-normal mb-1">John M.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
