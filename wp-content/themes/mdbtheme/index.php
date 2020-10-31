@@ -1060,7 +1060,7 @@
                                     <!--Grid column-->
                                     <!--Grid column-->
                                     <div class="col-lg-7 col-md-12 mb-4 mb-md-0">
-                                        <?php echo do_shortcode( '[contact-form-7 id="9962" title="Contact form 1" html_class="needs-validation"]' ); ?>
+                                        <?php echo do_shortcode( '[contact-form-7 id="9962" title="Contact form 1"]' ); ?>
                                     </div>
                                     <!--Grid column-->
                                 </div>
