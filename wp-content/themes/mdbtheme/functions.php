@@ -51,22 +51,4 @@ function mdb_widgets_init() {
 
 }
 add_action( 'widgets_init', 'mdb_widgets_init' );
-add_filter('wpcf7_form_elements', function($content) {
-  $content = preg_replace('/<(span).*?class="\s*(?:.*\s)?wpcf7-form-control-wrap(?:\s[^"]+)?\s*"[^\>]*>(.*)<\/\1>/i', '\2', $content);
-
-  return $content;
-});
-add_filter( 'wpcf7_form_elements', 'dd_wpcf7_form_elements_replace' );
-function dd_wpcf7_form_elements_replace( $content ) {
-    $name = array('name="first-name"','name="last-name"','name="email"','name="message"');
-    $x = 1;
-    while($x <= 4) {
-    $str_pos = strpos( $content, $name );
-    if (false !== $str_pos) {
-        $content = substr_replace( $content, ' required ', $str_pos, 0 );
-    }
-    return $content;
-    $x++;
-    }
-}
 ?>
