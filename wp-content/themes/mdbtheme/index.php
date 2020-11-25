@@ -104,7 +104,7 @@
                                                 <a data-toggle="modal" data-target="#petsitter1"><img src="/wp-content/themes/mdbtheme/img/team/paula_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <a class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter1">Paula Elandt</a></h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter1">Paula Elandt</a></h6>
                                                     <p class="text-muted">
                                                         Owner and Founder
                                                     </p>
