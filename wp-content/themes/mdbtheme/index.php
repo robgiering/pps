@@ -203,6 +203,7 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <!--
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
@@ -215,7 +216,7 @@
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                             </section>
                         </div>
                     </div>
@@ -799,7 +800,7 @@
                                                                 <li>If we suspect that your pet may be ill we will call you (the client) first and then your emergency contact phone number on file if we cannot reach you.</li>
                                                                 <li>If it is determined that your pet should be seen by a veterinarian we will transport them to the vet office for treatment.</li>
                                                                 <li>If we cannot get ahold of you (the client) or your emergency contact we will call the vet and let the vet determine if the pet should be seen.</li>
-                                                                <li>You will be billed for the time it takes us to transport your pet to the vet clinic at the rate of $25 per hour (this includes time to transport as well as time in the Vet office).</li>
+                                                                <li>You will be billed for the time it takes us to transport your pet to the vet clinic at the rate of $35 per hour (this includes time to transport as well as time in the Vet office).</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -1392,6 +1393,7 @@
                     </div>
                 </div>
             </div>
+            <!--
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9" aria-hidden="true">
                 <div class="modal-dialog modal-xl">
                     <div class="modal-content">
@@ -1417,7 +1419,7 @@
                         </section>
                     </div>
                 </div>
-            </div>
+            </div> -->
 </main>
 <!-- Main Layout -->
 <?php get_footer(); ?>

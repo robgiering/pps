@@ -42,7 +42,7 @@
           <a class="nav-link" href="https://www.instagram.com/paulaspetsittinginmidland/" target="_blank"><i class="fab fa-instagram"></i></a>
         </li>
         <li class="nav-item ">
-          <a class="btn btn-info btn-rounded btn-sm waves-effect waves-light" href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.timetopet.com%2Fportal%2Flogin%3Ffbclid%3DIwAR1Zrd_uNUMcvxzxTYxSL8CJN-IquhWc5glEfGIT_3HefpfC2yT9zBtS9Ts&h=AT1jkDcb78g3lXD1-7r_eVlT0s4pkxZUEaKltxjDHgBJhanH9nf-3MNxTApmm3IrJ9_BJEtyGdRyrrcitIxXMlYpW0nRuVWpKDMg2n0kvyRnXezKhlAms6Z0r-C9BlvouL0" target="_blank">Client Login</a>
+          <a class="btn btn-info btn-rounded btn-sm waves-effect waves-light" href="https://www.timetopet.com/portal/login?fbclid=IwAR1Zrd_uNUMcvxzxTYxSL8CJN-IquhWc5glEfGIT_3HefpfC2yT9zBtS9Ts" target="_blank">Client Login</a>
         </li>
       </ul>
     </div>
