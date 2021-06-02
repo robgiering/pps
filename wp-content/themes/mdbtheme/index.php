@@ -153,10 +153,10 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/angie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/maddie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter5">Angela M.</a></h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter5">Maddie</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -203,20 +203,19 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!--
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/john_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter9"><img src="/wp-content/themes/mdbtheme/img/team/kasandra_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter9">John M.</a></h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter9">Kasandra J.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
                                             </div>
                                         </div>
-                                    </div> -->
+                                    </div>
                             </section>
                         </div>
                     </div>
@@ -1237,27 +1236,27 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/angie.jpg" alt="Angela M.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/maddie.jpg" alt="Maddie">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span></button>
                             
-                                        <h3 class="font-weight-normal mb-1">Angela M.</h3>
+                                        <h3 class="font-weight-normal mb-1">Maddie</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
-                                            Hi there! I provide Mid-Day Dog Walks, Vacation Services and Overnight House Sitting Services.
+                                        Hello my name is Maddie and I provide pet sitting, dog walking, and overnight stay services. I am a junior in college at GVSU studying writing. 
                                         </p>
-                                        <p class="text-muted">I have had dogs in my life since I was 4 years old. When I got older I was not able to have children so my dogs have always been my kids. I understand each pet has a personality all it’s own.</p>
-                                        <p class="text-muted">I look forward to getting to know your pets!</p>
+                                        <p class="text-muted">My experience with animals extends to my early childhood, such as raising chickens, caring for horses, and training dogs. I have my own cat named Stormy, and dog Scout. We live in Midland Michigan.</p>
+                                        <p class="text-muted">I love meeting new animals to befriend everywhere I go, and I am always excited to meet more!</p>
                                         <ul class="list-unstyled font-small mt-5 mb-0">
                                             <li>
                                                 <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
                                                 <div class="d-flex justify-content-start">
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-                                                </div>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. 2021"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. June 2021"></i></a>
+                                                    <!--<a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                --></div>
                                             </li>
                                         </ul>
                                     </div>
@@ -1393,7 +1392,7 @@
                     </div>
                 </div>
             </div>
-            <!--
+            
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter9" aria-hidden="true">
                 <div class="modal-dialog modal-xl">
                     <div class="modal-content">
@@ -1402,16 +1401,16 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/john.jpg" alt="John M.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/kasandra.jpg" alt="Kasandra J.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span></button>
                             
-                                        <h3 class="font-weight-normal mb-1">John M.</h3>
+                                        <h3 class="font-weight-normal mb-1">Kasandra J.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
-                                            Hello, my name is John and I provide pet sitting, dog walking, overnight house sitting, and vacation services. I started my love of animals at a young age when my family bought a cat, and then later another cat. After some time I got a beautiful dog, and with all these animals I truly found the joy of such loyal companions. I currently have just one cat who enthusiastically bounds around on his 3 legs and bumps into things sometimes with his one eye. As a fellow lover of all animals I am thrilled to be able to meet, care for, and enjoy the company of your special guy or gal.
+                                        My name is a Kasandra, I am a dog mommy of two. I have a 12 year old Aussie and a 3 year old Jack Russell. I have lived in Midland for my entire life - so 19 years! As a kid, I spent my time helping out with 4-H and absolutely loved it. I previously worked at a petting farm where I cared for baby animals on a daily basis. I always have loved dogs and cats so much and just want to share my love with your animals too.
                                         </p>
                                     </div>
                                 </div>
