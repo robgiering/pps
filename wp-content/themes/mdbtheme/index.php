@@ -127,19 +127,6 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter3"><img src="/wp-content/themes/mdbtheme/img/team/gigi_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
-                                            </div>
-                                            <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter3">Gigi Z.</a></h6>
-                                                <p class="text-muted">
-                                                    Pet Care Provider
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-sm-6 mb-5">
-                                        <div class="row d-flex align-items-center">
-                                            <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
                                                 <a data-toggle="modal" data-target="#petsitter4"><img src="/wp-content/themes/mdbtheme/img/team/marcia_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
@@ -1150,45 +1137,7 @@
                     </div>
                 </div>
             </div>
-            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter3" aria-hidden="true">
-                <div class="modal-dialog modal-xl">
-                    <div class="modal-content">
-                        
-                        <section>
-                            <div class="card">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/gigi.jpg" alt="Gigi Z.">
-                                    </div>
-                                    <div class="col-md-6 p-5 align-self-center">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span></button>
-                            
-                                        <h3 class="font-weight-normal mb-1">Gigi Z.</h3>
-                                        <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-                                        <p class="text-muted">
-                                            Hi! I provide pet sitting, dog walks and overnight house sitting.
-                                        </p>
-                                        <p class="text-muted">
-                                            I’m originally from Dearborn MI. I have always loved visiting my grandparents farm near Midland where I learned to care for their dogs, cats and sheep and they even had a goose when I was little. I love nature and all animals so it’s great to now live in the Midland area.
-                                        </p>
-                                        <ul class="list-unstyled font-small mt-5 mb-0">
-                                            <li>
-                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-                                                <div class="d-flex justify-content-start">
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-            </div>
+           
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter4" aria-hidden="true">
                 <div class="modal-dialog modal-xl">
                     <div class="modal-content">
