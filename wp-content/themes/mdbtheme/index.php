@@ -857,7 +857,7 @@
 
         <p class="text-muted">A group that makes a huge difference in the wild population of cats in our community is the Trap/Neuter/Return (TNR) program run by the SOS Animal Rescue.  Paula’s Pet Sitting is a proud supporter of the SOS Animal Rescue.  The SOS Animal Rescue is a 501(c)(3) non-profit organization dedicated to reducing the number of unwanted pets in Midland county. They have three primary areas of focus: Placement, Public Education, and Spay Neuter/Pet Food Assistance Programs.</p>
 
-        <p class="text-muted">What is the TNR Program?  The SOS Rescue volunteers live-trap the cats, neuter and spay them and find a good home for them.  All trapped kittens are put in foster homes until they can be tamed and adopted and the rest are often placed in “Barn Homes.  If you see a feral cat with the tip of one ear squared off, you know it has been through this program.</p>
+        <p class="text-muted">The SOS Rescue volunteers live-trap the cats, neuter and spay them and find a good home for them.  All trapped kittens are put in foster homes until they can be tamed and adopted and the rest are often placed in “Barn Homes.  If you see a feral cat with the tip of one ear squared off, you know it has been through this program.</p>
 
         <p class="text-muted">Please follow the link below to the SOS Animal Rescue website to make your tax deductible donation.</p>
 
