@@ -150,20 +150,20 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!--
+                                    
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/adeline_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/emily_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Adeline B.</h6>
+                                                <h6 class="font-weight-bold pt-2">Emily</h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
                                             </div>
                                         </div>
-                                    </div>-->
+                                    </div>
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
@@ -180,7 +180,7 @@
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                                <a data-toggle="modal" data-target="#petsitter8"><img src="/wp-content/themes/mdbtheme/img/team/stephanie_thumb_2.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter8">Stephanie D.</a></h6>
@@ -844,6 +844,53 @@
         </section>
     </div>
     <div class="container my-5">
+    <!--Section: Content-->
+    <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
+    
+    <!--Grid row-->
+    <div class="row">
+
+      <!--Grid column-->
+      <div class="col-md-6 mb-4 mb-md-0">
+
+        <h3 class="font-weight-bold">THE MIDLAND COUNTY TNR PROGRAM</h3>
+
+        <p class="text-muted">A group that makes a huge difference in the wild population of cats in our community is the Trap/Neuter/Return (TNR) program run by the SOS Animal Rescue.  Paula’s Pet Sitting is a proud supporter of the SOS Animal Rescue.  The SOS Animal Rescue is a 501(c)(3) non-profit organization dedicated to reducing the number of unwanted pets in Midland county. They have three primary areas of focus: Placement, Public Education, and Spay Neuter/Pet Food Assistance Programs.</p>
+
+        <p class="text-muted">What is the TNR Program?  The SOS Rescue volunteers live-trap the cats, neuter and spay them and find a good home for them.  All trapped kittens are put in foster homes until they can be tamed and adopted and the rest are often placed in “Barn Homes.  If you see a feral cat with the tip of one ear squared off, you know it has been through this program.</p>
+
+        <p class="text-muted">Please follow the link below to the SOS Animal Rescue website to make your tax deductible donation.</p>
+
+        <p class="text-muted">Thank you for taking the time to read this message and to consider donating to this great cause!</p>
+
+        <a class="btn btn-purple btn-md ml-0" href="#" role="button">Donate now</a>
+
+      </div>
+      <!--Grid column-->
+
+      <!--Grid column-->
+      <div class="col-md-6 mb-4 mb-md-0">
+
+        <!--Image-->
+        <div class="view overlay z-depth-1-half">
+          <img src="/wp-content/themes/mdbtheme/img/gallery/tnr_program.jpg" class="img-fluid"
+            alt="">
+          <a href="#">
+            <div class="mask rgba-white-light"></div>
+          </a>
+        </div>
+
+      </div>
+      <!--Grid column-->
+
+    </div>
+    <!--Grid row-->
+
+
+  </section>
+</div>
+  <!--Section: Content-->
+    <div class="container my-5">
         <!--Section: Content-->
         <section class="text-center dark-grey-text">
             <h3 class="font-weight-bold pb-4 mb-0 text-center">Meet some of our favorite clients</h3>
@@ -1215,7 +1262,7 @@
                     </div>
                 </div>
             </div>
-            <!--
+            
             <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6" aria-hidden="true">
                 <div class="modal-dialog modal-xl">
                     <div class="modal-content">
@@ -1230,27 +1277,30 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/adeline.jpg" alt="Adeline B.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/emily.jpg" alt="Emily">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span></button>
                             
-                                        <h3 class="font-weight-normal mb-1">Adeline B.</h3>
+                                        <h3 class="font-weight-normal mb-1">Emily</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
-                                            Hi, my name is Adeline and I provide pet sitting, dog walking, overnight house sitting, and vacation services.
+                                        Hi Everyone! My name is Emily and I am very excited to be a part of Paula’s Pet Sitting team. I provide Pet Sitting, Dog Walks, Vacation Services, and Overnight House Sitting services in Midland, Michigan.
                                         </p>
                                         <p class="text-muted">
-                                            I have had pets my entire life, and I have a huge soft spot for all animals. I currently have 3 pups that love to go running with me. I was a 4-H kid and spent many years training, showing, and caring for a wide variety of animals. I have had dogs, cats, chickens, ducks, rabbits, goats, sheep, pigs, and horses. I am very comfortable with animals of all breeds large and small including reptiles. I am very excited to have the opportunity to meet and care for your pets as well.
+                                        As a farmer, veteran, and forever animal lover, I have a passion for caring for all of God’s creatures. I own 4 alpacas (with a baby cria on the way!!!), a ram, three sheep, dozen chickens, two barn cats, and an old dog. Taking care of my hobby farm is a daily blessing and I cant wait to share my love with your pet as well.  
+                                        </p>
+                                        <p class="text-muted">
+                                        I look forward to meeting you and spending quality time with your pets!
                                         </p>
                                         <ul class="list-unstyled font-small mt-5 mb-0">
                                             <li>
                                                 <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
                                                 <div class="d-flex justify-content-start">
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. March 2019"></i></a>
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. March 2019"></i></a>
-                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. August 2021"></i></a>
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. August 2021"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. August 2021"></i></a>
                                                 </div>
                                             </li>
                                         </ul>
@@ -1309,7 +1359,7 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/stephanie.jpg" alt="Stephanie D.">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/stephanie_2.jpg" alt="Stephanie D.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
