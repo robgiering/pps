@@ -143,27 +143,14 @@
                                                 <a data-toggle="modal" data-target="#petsitter5"><img src="/wp-content/themes/mdbtheme/img/team/maddie_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter5">Maddie</a></h6>
+                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter5">Maddie J.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
-                                    
-                                    <div class="col-lg-4 col-sm-6 mb-5">
-                                        <div class="row d-flex align-items-center">
-                                            <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/emily_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
-                                            </div>
-                                            <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Emily</h6>
-                                                <p class="text-muted">
-                                                    Pet Care Provider
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
+                                
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
@@ -197,6 +184,19 @@
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2"><a data-toggle="modal" data-target="#petsitter9">Kasandra J.</a></h6>
+                                                <p class="text-muted">
+                                                    Pet Care Provider
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 mb-5">
+                                        <div class="row d-flex align-items-center">
+                                            <div class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
+                                                <a data-toggle="modal" data-target="#petsitter6"><img src="/wp-content/themes/mdbtheme/img/team/emily_thumb.jpg" class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                            </div>
+                                            <div class="col-7">
+                                                <h6 class="font-weight-bold pt-2">Emily L.</h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -845,7 +845,7 @@
     </div>
     <div class="container my-5">
     <!--Section: Content-->
-    <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
+    <section class="text-center text-lg-left dark-grey-text">
     
     <!--Grid row-->
     <div class="row">
@@ -863,7 +863,7 @@
 
         <p class="text-muted">Thank you for taking the time to read this message and to consider donating to this great cause!</p>
 
-        <a class="btn btn-purple btn-md ml-0" href="#" role="button">Donate now</a>
+        <a class="btn btn-purple btn-md ml-0" href="https://sosanimalrescue.org/trap-neuter-return-tnr" target="_blank" role="button">Donate now</a>
 
       </div>
       <!--Grid column-->
@@ -875,7 +875,7 @@
         <div class="view overlay z-depth-1-half">
           <img src="/wp-content/themes/mdbtheme/img/gallery/tnr_program.jpg" class="img-fluid"
             alt="">
-          <a href="#">
+          <a href="https://sosanimalrescue.org/trap-neuter-return-tnr" target="_blank">
             <div class="mask rgba-white-light"></div>
           </a>
         </div>
@@ -1238,7 +1238,7 @@
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span></button>
                             
-                                        <h3 class="font-weight-normal mb-1">Maddie</h3>
+                                        <h3 class="font-weight-normal mb-1">Maddie J.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
                                         Hello my name is Maddie and I provide pet sitting, dog walking, and overnight stay services. I am a junior in college at GVSU studying writing. 
@@ -1277,13 +1277,13 @@
                             <div class="card">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/emily.jpg" alt="Emily">
+                                        <img class="img-fluid rounded-left" src="/wp-content/themes/mdbtheme/img/team/emily.jpg" alt="Emily L.">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span></button>
                             
-                                        <h3 class="font-weight-normal mb-1">Emily</h3>
+                                        <h3 class="font-weight-normal mb-1">Emily L.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
                                         Hi Everyone! My name is Emily and I am very excited to be a part of Paula’s Pet Sitting team. I provide Pet Sitting, Dog Walks, Vacation Services, and Overnight House Sitting services in Midland, Michigan.
@@ -1299,8 +1299,8 @@
                                                 <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
                                                 <div class="d-flex justify-content-start">
                                                     <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. August 2021"></i></a>
-                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. August 2021"></i></a>
-                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. August 2021"></i></a>
+                                                    <!--<a class="text-muted pr-3" href="#"><i class="fas fa-bone material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Animal Behavior training through “Fetch Find”. August 2021"></i></a>
+                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. August 2021"></i></a>-->
                                                 </div>
                                             </li>
                                         </ul>
@@ -1411,6 +1411,14 @@
                                         <p class="text-muted">
                                         My name is a Kasandra, I am a dog mommy of two. I have a 12 year old Aussie and a 3 year old Jack Russell. I have lived in Midland for my entire life - so 19 years! As a kid, I spent my time helping out with 4-H and absolutely loved it. I previously worked at a petting farm where I cared for baby animals on a daily basis. I always have loved dogs and cats so much and just want to share my love with your animals too.
                                         </p>
+                                        <ul class="list-unstyled font-small mt-5 mb-0">
+                                            <li>
+                                                <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                                <div class="d-flex justify-content-start">
+                                                    <a class="text-muted pr-3" href="#"><i class="fas fa-plus-square material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="The American Red Cross “Cat and Dog First Aid Training”. August 2021"></i></a>
+                                                </div>
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
