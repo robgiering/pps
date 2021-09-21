@@ -1948,10 +1948,7 @@
                                         all of God’s creatures. I own 4 alpacas (with a baby cria on the way!!!), a ram,
                                         three sheep, dozen chickens, two barn cats, and an old dog. Taking care of my
                                         hobby farm is a daily blessing and I cant wait to share my love with your pet as
-                                        well.
-                                    </p>
-                                    <p class="text-muted">
-                                        I look forward to meeting you and spending quality time with your pets!
+                                        well. I look forward to meeting you and spending quality time with your pets!
                                     </p>
                                     <ul class="list-unstyled font-small mt-5 mb-0">
                                         <li>
