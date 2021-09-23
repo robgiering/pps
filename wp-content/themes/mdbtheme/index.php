@@ -241,22 +241,6 @@
                                         <div class="row d-flex align-items-center">
                                             <div
                                                 class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter6"><img
-                                                        src="/wp-content/themes/mdbtheme/img/team/emily_thumb.jpg"
-                                                        class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
-                                            </div>
-                                            <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Emily L.</h6>
-                                                <p class="text-muted">
-                                                    Pet Care Provider
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4 col-sm-6 mb-5">
-                                        <div class="row d-flex align-items-center">
-                                            <div
-                                                class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
                                                 <a data-toggle="modal" data-target="#petsitter10"><img
                                                         src="/wp-content/themes/mdbtheme/img/team/geovanni_thumb.jpg"
                                                         class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
@@ -1914,61 +1898,6 @@
                 </div>
             </div>
 
-            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter6"
-                aria-hidden="true">
-                <div class="modal-dialog modal-xl">
-                    <div class="modal-content">
-
-
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span></button>
-                        </button>
-                    </div>
-
-                    <section>
-                        <div class="card">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <img class="img-fluid rounded-left"
-                                        src="/wp-content/themes/mdbtheme/img/team/emily.jpg" alt="Emily L.">
-                                </div>
-                                <div class="col-md-6 p-5 align-self-center">
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span></button>
-
-                                    <h3 class="font-weight-normal mb-1">Emily L.</h3>
-                                    <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
-                                    <p class="text-muted">
-                                        Hi Everyone! My name is Emily and I am very excited to be a part of Paula’s Pet
-                                        Sitting team. I provide Pet Sitting, Dog Walks, Vacation Services, and Overnight
-                                        House Sitting services in Midland, Michigan.
-                                    </p>
-                                    <p class="text-muted">
-                                        As a farmer, veteran, and forever animal lover, I have a passion for caring for
-                                        all of God’s creatures. I own 4 alpacas (with a baby cria on the way!!!), a ram,
-                                        three sheep, dozen chickens, two barn cats, and an old dog. Taking care of my
-                                        hobby farm is a daily blessing and I cant wait to share my love with your pet as
-                                        well. I look forward to meeting you and spending quality time with your pets!
-                                    </p>
-                                    <ul class="list-unstyled font-small mt-5 mb-0">
-                                        <li>
-                                            <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
-                                            <div class="d-flex justify-content-start">
-                                                <a class="text-muted pr-3" href="#"><i
-                                                        class="fas fa-plus-square material-tooltip-main"
-                                                        data-toggle="tooltip" data-placement="bottom"
-                                                        title="The American Red Cross “Cat and Dog First Aid Training”. August 2021"></i></a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-        -->
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
