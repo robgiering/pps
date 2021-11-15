@@ -285,6 +285,22 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-lg-4 col-sm-6 mb-5">
+                                        <div class="row d-flex align-items-center">
+                                            <div
+                                                class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
+                                                <a data-toggle="modal" data-target="#petsitter13"><img
+                                                        src="/wp-content/themes/mdbtheme/img/team/sarah_thumb.jpg"
+                                                        class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                            </div>
+                                            <div class="col-7">
+                                                <h6 class="font-weight-bold pt-2">Sarah N.</h6>
+                                                <p class="text-muted">
+                                                    Pet Care Provider
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                             </section>
                         </div>
                     </div>
@@ -2143,6 +2159,49 @@
             </div>
         </div>
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter12"
+            aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+
+                    <section>
+                        <div class="card">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img class="img-fluid rounded-left"
+                                        src="/wp-content/themes/mdbtheme/img/team/sarah.jpg" alt="Sarah N.">
+                                </div>
+                                <div class="col-md-6 p-5 align-self-center">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span></button>
+
+                                    <h3 class="font-weight-normal mb-1">Sarah N.</h3>
+                                    <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                    <p class="text-muted">
+                                        Hello! My name is Sarah and I have 2 dogs and 3 cats. I have experience caring for a wide variety of animals including cats and dogs, rabbits, reptiles, rodents, and birds. I can provide many services such as walks and play, feeding and administering medications, clean up, pet taxi, overnight care, and am always open to learning more and helping in any way I can.
+                                    </p>
+                                    <p class="text-muted">
+                                        I was born and raised in Midland, and have a deep passion for animals and helping out fellow animal lovers. I am very honored to be invited to join Paula's team. I can't wait to meet you and your pets!
+                                    </p>
+                                    <!--
+                                    <ul class="list-unstyled font-small mt-5 mb-0">
+                                        <li>
+                                            <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                            <div class="d-flex justify-content-start">
+                                                <a class="text-muted pr-3" href="#"><i
+                                                        class="fas fa-plus-square material-tooltip-main"
+                                                        data-toggle="tooltip" data-placement="bottom"
+                                                        title="The American Red Cross “Cat and Dog First Aid Training”. September 2021"></i></a>
+                                            </div>
+                                        </li>
+                                    </ul>-->
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter13"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
