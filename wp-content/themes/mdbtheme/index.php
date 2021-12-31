@@ -328,7 +328,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse1" aria-expanded="false"
                                 aria-controls="servicesCollapse1">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    15-Minute Visit: One Dog / Cats & Small Pets - $15 <i
+                                    15-Minute Visit: One Dog / Cats & Small Pets - $17 <i
                                         class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
@@ -366,7 +366,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse2" aria-expanded="false"
                                 aria-controls="servicesCollapse2">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    30-Minute Visit or Dog Walk - $20 <i class="fas fa-angle-down rotate-icon"></i>
+                                    30-Minute Visit or Dog Walk - $22 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
@@ -391,7 +391,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse3" aria-expanded="false"
                                 aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    60-Minute Visit or Dog Walk - $35 <i class="fas fa-angle-down rotate-icon"></i>
+                                    60-Minute Visit or Dog Walk - $37 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
@@ -416,7 +416,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse4" aria-expanded="false"
                                 aria-controls="servicesCollapse3">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    Night-Time Pet Care - $75 <i class="fas fa-angle-down rotate-icon"></i>
+                                    Overnight House Sitting - $85 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
@@ -454,7 +454,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse6" aria-expanded="false"
                                 aria-controls="servicesCollapse6">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    30-Min Pet Taxi - $20 <i class="fas fa-angle-down rotate-icon"></i>
+                                    30-Min Pet Taxi - $22 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
@@ -477,7 +477,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse7" aria-expanded="false"
                                 aria-controls="servicesCollapse7">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    60-Minute Pet Taxi - $35 <i class="fas fa-angle-down rotate-icon"></i>
+                                    60-Minute Pet Taxi - $37 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
@@ -500,7 +500,7 @@
                             <a class="collapsed" data-toggle="collapse" href="#servicesCollapse8" aria-expanded="false"
                                 aria-controls="servicesCollapse8">
                                 <h5 class="mb-0 white-text text-uppercase font-thin">
-                                    Poop Scooping Service - $25 <i class="fas fa-angle-down rotate-icon"></i>
+                                    Poop Scooping Service - $27 <i class="fas fa-angle-down rotate-icon"></i>
                                 </h5>
                             </a>
                         </div>
