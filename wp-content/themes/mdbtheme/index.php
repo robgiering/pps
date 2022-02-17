@@ -173,12 +173,12 @@
                                             <div
                                                 class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
                                                 <a data-toggle="modal" data-target="#petsitter5"><img
-                                                        src="/wp-content/themes/mdbtheme/img/team/maddie_thumb.jpg"
+                                                        src="/wp-content/themes/mdbtheme/img/team/brandon_thumb.jpg"
                                                         class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
                                                 <h6 class="font-weight-bold pt-2"><a data-toggle="modal"
-                                                        data-target="#petsitter5">Maddie J.</a></h6>
+                                                        data-target="#petsitter5">Brendan A.</a></h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -253,6 +253,7 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <!--
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div
@@ -269,6 +270,7 @@
                                             </div>
                                         </div>
                                     </div>
+-->
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div
@@ -424,23 +426,12 @@
                         <div id="servicesCollapse4" class="collapse" role="tabpanel" aria-labelledby="servicesHeading4"
                             data-parent="#services">
                             <div class="card-body mb-1 rgba-grey-light white-text">
-                                <p>The Night Time Pet Care option is perfect for medically fragile or highly anxious
-                                    pets OR for pets that just need a bit more TLC. By having a Pet Sitter in your home
-                                    all night, you receive the benefits of home security, monitoring for power outages,
-                                    flooding and to give your home a lived in appearance in addition to never leaving
-                                    your pet alone. Our pet sitters will even share their bed with the pet as long as
-                                    the pet sleeps through the night!</p>
                                 <ul>
-                                    <li>The pet sitter will arrive and leave at the times detailed below, so you must
-                                        plan your trip accordingly. Your Night Time Pet Sitter will be chosen from
-                                        whomever on your team has availability. Be sure to leave detailed written
-                                        instructions for your pet’s care in our Time to Pet software.</li>
-                                    <li>The Night Time pet sitter will stay in your home from 9 p.m. to 7 a.m. You do
-                                        not need to have a pet to benefit from our house sitting service.</li>
-                                    <li>Night Time Pet Care service will include a free 30-minute dinner visit between 5
-                                        and 6 p.m.</li>
-                                    <li>Call ahead for service availability. Subject to late notice and holiday
-                                        surcharges.</li>
+                            <li>The Night Time Pet Care option is perfect for medically fragile or highly anxious pets OR for pets that just need a bit more TLC. By having a Pet Sitter in your home all night, you receive the benefits of home security, monitoring for power outages or flooding, giving your home a lived in appearance in addition to never leaving your pet alone. Our pet sitters will even share their bed with the pet as long as the pet sleeps through the night!</li>
+                            <li>The pet sitter will arrive and leave at the times detailed below, so you must plan your trip accordingly. Your Night Time Pet Sitter will be chosen from whomever on your team has availability. Be sure to leave detailed written instructions for your pet’s care in our Time to Pet software.</li>
+                            <li>The Night Time pet sitter will stay in your home from 9:15 p.m. to 6:45 a.m. You do not need to have a pet to benefit from our house sitting service.</li>
+                            <li>Night Time Pet Care service will include a free 30-minute dinner visit between 4 and 6 p.m.</li>
+                            <li>Call ahead for service availability. Subject to late notice and holiday surcharges. During the holidays we require a minimum of 3 consecutive overnight services.</li>
                                 </ul>
                                 <p>** Overnight House Sitting in NOT currently available in Sanford or Hope.</p>
                             </div>
@@ -1137,46 +1128,14 @@
                                                         aria-labelledby="faqFullHeading14" data-parent="#faqFull">
                                                         <div class="card-body">
                                                             <ul>
-                                                                <li>The safest and most efficient method for our Pet
-                                                                    Sitters to enter your home is by using a lockbox.
+                                                                <li>The safest and most efficient method for our Pet Sitters to enter your home is by using a lockbox.</li>
+                                                                <li>You may lease a lockbox from Paula’s Pet Sitting for $14 (subject to price change & availability). This charge will be added to your first invoice. We will provide this lockbox at the M&G.
                                                                 </li>
-                                                                <li>You may lease a lockbox from Paula’s Pet Sitting for
-                                                                    $12 (subject to price change & availability). This
-                                                                    charge will be added to your first invoice. We will
-                                                                    provide this lockbox at the M&G. At the M&G we need
-                                                                    you to have 2 keys ready for us. One key will go
-                                                                    back to the key safe in our office. The other key
-                                                                    stays in the lockbox at your home as long as you are
-                                                                    a client. We still do require that you provide a
-                                                                    back-up key for our key safe.</li>
-                                                                <li>The other option, and in my opinion the very best
-                                                                    option, is for you to purchase a wall-mounted key
-                                                                    lockbox that is anchored/screwed onto the outside of
-                                                                    your home or bolted onto a fence near the front of
-                                                                    your house. We especially like the wall mounted ones
-                                                                    because they are not subject to getting iced over in
-                                                                    the winter and can be securely mounted to the
-                                                                    doorframe of your garage door. It is your
-                                                                    responsibility to ensure that a key is always
-                                                                    available in the wall mounted key lockbox. If you
-                                                                    change the combination, you must inform us of that
-                                                                    change so that we can update your profile. We still
-                                                                    require that you have a backup key available for us
-                                                                    at the Meet and Greet, which will go back to our
-                                                                    office keysafe. You can find wall mount lock boxes
-                                                                    online at Amazon and at most local hardware stores.
+                                                                <li>At the M&G we need you to have 2 keys ready for us. One key will go back to the key safe in our office. The other key stays in the lockbox at your home as long as you are a client. </li>
+                                                                <li>The other option, and in my opinion the very best option, is for you to purchase a wall-mounted key lockbox that is anchored/screwed onto the outside of your home or bolted onto a fence near the front of your house. We especially like the wall mounted ones because they are not subject to getting iced over in the winter and can be securely mounted to the doorframe of your garage door. It is your responsibility to ensure that a key is always available in the wall mounted key lockbox. If you change the combination, you must inform us of that change so that we can update your profile. We still require that you have a backup key available for us at the Meet and Greet, which will go back to our office keysafe. You can find wall mount lock boxes online at Amazon and at most local hardware stores.
                                                                 </li>
-                                                                <li>Apartments:</li>
-                                                                <li>We will provide a secure “Over the Door Hanger” for
-                                                                    the lockbox. The cost to lease both is $14. We ask
-                                                                    clients who live in apartments to hang it from the
-                                                                    top of their front door prior to scheduled visits
-                                                                    and feel free to bring in the lockbox at the
-                                                                    conclusion of our visits.</li>
-                                                                <li>*** If our Pet Sitters are not able to open the
-                                                                    lockbox that you provide (or if the key is missing),
-                                                                    there is an additional $10 to pick up the back-up
-                                                                    key from our office.</li>
+                                                                <li>Apartments: We will provide a secure “Over the Door Hanger” for the lockbox. The cost to lease both is $16. We ask clients who live in apartments to hang it from the top of their front door prior to scheduled visits and feel free to bring in the lockbox at the conclusion of our visits.</li>
+                                                                <li>*** If our Pet Sitters are not able to open the lockbox that you provide (or if the key is missing), there is an additional $10 to pick up the back-up key from our office.</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -1872,23 +1831,18 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <img class="img-fluid rounded-left"
-                                            src="/wp-content/themes/mdbtheme/img/team/maddie.jpg" alt="Maddie">
+                                            src="/wp-content/themes/mdbtheme/img/team/brandon.jpg" alt="Brendan">
                                     </div>
                                     <div class="col-md-6 p-5 align-self-center">
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span></button>
 
-                                        <h3 class="font-weight-normal mb-1">Maddie J.</h3>
+                                        <h3 class="font-weight-normal mb-1">Brendan A.</h3>
                                         <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                         <p class="text-muted">
-                                            Hello my name is Maddie and I provide pet sitting, dog walking, and
-                                            overnight stay services. I am a junior in college at GVSU studying writing.
+                                        I was born in Sanford but have lived in Midland for 6 years. I have been around and taken care of animals all of my life, from cats and dogs to birds and lizards. I currently have 3 kitties named Murdock, Monsieur Kitty, and Boots!
                                         </p>
-                                        <p class="text-muted">My experience with animals extends to my early childhood,
-                                            such as raising chickens, caring for horses, and training dogs. I have my
-                                            own cat named Stormy, and dog Scout. We live in Midland Michigan.</p>
-                                        <p class="text-muted">I love meeting new animals to befriend everywhere I go,
-                                            and I am always excited to meet more!</p>
+                                        <p class="text-muted">I currently provide Pet Sitting, Dog Walking, and Overnight services too.  I hope I get the opportunity to meet and take care of your wonderful pets!</p>
                                         <ul class="list-unstyled font-small mt-5 mb-0">
                                             <li>
                                                 <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
@@ -1896,12 +1850,12 @@
                                                     <a class="text-muted pr-3" href="#"><i
                                                             class="fas fa-plus-square material-tooltip-main"
                                                             data-toggle="tooltip" data-placement="bottom"
-                                                            title="The American Red Cross “Cat and Dog First Aid Training”. 2021"></i></a>
-                                                    <a class="text-muted pr-3" href="#"><i
+                                                            title="The American Red Cross “Cat and Dog First Aid Training”. February 2021"></i></a>
+                                                    <!-- <a class="text-muted pr-3" href="#"><i
                                                             class="fas fa-bone material-tooltip-main"
                                                             data-toggle="tooltip" data-placement="bottom"
                                                             title="Animal Behavior training through “Fetch Find”. June 2021"></i></a>
-                                                    <!--<a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
+                                                   <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
                                                 -->
                                                 </div>
                                             </li>
@@ -2039,12 +1993,7 @@
                                     <h3 class="font-weight-normal mb-1">Kasandra J.</h3>
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
-                                        My name is a Kasandra, I am a dog mommy of two. I have a 12 year old Aussie and
-                                        a 3 year old Jack Russell. I have lived in Midland for my entire life - so 19
-                                        years! As a kid, I spent my time helping out with 4-H and absolutely loved it. I
-                                        previously worked at a petting farm where I cared for baby animals on a daily
-                                        basis. I always have loved dogs and cats so much and just want to share my love
-                                        with your animals too.
+                                    My name is a Kasandra, I am a dog mommy of two. I have a mega mutt and a Patterdale terrier! I have lived in Midland for my entire life. As a kid, I spent my time helping out with 4-H and absolutely loved it. I previously worked at a petting farm where I cared for baby animals on a daily basis. I always have loved dogs and cats so much and just want to share my love with your animals too.
                                     </p>
                                     <ul class="list-unstyled font-small mt-5 mb-0">
                                         <li>
@@ -2110,6 +2059,7 @@
                 </div>
             </div>
         </div>
+        <!--
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter11"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
@@ -2157,7 +2107,7 @@
                     </section>
                 </div>
             </div>
-        </div>
+        </div>-->
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter13"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
