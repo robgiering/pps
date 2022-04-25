@@ -253,24 +253,24 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!--
+                                    
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div
                                                 class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
                                                 <a data-toggle="modal" data-target="#petsitter11"><img
-                                                        src="/wp-content/themes/mdbtheme/img/team/addie_thumb.jpg"
+                                                        src="/wp-content/themes/mdbtheme/img/team/chris_thumb.jpg"
                                                         class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Addie B.</h6>
+                                                <h6 class="font-weight-bold pt-2">Chris S.</h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
                                             </div>
                                         </div>
                                     </div>
--->
+
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
                                             <div
@@ -2059,7 +2059,6 @@
                 </div>
             </div>
         </div>
-        <!--
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter11"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
@@ -2070,25 +2069,20 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <img class="img-fluid rounded-left"
-                                        src="/wp-content/themes/mdbtheme/img/team/addie.jpg" alt="Addie B.">
+                                        src="/wp-content/themes/mdbtheme/img/team/chris.jpg" alt="Chris S.">
                                 </div>
                                 <div class="col-md-6 p-5 align-self-center">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span></button>
 
-                                    <h3 class="font-weight-normal mb-1">Addie B.</h3>
+                                    <h3 class="font-weight-normal mb-1">Chris S.</h3>
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
-                                        My name is Addie, I am a mother of 3, grandmother of 1, and dog mom of 2. I have
-                                        a husky and a husky/pit at home named Nancy and Luna. They are my babies now
-                                        that I have an “empty nest”. I have a long background in 4-H and showed dogs,
-                                        horses, rabbits, sheep, chickens, and pigs when I was younger. I grew up with
-                                        much love and respect for all animals and that continues on today.
+                                    Hello everyone, my name is Chris Switala. I'm a lifelong Midland resident with extensive pet care experience and a love for all animals. 
+                                    My love for animals and wanting to learning everything about them led me to completing a degree in Zoology from Michigan State University. 
                                     </p>
-                                    <p class="text-muted">I currently work in private security and am a current student
-                                        of Criminal Justice at Delta College. I previously worked for Paula’s Pet
-                                        Sitting and am returning after taking some time off to concentrate on my career
-                                        and education. I am excited to be back!
+                                    <p class="text-muted">I currently have a Dachshund named Louie, a cat named Pickle as well as a tank of fancy goldfish. 
+                                        I very much look forward to meeting you and the many pets of Midland!
                                     </p>
                                     <ul class="list-unstyled font-small mt-5 mb-0">
                                         <li>
@@ -2097,7 +2091,7 @@
                                                 <a class="text-muted pr-3" href="#"><i
                                                         class="fas fa-plus-square material-tooltip-main"
                                                         data-toggle="tooltip" data-placement="bottom"
-                                                        title="The American Red Cross “Cat and Dog First Aid Training”. September 2021"></i></a>
+                                                        title="The American Red Cross “Cat and Dog First Aid Training”. April 2022"></i></a>
                                             </div>
                                         </li>
                                     </ul>
@@ -2107,7 +2101,7 @@
                     </section>
                 </div>
             </div>
-        </div>-->
+        </div>
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter13"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
