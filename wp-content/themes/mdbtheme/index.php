@@ -303,6 +303,22 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-lg-4 col-sm-6 mb-5">
+                                        <div class="row d-flex align-items-center">
+                                            <div
+                                                class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
+                                                <a data-toggle="modal" data-target="#petsitter14"><img
+                                                        src="/wp-content/themes/mdbtheme/img/team/zack_thumb.jpg"
+                                                        class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                            </div>
+                                            <div class="col-7">
+                                                <h6 class="font-weight-bold pt-2">Zack</h6>
+                                                <p class="text-muted">
+                                                    Pet Care Provider
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                             </section>
                         </div>
                     </div>
@@ -2102,6 +2118,51 @@
                 </div>
             </div>
         </div>
+        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter12"
+            aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+
+                    <section>
+                        <div class="card">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img class="img-fluid rounded-left"
+                                        src="/wp-content/themes/mdbtheme/img/team/isabella.jpg" alt="Isabella J.">
+                                </div>
+                                <div class="col-md-6 p-5 align-self-center">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span></button>
+
+                                    <h3 class="font-weight-normal mb-1">Isabella J.</h3>
+                                    <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                    <p class="text-muted">
+                                        Hi! My name is Isabella and I provide Pet Sitting, Dog Walks, Pet Taxi, Vacation
+                                        Services, and Overnight Care. I’m originally from Switzerland but have lived in
+                                        Midland since 2003 and currently share my home with my son and our beloved cat
+                                        Aliena. For the past 15 years I have been volunteering with SOS Animal Rescue
+                                        where I currently serve as a director. After 25+ years of corporate jobs I’m
+                                        very excited to be part of Paula’s team and I can’t wait to meet you and your
+                                        Fur Babies!
+                                    </p>
+                                    <ul class="list-unstyled font-small mt-5 mb-0">
+                                        <li>
+                                            <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                            <div class="d-flex justify-content-start">
+                                                <a class="text-muted pr-3" href="#"><i
+                                                        class="fas fa-plus-square material-tooltip-main"
+                                                        data-toggle="tooltip" data-placement="bottom"
+                                                        title="The American Red Cross “Cat and Dog First Aid Training”. September 2021"></i></a>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter13"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
@@ -2145,7 +2206,7 @@
                 </div>
             </div>
         </div>
-        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter12"
+        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter14"
             aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
@@ -2155,23 +2216,18 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <img class="img-fluid rounded-left"
-                                        src="/wp-content/themes/mdbtheme/img/team/isabella.jpg" alt="Isabella J.">
+                                        src="/wp-content/themes/mdbtheme/img/team/zack.jpg" alt="Zack">
                                 </div>
                                 <div class="col-md-6 p-5 align-self-center">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span></button>
 
-                                    <h3 class="font-weight-normal mb-1">Isabella J.</h3>
+                                    <h3 class="font-weight-normal mb-1">Zack</h3>
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
-                                        Hi! My name is Isabella and I provide Pet Sitting, Dog Walks, Pet Taxi, Vacation
-                                        Services, and Overnight Care. I’m originally from Switzerland but have lived in
-                                        Midland since 2003 and currently share my home with my son and our beloved cat
-                                        Aliena. For the past 15 years I have been volunteering with SOS Animal Rescue
-                                        where I currently serve as a director. After 25+ years of corporate jobs I’m
-                                        very excited to be part of Paula’s team and I can’t wait to meet you and your
-                                        Fur Babies!
+                                    Hi everyone!  I am so excited to be part of the Paula’s Pet Sitting team. I share my home with my two cats and my two ratties. I have had animals my whole life from goats to lizards to birds and chinchillas! I’ve always had a love for them and I’m looking forward to taking care your yours!
                                     </p>
+                                    <!--
                                     <ul class="list-unstyled font-small mt-5 mb-0">
                                         <li>
                                             <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
@@ -2182,7 +2238,7 @@
                                                         title="The American Red Cross “Cat and Dog First Aid Training”. September 2021"></i></a>
                                             </div>
                                         </li>
-                                    </ul>
+                                    </ul>-->
                                 </div>
                             </div>
                         </div>
