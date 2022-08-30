@@ -168,23 +168,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 col-sm-6 mb-5">
-                                        <div class="row d-flex align-items-center">
-                                            <div
-                                                class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
-                                                <a data-toggle="modal" data-target="#petsitter5"><img
-                                                        src="/wp-content/themes/mdbtheme/img/team/brandon_thumb.jpg"
-                                                        class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
-                                            </div>
-                                            <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2"><a data-toggle="modal"
-                                                        data-target="#petsitter5">Brendan A.</a></h6>
-                                                <p class="text-muted">
-                                                    Pet Care Provider
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
 
                                     <div class="col-lg-4 col-sm-6 mb-5">
                                         <div class="row d-flex align-items-center">
@@ -1837,7 +1820,7 @@
                     </div>
                 </div>
             </div>
-            <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5"
+            <!--<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter5"
                 aria-hidden="true">
                 <div class="modal-dialog modal-xl">
                     <div class="modal-content">
@@ -1867,12 +1850,12 @@
                                                             class="fas fa-plus-square material-tooltip-main"
                                                             data-toggle="tooltip" data-placement="bottom"
                                                             title="The American Red Cross “Cat and Dog First Aid Training”. February 2021"></i></a>
-                                                    <!-- <a class="text-muted pr-3" href="#"><i
+                                                    <a class="text-muted pr-3" href="#"><i
                                                             class="fas fa-bone material-tooltip-main"
                                                             data-toggle="tooltip" data-placement="bottom"
                                                             title="Animal Behavior training through “Fetch Find”. June 2021"></i></a>
                                                    <a class="text-muted" href="#"><i class="fas fa-virus material-tooltip-main" data-toggle="tooltip" data-placement="bottom" title="Covid-19 Certification. June 2020"></i></a>
-                                                -->
+                                              
                                                 </div>
                                             </li>
                                         </ul>
@@ -1882,7 +1865,7 @@
                         </section>
                     </div>
                 </div>
-            </div>
+            </div>  -->
 
         <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter7"
             aria-hidden="true">
