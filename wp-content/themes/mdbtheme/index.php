@@ -225,11 +225,11 @@
                                             <div
                                                 class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
                                                 <a data-toggle="modal" data-target="#petsitter10"><img
-                                                        src="/wp-content/themes/mdbtheme/img/team/geovanni_thumb.jpg"
+                                                        src="/wp-content/themes/mdbtheme/img/team/keith_thumb.jpg"
                                                         class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Geovanni S.</h6>
+                                                <h6 class="font-weight-bold pt-2">Keith B.</h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -295,7 +295,23 @@
                                                         class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
                                             </div>
                                             <div class="col-7">
-                                                <h6 class="font-weight-bold pt-2">Zack</h6>
+                                                <h6 class="font-weight-bold pt-2">Zack Z.</h6>
+                                                <p class="text-muted">
+                                                    Pet Care Provider
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-sm-6 mb-5">
+                                        <div class="row d-flex align-items-center">
+                                            <div
+                                                class="col-5 avatar w-100 white d-flex justify-content-center align-items-center">
+                                                <a data-toggle="modal" data-target="#petsitter15"><img
+                                                        src="/wp-content/themes/mdbtheme/img/team/hannah_thumb.jpg"
+                                                        class="img-fluid rounded-circle z-depth-1 hoverable" /></a>
+                                            </div>
+                                            <div class="col-7">
+                                                <h6 class="font-weight-bold pt-2">Hannah M.</h6>
                                                 <p class="text-muted">
                                                     Pet Care Provider
                                                 </p>
@@ -2022,23 +2038,18 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <img class="img-fluid rounded-left"
-                                        src="/wp-content/themes/mdbtheme/img/team/geovanni.jpg" alt="Geovanni S.">
+                                        src="/wp-content/themes/mdbtheme/img/team/keith.jpg" alt="Keith B.">
                                 </div>
                                 <div class="col-md-6 p-5 align-self-center">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span></button>
 
-                                    <h3 class="font-weight-normal mb-1">Geovanni S.</h3>
+                                    <h3 class="font-weight-normal mb-1">Keith B.</h3>
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
-                                        Hello! I have lived in Midland for most of my life and love animals! I grew up
-                                        in a large family with lots of pets, including big dogs, little dogs, cats,
-                                        bunnies, fish and even a lizard. I am super excited to be a part of the team
-                                        here at Paula's Pet Sitting.
-                                    </p>
-                                    <p class="text-muted">
-                                        I currently have one cat and her name is Indigo Beans. I can't wait to meet and
-                                        befriend your wonderful pets!
+                                    Hello Midland! I am a lifelong resident of our fair city. I've been around cats and dogs my whole life and never once been without a fuzzy friend in my home. 
+                                    ow I'm excited to be a part of the Paula's Pet Sitting Team and share my love for every kind of critter with everyone. 
+                                    I currently have a wonderful (if a bit yappy) schnauzer named Purl.  I can't wait to meet you and your pets soon!
                                     </p>
                                     <ul class="list-unstyled font-small mt-5 mb-0">
                                         <li>
@@ -2199,16 +2210,56 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <img class="img-fluid rounded-left"
-                                        src="/wp-content/themes/mdbtheme/img/team/zack.jpg" alt="Zack">
+                                        src="/wp-content/themes/mdbtheme/img/team/zack.jpg" alt="Zack Z.">
                                 </div>
                                 <div class="col-md-6 p-5 align-self-center">
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span></button>
 
-                                    <h3 class="font-weight-normal mb-1">Zack</h3>
+                                    <h3 class="font-weight-normal mb-1">Zack Z.</h3>
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
                                     Hi everyone!  I am so excited to be part of the Paula’s Pet Sitting team. I share my home with my two cats and my two ratties. I have had animals my whole life from goats to lizards to birds and chinchillas! I’ve always had a love for them and I’m looking forward to taking care your yours!
+                                    </p>
+                                    <!--
+                                    <ul class="list-unstyled font-small mt-5 mb-0">
+                                        <li>
+                                            <p class="text-uppercase mt-4 mb-2"><strong>Training</strong></p>
+                                            <div class="d-flex justify-content-start">
+                                                <a class="text-muted pr-3" href="#"><i
+                                                        class="fas fa-plus-square material-tooltip-main"
+                                                        data-toggle="tooltip" data-placement="bottom"
+                                                        title="The American Red Cross “Cat and Dog First Aid Training”. September 2021"></i></a>
+                                            </div>
+                                        </li>
+                                    </ul>-->
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" id="petsitter15"
+            aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+
+                    <section>
+                        <div class="card">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <img class="img-fluid rounded-left"
+                                        src="/wp-content/themes/mdbtheme/img/team/hannah.jpg" alt="Hannah M.">
+                                </div>
+                                <div class="col-md-6 p-5 align-self-center">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span></button>
+
+                                    <h3 class="font-weight-normal mb-1">Hannah M.</h3>
+                                    <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
+                                    <p class="text-muted">
+                                    Hello, I am born and raised in Sanford. I love my community and  love to participate in community activities.  I currently have 3 Guinea pigs, 3 dogs, cat and a horse. I have 9 years of pet experience between small pets to farm animals! My biggest involvement has been my experience with horses. The amount of patience and trust you built with such a large, unpredictable animal has allowed me to understand all types of animals and not be afraid. I’m excited to be apart of the team and am looking forward to working with you and your wonderful animals!
                                     </p>
                                     <!--
                                     <ul class="list-unstyled font-small mt-5 mb-0">
