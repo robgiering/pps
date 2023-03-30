@@ -2048,7 +2048,7 @@
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
                                     Hello Midland! I am a lifelong resident of our fair city. I've been around cats and dogs my whole life and never once been without a fuzzy friend in my home. 
-                                    ow I'm excited to be a part of the Paula's Pet Sitting Team and share my love for every kind of critter with everyone. 
+                                    Now I'm excited to be a part of the Paula's Pet Sitting Team and share my love for every kind of critter with everyone. 
                                     I currently have a wonderful (if a bit yappy) schnauzer named Purl.  I can't wait to meet you and your pets soon!
                                     </p>
                                     <ul class="list-unstyled font-small mt-5 mb-0">
@@ -2259,7 +2259,11 @@
                                     <h3 class="font-weight-normal mb-1">Hannah M.</h3>
                                     <h5 class="font-weight-normal mb-3">Pet Care Provider</h5>
                                     <p class="text-muted">
-                                    Hello, I am born and raised in Sanford. I love my community and  love to participate in community activities.  I currently have 3 Guinea pigs, 3 dogs, cat and a horse. I have 9 years of pet experience between small pets to farm animals! My biggest involvement has been my experience with horses. The amount of patience and trust you built with such a large, unpredictable animal has allowed me to understand all types of animals and not be afraid. I’m excited to be apart of the team and am looking forward to working with you and your wonderful animals!
+                                    Hello, I am born and raised in Sanford.
+                                     I love my community and  love to participate in community activities.
+                                      I currently have 3 Guinea pigs, 3 dogs, a cat and a horse. I have 9 years of pet experience between small pets to farm animals! 
+                                      My biggest involvement has been my experience with horses. The amount of patience and trust you build with such a large, unpredictable animal has allowed me to understand all types of animals and not be afraid.
+                                     I’m excited to be a part of the team and am looking forward to working with you and your wonderful animals!
                                     </p>
                                     <!--
                                     <ul class="list-unstyled font-small mt-5 mb-0">
