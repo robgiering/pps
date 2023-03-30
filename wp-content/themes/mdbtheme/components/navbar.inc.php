@@ -51,7 +51,7 @@
 
 </header>
 <section>
-<div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(/wp-content/themes/mdbtheme/img/team/team-photo-march-2023.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center; padding-top: 40px">
+<div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(/wp-content/themes/mdbtheme/img/team/team-photo-march-2023.jpg); background-repeat: no-repeat; background-size: cover; background-position: top center; padding-top: 40px">
       <div class="mask rgba-black-light">
         <div class="container h-100 d-flex justify-content-center align-items-center">
           <div class="row pt-5 mt-3">
